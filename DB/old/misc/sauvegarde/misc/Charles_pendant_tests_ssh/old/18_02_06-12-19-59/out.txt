@@ -1,0 +1,10 @@
+$GPGSV,3,3,12,09,12,090,,15,12,279,,21,06,332,,27,00,025,*77
+$GPRMC,111959.145,V,,,,,,,060218,,,N*44
+$GPGGA,112000.144,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,112000.144,V,,,,,,,060218,,,N*43
+Survey start at #CCLK: "18/02/06,12:20:00+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/06,12:20:00+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.

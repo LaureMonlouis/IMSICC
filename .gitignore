@@ -1,0 +1,30 @@
+## Ignore repositories and files not relevant for the project
+
+# Repository from research
+
+Data/
+datasheet/
+Docs/
+GPS/
+Modem/
+Old Docs/
+Pi/
+Redaction/
+Snoopsnitch/
+
+# Files from research
+
+.Meeting_Loufti.swp
+desktop.ini
+General.ods
+gsm_default.txt
+IMSI_1.odt
+Meeting_Loufti
+Notes_setup.txt
+Proposition_Projet_Pro.odt
+Proposition_Projet_Pro.pdf
+
+# Files from DropBox
+
+.dropbox
+

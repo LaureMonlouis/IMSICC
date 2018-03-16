@@ -1,0 +1,3601 @@
+$GPRMC,180725.279,A,4749.3962,N,00148.9458,W,7.58,228.14,090218,,,A*71
+$GPGGA,180726.279,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180726.279,V,,,,,,,090218,,,N*49
+Survey start at #CCLK: "18/02/09,19:07:27+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:07:27+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,180727.279,,,,,0,04,2.3,,M,0.0,M,,0000*7A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180727.279,V,,,,,,,090218,,,N*48
+$GPGGA,180728.279,,,,,0,04,2.3,,M,0.0,M,,0000*75
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180728.279,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:07:29+04"
+at#csurv
+Network survey started ...
+$GPGGA,180729.279,,,,,0,04,2.3,,M,0.0,M,,0000*74
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180729.279,V,,,,,,,090218,,,N*46
+$GPGGA,180730.279,,,,,0,04,2.3,,M,0.0,M,,0000*7C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,25,77,314,16,12,51,064,15,29,46,190,17,24,26,133,20*79
+$GPGSV,3,2,12,02,27,080,16,06,16,044,12,14,40,287,20,31,27,304,18*76
+$GPGSV,3,3,12,33,33,198,,32,42,253,,04,22,113,,03,00,339,*74
+$GPRMC,180730.279,V,,,,,,,090218,,,N*4E
+$GPGGA,180731.279,,,,,0,04,2.3,,M,0.0,M,,0000*7D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180731.279,V,,,,,,,090218,,,N*4F
+$GPGGA,180732.279,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180732.279,V,,,,,,,090218,,,N*4C
+$GPGGA,180733.279,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180733.279,V,,,,,,,090218,,,N*4D
+$GPGGA,180734.279,,,,,0,04,2.3,,M,0.0,M,,0000*78
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180734.279,V,,,,,,,090218,,,N*4A
+arfcn: 977 bsic: 0 rxLev: -73 ber: 0.00 mcc: 208 mnc: 20 lac: 413 cellId: 20508 cellStatus: CELL_SUITABLE numArfcn: 1 arfcn: 977 numChannels: 18 array: 975 976 979 980 981 982 984 985 1012 1013 1014 1016 1018 1022 788 791 793 881 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+$GPGGA,180735.279,,,,,0,04,2.3,,M,0.0,M,,0000*79
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,25,77,314,16,12,51,064,16,29,46,190,17,24,26,133,21*7B
+$GPGSV,3,2,12,02,27,080,15,14,40,287,17,31,27,304,26,33,33,198,*7E
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180735.279,V,,,,,,,090218,,,N*4B
+$GPGGA,180736.279,,,,,0,04,2.3,,M,0.0,M,,0000*7A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180736.279,V,,,,,,,090218,,,N*48
+$GPGGA,180737.279,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180737.279,V,,,,,,,090218,,,N*49
+$GPGGA,180738.279,,,,,0,04,2.3,,M,0.0,M,,0000*74
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180738.279,V,,,,,,,090218,,,N*46
+arfcn: 4 bsic: 1 rxLev: -75 ber: 0.00 mcc: 208 mnc: 01 lac: 10301 cellId: 62570 cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 4 17 18 19 20 21 22 23 24 25 26 27 28 29 43 44 45 46 47 48 49 numChannels: 13 array: 1 3 4 5 6 7 8 9 11 13 14 15 513 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 5 pcMeasCh: 1 
+arfcn: 116 rxLev: -83
+$GPGGA,180739.279,,,,,0,04,2.3,,M,0.0,M,,0000*75
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180739.279,V,,,,,,,090218,,,N*47
+$GPGGA,180740.279,,,,,0,04,2.3,,M,0.0,M,,0000*7B
+arfcn: 118 bsic: 24 rxLev: -85 ber: 0.00 mcc: 208 mnc: 10 lac: 6001 cellId: 31992 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 116 118 numChannels: 13 array: 76 77 78 81 82 84 86 113 114 115 120 121 124 pbcch: 0 nom: 2 rac: 61 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 7 pcMeasCh: 1 
+arfcn: 65 rxLev: -87
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 63 rxLev: -87
+arfcn: 62 rxLev: -88
+$GPGSV,3,1,12,25,77,314,16,12,51,064,16,29,46,190,17,24,26,133,21*7B
+arfcn: 64 rxLev: -88
+arfcn: 61 rxLev: -88
+$GPGSV,3,2,12,02,27,080,15,14,40,287,17,31,27,304,19,33,33,198,*72
+arfcn: 66 rxLev: -89
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 60 rxLev: -89
+$GPRMC,180740.279,V,,,,,,,090218,,,N*49
+arfcn: 58 rxLev: -90
+arfcn: 59 rxLev: -90
+arfcn: 978 rxLev: -90
+$GPGGA,180741.279,,,,,0,04,2.3,,M,0.0,M,,0000*7A
+arfcn: 67 rxLev: -91
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 57 rxLev: -91
+$GPRMC,180741.279,V,,,,,,,090218,,,N*48
+arfcn: 70 rxLev: -91
+arfcn: 976 rxLev: -91
+arfcn: 68 rxLev: -92
+arfcn: 69 rxLev: -92
+arfcn: 101 rxLev: -92
+arfcn: 53 rxLev: -92
+arfcn: 54 rxLev: -92
+arfcn: 55 rxLev: -92
+arfcn: 56 rxLev: -93
+$GPGGA,180742.279,,,,,0,00,,,M,0.0,M,,0000*52
+arfcn: 3 rxLev: -93
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 10 rxLev: -93
+$GPRMC,180742.279,V,,,,,,,090218,,,N*4B
+arfcn: 100 rxLev: -93
+arfcn: 71 rxLev: -93
+arfcn: 102 rxLev: -93
+arfcn: 103 rxLev: -93
+arfcn: 52 rxLev: -94
+$GPGGA,180743.279,,,,,0,04,2.3,,M,0.0,M,,0000*78
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180743.279,V,,,,,,,090218,,,N*4A
+$GPGGA,180744.279,,,,,0,04,2.3,,M,0.0,M,,0000*7F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180744.279,V,,,,,,,090218,,,N*4D
+$GPGGA,180745.279,,,,,0,04,2.3,,M,0.0,M,,0000*7E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,25,77,314,15,12,51,064,16,29,46,190,18,24,26,133,19*7C
+$GPGSV,3,2,12,02,27,080,14,14,40,287,19,31,27,304,24,33,33,198,*73
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180745.279,V,,,,,,,090218,,,N*4C
+$GPGGA,180746.279,,,,,0,04,2.3,,M,0.0,M,,0000*7D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180746.279,V,,,,,,,090218,,,N*4F
+$GPGGA,180747.279,,,,,0,04,2.3,,M,0.0,M,,0000*7C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180747.279,V,,,,,,,090218,,,N*4E
+arfcn: 982 bsic: 41 rxLev: -94 ber: 3.10 mcc: 208 mnc: 20 lac: 413 cellId: 20501 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 982 1017 numChannels: 18 array: 788 791 792 793 796 878 885 975 976 977 979 980 985 1012 1014 1015 1016 1022 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 99 rxLev: -94
+arfcn: 104 rxLev: -95
+arfcn: 5 rxLev: -95
+arfcn: 19 rxLev: -95
+arfcn: 43 rxLev: -95
+arfcn: 105 rxLev: -95
+$GPGGA,180748.279,4749.3308,N,00149.0333,W,1,04,2.3,61.3,M,48.5,M,,0000*71
+arfcn: 108 rxLev: -95
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 72 rxLev: -95
+arfcn: 98 rxLev: -96
+$GPRMC,180748.279,A,4749.3308,N,00149.0333,W,12.55,217.87,090218,,,A*41
+arfcn: 97 rxLev: -96
+arfcn: 107 rxLev: -96
+arfcn: 124 rxLev: -96
+arfcn: 25 rxLev: -96
+arfcn: 979 rxLev: -96
+arfcn: 106 rxLev: -96
+arfcn: 47 rxLev: -97
+arfcn: 733 rxLev: -97
+$GPGGA,180749.279,4749.3247,N,00149.0303,W,1,04,2.3,61.7,M,48.5,M,,0000*7D
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 754 rxLev: -97
+arfcn: 755 rxLev: -97
+$GPRMC,180749.279,A,4749.3247,N,00149.0303,W,8.35,227.93,090218,,,A*72
+arfcn: 753 rxLev: -97
+arfcn: 751 rxLev: -97
+arfcn: 729 rxLev: -97
+arfcn: 96 rxLev: -97
+arfcn: 95 rxLev: -97
+$GPGGA,180750.279,4749.3252,N,00149.0383,W,1,04,2.3,61.8,M,48.5,M,,0000*76
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPGSV,3,1,12,25,77,314,16,12,51,064,18,29,46,190,19,24,26,133,20*7A
+$GPGSV,3,2,12,02,27,080,13,14,40,287,21,31,27,304,26,33,33,198,*7D
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180750.279,A,4749.3252,N,00149.0383,W,3.47,278.25,090218,,,A*7F
+$GPGGA,180751.279,4749.3398,N,00149.0511,W,1,04,2.3,61.9,M,48.5,M,,0000*7C
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180751.279,A,4749.3398,N,00149.0511,W,3.52,293.32,090218,,,A*73
+$GPGGA,180752.279,4749.3371,N,00149.0423,W,1,04,2.3,61.5,M,48.5,M,,0000*74
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180752.279,A,4749.3371,N,00149.0423,W,3.46,6.10,090218,,,A*7C
+$GPGGA,180753.279,4749.3290,N,00149.0453,W,1,04,2.3,61.7,M,48.5,M,,0000*7E
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180753.279,A,4749.3290,N,00149.0453,W,1.29,77.49,090218,,,A*45
+arfcn: 82 bsic: 25 rxLev: -98 ber: 0.08 mcc: 208 mnc: 10 lac: 6001 cellId: 36503 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 80 82 numChannels: 18 array: 77 78 79 81 82 83 84 86 113 114 115 116 117 118 120 121 122 124 pbcch: 0 nom: 2 rac: 61 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 7 pcMeasCh: 1 
+arfcn: 91 rxLev: -98
+arfcn: 93 rxLev: -98
+arfcn: 9 rxLev: -98
+arfcn: 92 rxLev: -98
+arfcn: 94 rxLev: -98
+arfcn: 749 rxLev: -98
+$GPGGA,180754.279,4749.3271,N,00149.0499,W,1,04,2.3,62.0,M,48.5,M,,0000*74
+arfcn: 750 rxLev: -99
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 735 rxLev: -99
+arfcn: 980 rxLev: -99
+$GPRMC,180754.279,A,4749.3271,N,00149.0499,W,6.25,213.20,090218,,,A*7F
+arfcn: 12 rxLev: -99
+arfcn: 23 rxLev: -99
+arfcn: 763 rxLev: -99
+arfcn: 761 rxLev: -100
+arfcn: 762 rxLev: -100
+arfcn: 757 rxLev: -100
+arfcn: 747 rxLev: -100
+arfcn: 737 rxLev: -100
+arfcn: 736 rxLev: -100
+$GPGGA,180755.279,4749.3193,N,00149.0498,W,1,04,2.3,61.7,M,48.5,M,,0000*7F
+arfcn: 11 rxLev: -100
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 6 rxLev: -100
+arfcn: 7 rxLev: -100
+$GPGSV,3,1,12,25,77,314,16,12,51,064,16,29,46,190,18,24,26,133,21*74
+arfcn: 46 rxLev: -100
+$GPGSV,3,2,12,02,27,080,14,14,40,287,14,31,27,304,19,33,33,198,*70
+arfcn: 109 rxLev: -100
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 120 rxLev: -100
+arfcn: 90 rxLev: -100
+$GPRMC,180755.279,A,4749.3193,N,00149.0498,W,13.75,227.17,090218,,,A*42
+arfcn: 985 rxLev: -100
+arfcn: 975 rxLev: -100
+arfcn: 51 rxLev: -100
+$GPGGA,180756.279,4749.3074,N,00149.0610,W,1,04,2.3,61.7,M,48.5,M,,0000*76
+arfcn: 734 rxLev: -100
+arfcn: 730 rxLev: -100
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 739 rxLev: -100
+arfcn: 752 rxLev: -100
+$GPRMC,180756.279,A,4749.3074,N,00149.0610,W,24.97,217.11,090218,,,A*46
+arfcn: 764 rxLev: -100
+arfcn: 756 rxLev: -101
+arfcn: 745 rxLev: -101
+arfcn: 746 rxLev: -101
+arfcn: 778 rxLev: -101
+arfcn: 732 rxLev: -101
+arfcn: 609 rxLev: -101
+arfcn: 117 rxLev: -101
+$GPGGA,180757.279,4749.3066,N,00149.0652,W,1,04,2.3,61.2,M,48.5,M,,0000*77
+arfcn: 115 rxLev: -101
+arfcn: 110 rxLev: -101
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 119 rxLev: -101
+arfcn: 123 rxLev: -101
+$GPRMC,180757.279,A,4749.3066,N,00149.0652,W,16.15,207.80,090218,,,A*40
+arfcn: 44 rxLev: -101
+arfcn: 2 rxLev: -101
+arfcn: 18 rxLev: -101
+arfcn: 722 rxLev: -101
+arfcn: 727 rxLev: -101
+arfcn: 777 rxLev: -101
+arfcn: 748 rxLev: -101
+$GPGGA,180758.279,4749.3038,N,00149.0620,W,1,04,2.3,61.6,M,48.5,M,,0000*72
+arfcn: 740 rxLev: -101
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 741 rxLev: -101
+arfcn: 758 rxLev: -101
+$GPRMC,180758.279,A,4749.3038,N,00149.0620,W,9.39,223.43,090218,,,A*78
+arfcn: 759 rxLev: -101
+arfcn: 760 rxLev: -101
+arfcn: 767 rxLev: -101
+arfcn: 742 rxLev: -102
+arfcn: 743 rxLev: -102
+arfcn: 789 rxLev: -102
+arfcn: 776 rxLev: -102
+arfcn: 721 rxLev: -102
+arfcn: 731 rxLev: -102
+$GPGGA,180759.278,4749.3077,N,00149.0674,W,1,04,2.3,61.8,M,48.5,M,,0000*76
+arfcn: 715 rxLev: -102
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 720 rxLev: -102
+arfcn: 1 rxLev: -102
+$GPRMC,180759.278,A,4749.3077,N,00149.0674,W,12.29,259.21,090218,,,A*40
+arfcn: 73 rxLev: -102
+arfcn: 75 rxLev: -102
+arfcn: 983 rxLev: -102
+arfcn: 15 rxLev: -102
+arfcn: 20 rxLev: -102
+arfcn: 718 rxLev: -102
+arfcn: 1023 rxLev: -102
+$GPGGA,180800.278,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 723 rxLev: -102
+arfcn: 728 rxLev: -102
+$GPGSV,3,1,12,02,27,080,14,12,51,064,15,14,40,287,14,24,26,133,07*7E
+arfcn: 774 rxLev: -102
+arfcn: 738 rxLev: -102
+$GPGSV,3,2,12,25,77,314,16,29,46,190,17,31,27,304,19,33,33,198,*72
+arfcn: 765 rxLev: -102
+arfcn: 769 rxLev: -103
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 780 rxLev: -103
+$GPRMC,180800.278,V,,,,,,,090218,,,N*43
+arfcn: 849 rxLev: -103
+arfcn: 725 rxLev: -103
+arfcn: 719 rxLev: -103
+arfcn: 987 rxLev: -103
+arfcn: 17 rxLev: -103
+$GPGGA,180801.278,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 13 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 0 rxLev: -103
+$GPRMC,180801.278,V,,,,,,,090218,,,N*42
+arfcn: 981 rxLev: -103
+arfcn: 984 rxLev: -103
+arfcn: 986 rxLev: -103
+arfcn: 122 rxLev: -103
+arfcn: 8 rxLev: -103
+arfcn: 991 rxLev: -103
+arfcn: 994 rxLev: -103
+arfcn: 1005 rxLev: -103
+$GPGGA,180802.278,,,,,0,04,2.3,,M,0.0,M,,0000*73
+arfcn: 1015 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1022 rxLev: -103
+$GPRMC,180802.278,V,,,,,,,090218,,,N*41
+arfcn: 724 rxLev: -103
+arfcn: 768 rxLev: -103
+arfcn: 744 rxLev: -103
+arfcn: 772 rxLev: -104
+arfcn: 726 rxLev: -104
+arfcn: 1006 rxLev: -104
+arfcn: 1004 rxLev: -104
+arfcn: 993 rxLev: -104
+arfcn: 992 rxLev: -104
+arfcn: 988 rxLev: -104
+$GPGGA,180803.278,,,,,0,04,2.3,,M,0.0,M,,0000*72
+arfcn: 989 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 990 rxLev: -104
+$GPRMC,180803.278,V,,,,,,,090218,,,N*40
+arfcn: 995 rxLev: -104
+arfcn: 996 rxLev: -104
+arfcn: 997 rxLev: -104
+arfcn: 998 rxLev: -104
+arfcn: 999 rxLev: -104
+arfcn: 1000 rxLev: -104
+arfcn: 1001 rxLev: -104
+arfcn: 14 rxLev: -104
+arfcn: 16 rxLev: -104
+$GPGGA,180804.278,,,,,0,04,2.3,,M,0.0,M,,0000*75
+arfcn: 121 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 74 rxLev: -104
+$GPRMC,180804.278,V,,,,,,,090218,,,N*47
+arfcn: 76 rxLev: -104
+arfcn: 89 rxLev: -104
+arfcn: 22 rxLev: -104
+arfcn: 24 rxLev: -104
+arfcn: 48 rxLev: -104
+arfcn: 1003 rxLev: -104
+arfcn: 1007 rxLev: -104
+arfcn: 1021 rxLev: -104
+arfcn: 770 rxLev: -104
+arfcn: 779 rxLev: -104
+$GPGGA,180805.278,,,,,0,04,2.3,,M,0.0,M,,0000*74
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 775 rxLev: -105
+arfcn: 766 rxLev: -105
+$GPGSV,3,1,12,25,77,314,16,12,51,064,14,29,46,190,16,24,26,133,24*7D
+arfcn: 1008 rxLev: -105
+arfcn: 1002 rxLev: -105
+$GPGSV,3,2,12,02,27,080,14,14,40,287,15,31,27,304,19,33,33,198,*71
+arfcn: 45 rxLev: -105
+arfcn: 41 rxLev: -105
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 38 rxLev: -105
+$GPRMC,180805.278,V,,,,,,,090218,,,N*46
+arfcn: 36 rxLev: -105
+arfcn: 37 rxLev: -105
+arfcn: 40 rxLev: -105
+arfcn: 42 rxLev: -105
+$GPGGA,180806.278,,,,,0,04,2.3,,M,0.0,M,,0000*77
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1016 rxLev: -105
+$GPRMC,180806.278,V,,,,,,,090218,,,N*45
+arfcn: 716 rxLev: -105
+arfcn: 669 rxLev: -105
+arfcn: 773 rxLev: -105
+arfcn: 771 rxLev: -105
+arfcn: 781 rxLev: -105
+arfcn: 782 rxLev: -105
+arfcn: 717 rxLev: -106
+arfcn: 1011 rxLev: -106
+arfcn: 1012 rxLev: -106
+arfcn: 1014 rxLev: -106
+arfcn: 1009 rxLev: -106
+$GPGGA,180807.278,4749.2881,N,00149.0979,W,1,04,2.3,62.1,M,48.5,M,,0000*7A
+arfcn: 1010 rxLev: -106
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 27 rxLev: -106
+arfcn: 21 rxLev: -106
+$GPRMC,180807.278,A,4749.2881,N,00149.0979,W,8.61,199.96,090218,,,A*72
+arfcn: 80 rxLev: -106
+arfcn: 111 rxLev: -106
+arfcn: 39 rxLev: -106
+arfcn: 32 rxLev: -106
+arfcn: 1017 rxLev: -106
+arfcn: 1019 rxLev: -106
+arfcn: 861 rxLev: -106
+arfcn: 1020 rxLev: -107
+arfcn: 1018 rxLev: -107
+$GPGGA,180808.278,4749.2849,N,00149.1111,W,1,04,2.3,62.0,M,48.5,M,,0000*77
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 1013 rxLev: -107
+$GPRMC,180808.278,A,4749.2849,N,00149.1111,W,10.14,180.36,090218,,,A*47
+arfcn: 35 rxLev: -107
+arfcn: 26 rxLev: -107
+arfcn: 28 rxLev: -107
+arfcn: 29 rxLev: -107
+arfcn: 30 rxLev: -107
+arfcn: 31 rxLev: -107
+arfcn: 78 rxLev: -107
+arfcn: 86 rxLev: -107
+$GPGGA,180809.278,4749.2873,N,00149.1150,W,1,04,2.3,61.2,M,48.5,M,,0000*7B
+arfcn: 84 rxLev: -107
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 77 rxLev: -107
+arfcn: 34 rxLev: -107
+$GPRMC,180809.278,A,4749.2873,N,00149.1150,W,14.22,198.34,090218,,,A*40
+arfcn: 33 rxLev: -107
+arfcn: 49 rxLev: -107
+arfcn: 50 rxLev: -107
+arfcn: 549 rxLev: -107
+arfcn: 606 rxLev: -107
+arfcn: 666 rxLev: -107
+arfcn: 788 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/09,19:08:10+04"
+Survey duration: 41 seconds, 5 bases detected over 242 freqs scanned.
+$GPGGA,180810.278,4749.2777,N,00149.1210,W,1,04,2.3,61.2,M,48.5,M,,0000*7F
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPGSV,3,1,12,25,77,314,16,12,51,064,15,29,46,190,17,24,26,133,23*7A
+$GPGSV,3,2,12,02,27,080,13,14,40,287,17,31,27,304,19,33,33,198,*74
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180810.278,A,4749.2777,N,00149.1210,W,14.70,202.68,090218,,,A*4A
+$GPGGA,180811.278,4749.2711,N,00149.1323,W,1,04,2.3,61.0,M,48.5,M,,0000*7D
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180811.278,A,4749.2711,N,00149.1323,W,15.18,197.58,090218,,,A*49
+$GPGGA,180812.278,4749.2612,N,00149.1323,W,1,04,2.3,61.1,M,48.5,M,,0000*7D
+Survey start at #CCLK: "18/02/09,19:08:13+04"
+at#csurv
+Network survey started ...
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180812.278,A,4749.2612,N,00149.1323,W,15.76,180.99,090218,,,A*4B
+$GPGGA,180813.278,4749.2643,N,00149.1432,W,1,04,2.3,61.6,M,48.5,M,,0000*78
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180813.278,A,4749.2643,N,00149.1432,W,13.65,234.75,090218,,,A*43
+$GPGGA,180814.278,4749.2574,N,00149.1418,W,1,04,2.3,62.2,M,48.5,M,,0000*77
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180814.278,A,4749.2574,N,00149.1418,W,11.30,156.45,090218,,,A*4D
+$GPGGA,180815.278,4749.2593,N,00149.1331,W,1,04,2.3,62.4,M,48.5,M,,0000*75
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPGSV,3,1,12,25,77,314,09,12,51,064,16,29,46,190,18,24,26,133,16*7E
+$GPGSV,3,2,12,02,27,080,14,14,40,287,17,31,27,304,20,33,33,198,*79
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180815.278,A,4749.2593,N,00149.1331,W,11.27,179.87,090218,,,A*4C
+$GPGGA,180816.278,4749.2501,N,00149.1343,W,1,04,2.3,62.5,M,48.5,M,,0000*79
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180816.278,A,4749.2501,N,00149.1343,W,13.29,192.63,090218,,,A*42
+$GPGGA,180817.278,4749.2434,N,00149.1387,W,1,04,2.3,62.6,M,48.5,M,,0000*74
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180817.278,A,4749.2434,N,00149.1387,W,16.82,197.81,090218,,,A*41
+$GPGGA,180818.278,4749.2353,N,00149.1534,W,1,04,2.3,62.6,M,48.5,M,,0000*73
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180818.278,A,4749.2353,N,00149.1534,W,18.68,192.48,090218,,,A*4C
+$GPGGA,180819.278,4749.2291,N,00149.1566,W,1,04,2.3,62.3,M,48.5,M,,0000*7F
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180819.278,A,4749.2291,N,00149.1566,W,19.38,195.53,090218,,,A*4C
+$GPGGA,180820.278,4749.2208,N,00149.1523,W,1,04,2.3,62.3,M,48.5,M,,0000*74
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPGSV,3,1,12,25,77,314,09,12,51,064,16,29,46,190,18,24,26,133,19*71
+$GPGSV,3,2,12,02,27,080,14,14,40,287,17,31,27,304,20,33,33,198,*79
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 4 bsic: 1 rxLev: -81 ber: 0.00 mcc: 208 mnc: 01 lac: 10301 cellId: 62570 cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 4 17 18 19 20 21 22 23 24 25 26 27 28 29 43 44 45 46 47 48 49 numChannels: 13 array: 1 3 4 5 6 7 8 9 11 13 14 15 513 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 5 pcMeasCh: 1 
+$GPRMC,180820.278,A,4749.2208,N,00149.1523,W,20.13,203.31,090218,,,A*4C
+arfcn: 977 bsic: 0 rxLev: -84 ber: 0.00 mcc: 208 mnc: 20 lac: 413 cellId: 20508 cellStatus: CELL_SUITABLE numArfcn: 1 arfcn: 977 numChannels: 18 array: 975 976 979 980 981 982 984 985 1012 1013 1014 1016 1018 1022 788 791 793 881 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 116 rxLev: -88
+$GPGGA,180821.278,4749.2189,N,00149.1588,W,1,04,2.3,62.5,M,48.5,M,,0000*78
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+$GPRMC,180821.278,A,4749.2189,N,00149.1588,W,16.86,200.13,090218,,,A*4C
+$GPGGA,180822.278,4749.2165,N,00149.1687,W,1,04,2.3,62.3,M,48.5,M,,0000*73
+arfcn: 118 bsic: 24 rxLev: -90 ber: 0.00 mcc: 208 mnc: 10 lac: 6001 cellId: 31992 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 116 118 numChannels: 13 array: 76 77 78 81 82 84 86 113 114 115 120 121 124 pbcch: 0 nom: 2 rac: 61 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 7 pcMeasCh: 1 
+arfcn: 54 rxLev: -91
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 62 rxLev: -91
+$GPRMC,180822.278,A,4749.2165,N,00149.1687,W,14.26,191.18,090218,,,A*49
+arfcn: 70 rxLev: -91
+arfcn: 64 rxLev: -91
+arfcn: 61 rxLev: -91
+arfcn: 55 rxLev: -91
+arfcn: 56 rxLev: -91
+arfcn: 47 rxLev: -92
+$GPGGA,180823.278,4749.2121,N,00149.1672,W,1,04,2.3,62.2,M,48.5,M,,0000*79
+arfcn: 63 rxLev: -92
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 71 rxLev: -92
+$GPRMC,180823.278,A,4749.2121,N,00149.1672,W,17.40,212.82,090218,,,A*4A
+arfcn: 72 rxLev: -92
+arfcn: 65 rxLev: -92
+arfcn: 60 rxLev: -92
+arfcn: 66 rxLev: -93
+arfcn: 57 rxLev: -93
+arfcn: 53 rxLev: -93
+arfcn: 69 rxLev: -94
+arfcn: 58 rxLev: -94
+arfcn: 59 rxLev: -94
+$GPGGA,180824.278,4749.2104,N,00149.1649,W,1,04,2.3,62.7,M,48.5,M,,0000*74
+arfcn: 67 rxLev: -94
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 68 rxLev: -95
+arfcn: 19 rxLev: -95
+$GPRMC,180824.278,A,4749.2104,N,00149.1649,W,27.18,212.16,090218,,,A*41
+arfcn: 22 rxLev: -95
+arfcn: 20 rxLev: -96
+arfcn: 108 rxLev: -96
+arfcn: 109 rxLev: -96
+arfcn: 101 rxLev: -96
+arfcn: 976 rxLev: -96
+arfcn: 23 rxLev: -96
+arfcn: 3 rxLev: -96
+$GPGGA,180825.278,4749.2078,N,00149.1793,W,1,04,2.3,63.0,M,48.5,M,,0000*7F
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 107 rxLev: -97
+arfcn: 92 rxLev: -97
+$GPGSV,3,1,12,25,77,314,08,12,51,064,17,29,46,190,16,24,26,133,19*7F
+arfcn: 100 rxLev: -97
+arfcn: 102 rxLev: -97
+$GPGSV,3,2,12,02,27,080,14,14,40,287,17,31,27,304,20,33,33,198,*79
+arfcn: 52 rxLev: -97
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 5 rxLev: -98
+arfcn: 103 rxLev: -98
+$GPRMC,180825.278,A,4749.2078,N,00149.1793,W,27.17,212.19,090218,,,A*4C
+arfcn: 104 rxLev: -98
+arfcn: 98 rxLev: -98
+arfcn: 93 rxLev: -98
+$GPGGA,180826.278,4749.2010,N,00149.1844,W,1,04,2.3,62.7,M,48.5,M,,0000*71
+arfcn: 97 rxLev: -98
+arfcn: 978 rxLev: -98
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.3,3.2*3D
+arfcn: 982 rxLev: -98
+arfcn: 99 rxLev: -98
+$GPRMC,180826.278,A,4749.2010,N,00149.1844,W,29.13,218.78,090218,,,A*43
+arfcn: 9 rxLev: -98
+arfcn: 758 rxLev: -98
+arfcn: 105 rxLev: -99
+arfcn: 110 rxLev: -99
+arfcn: 94 rxLev: -99
+arfcn: 91 rxLev: -99
+arfcn: 124 rxLev: -99
+$GPGGA,180827.278,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 96 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 106 rxLev: -99
+$GPRMC,180827.278,V,,,,,,,090218,,,N*46
+arfcn: 975 rxLev: -100
+arfcn: 73 rxLev: -100
+arfcn: 45 rxLev: -100
+arfcn: 18 rxLev: -100
+arfcn: 979 rxLev: -100
+arfcn: 980 rxLev: -100
+arfcn: 90 rxLev: -100
+arfcn: 757 rxLev: -100
+arfcn: 748 rxLev: -100
+$GPGGA,180828.278,,,,,0,00,,,M,0.0,M,,0000*50
+arfcn: 749 rxLev: -100
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 750 rxLev: -101
+$GPRMC,180828.278,V,,,,,,,090218,,,N*49
+arfcn: 609 rxLev: -101
+arfcn: 753 rxLev: -101
+arfcn: 95 rxLev: -101
+arfcn: 10 rxLev: -101
+arfcn: 6 rxLev: -101
+arfcn: 7 rxLev: -101
+arfcn: 48 rxLev: -101
+arfcn: 11 rxLev: -101
+arfcn: 123 rxLev: -101
+arfcn: 726 rxLev: -101
+$GPGGA,180829.278,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 727 rxLev: -101
+arfcn: 729 rxLev: -102
+$GPRMC,180829.278,V,,,,,,,090218,,,N*48
+arfcn: 731 rxLev: -102
+arfcn: 738 rxLev: -102
+arfcn: 789 rxLev: -102
+arfcn: 849 rxLev: -102
+arfcn: 120 rxLev: -102
+arfcn: 115 rxLev: -102
+arfcn: 12 rxLev: -102
+arfcn: 13 rxLev: -102
+arfcn: 122 rxLev: -102
+$GPGGA,180830.278,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 756 rxLev: -102
+arfcn: 763 rxLev: -102
+$GPGSV,3,1,12,02,27,080,15,12,51,064,18,14,40,287,17,24,26,133,24*70
+arfcn: 747 rxLev: -102
+arfcn: 728 rxLev: -102
+$GPGSV,3,2,12,25,77,314,06,29,46,190,16,31,27,304,19,33,33,198,*72
+arfcn: 719 rxLev: -102
+arfcn: 715 rxLev: -103
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 723 rxLev: -103
+$GPRMC,180830.278,V,,,,,,,090218,,,N*40
+arfcn: 764 rxLev: -103
+arfcn: 985 rxLev: -103
+arfcn: 2 rxLev: -103
+arfcn: 46 rxLev: -103
+$GPGGA,180831.278,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 1 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 16 rxLev: -103
+$GPRMC,180831.278,V,,,,,,,090218,,,N*41
+arfcn: 17 rxLev: -103
+arfcn: 75 rxLev: -103
+arfcn: 746 rxLev: -103
+arfcn: 736 rxLev: -103
+arfcn: 739 rxLev: -104
+arfcn: 740 rxLev: -104
+arfcn: 745 rxLev: -104
+arfcn: 722 rxLev: -104
+arfcn: 721 rxLev: -104
+$GPGGA,180832.278,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 724 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 725 rxLev: -104
+$GPRMC,180832.278,V,,,,,,,090218,,,N*42
+arfcn: 1015 rxLev: -104
+arfcn: 762 rxLev: -104
+arfcn: 760 rxLev: -104
+arfcn: 759 rxLev: -104
+arfcn: 754 rxLev: -104
+arfcn: 755 rxLev: -104
+arfcn: 773 rxLev: -104
+arfcn: 774 rxLev: -104
+arfcn: 0 rxLev: -104
+arfcn: 15 rxLev: -104
+$GPGGA,180833.278,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 21 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 89 rxLev: -104
+$GPRMC,180833.278,V,,,,,,,090218,,,N*43
+arfcn: 111 rxLev: -104
+arfcn: 121 rxLev: -104
+arfcn: 117 rxLev: -104
+arfcn: 981 rxLev: -104
+arfcn: 772 rxLev: -104
+arfcn: 768 rxLev: -104
+arfcn: 770 rxLev: -104
+arfcn: 752 rxLev: -104
+$GPGGA,180834.278,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 765 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 767 rxLev: -104
+$GPRMC,180834.278,V,,,,,,,090218,,,N*44
+arfcn: 718 rxLev: -104
+arfcn: 716 rxLev: -104
+arfcn: 741 rxLev: -104
+arfcn: 743 rxLev: -104
+arfcn: 742 rxLev: -105
+arfcn: 737 rxLev: -105
+arfcn: 730 rxLev: -105
+arfcn: 732 rxLev: -105
+arfcn: 734 rxLev: -105
+arfcn: 717 rxLev: -105
+$GPGGA,180835.278,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 769 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 775 rxLev: -105
+arfcn: 780 rxLev: -105
+$GPGSV,3,1,12,02,27,080,16,12,51,064,17,14,40,287,16,24,26,133,20*79
+arfcn: 119 rxLev: -105
+arfcn: 983 rxLev: -105
+$GPGSV,3,2,12,25,77,314,07,29,46,190,15,31,27,304,19,33,33,198,*70
+arfcn: 984 rxLev: -105
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 82 rxLev: -105
+$GPRMC,180835.278,V,,,,,,,090218,,,N*45
+arfcn: 44 rxLev: -105
+arfcn: 51 rxLev: -105
+arfcn: 43 rxLev: -105
+$GPGGA,180836.278,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 8 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 74 rxLev: -105
+$GPRMC,180836.278,V,,,,,,,090218,,,N*46
+arfcn: 781 rxLev: -105
+arfcn: 782 rxLev: -105
+arfcn: 779 rxLev: -105
+arfcn: 771 rxLev: -105
+arfcn: 766 rxLev: -105
+arfcn: 735 rxLev: -105
+arfcn: 733 rxLev: -105
+arfcn: 751 rxLev: -105
+arfcn: 744 rxLev: -106
+arfcn: 669 rxLev: -106
+$GPGGA,180837.278,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 1023 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1006 rxLev: -106
+$GPRMC,180837.278,V,,,,,,,090218,,,N*47
+arfcn: 777 rxLev: -106
+arfcn: 861 rxLev: -106
+arfcn: 776 rxLev: -106
+arfcn: 1005 rxLev: -106
+arfcn: 1003 rxLev: -106
+arfcn: 76 rxLev: -106
+arfcn: 994 rxLev: -106
+arfcn: 14 rxLev: -106
+arfcn: 25 rxLev: -106
+$GPGGA,180838.278,,,,,0,00,,,M,0.0,M,,0000*51
+arfcn: 29 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 38 rxLev: -107
+$GPRMC,180838.278,V,,,,,,,090218,,,N*48
+arfcn: 42 rxLev: -107
+arfcn: 41 rxLev: -107
+arfcn: 993 rxLev: -107
+arfcn: 991 rxLev: -107
+arfcn: 997 rxLev: -107
+arfcn: 986 rxLev: -107
+arfcn: 78 rxLev: -107
+arfcn: 1004 rxLev: -107
+arfcn: 1000 rxLev: -107
+arfcn: 1007 rxLev: -107
+$GPGGA,180839.278,,,,,0,00,,,M,0.0,M,,0000*50
+arfcn: 1022 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 720 rxLev: -107
+$GPRMC,180839.278,V,,,,,,,090218,,,N*49
+arfcn: 761 rxLev: -107
+arfcn: 778 rxLev: -107
+arfcn: 1021 rxLev: -107
+arfcn: 1016 rxLev: -107
+arfcn: 1018 rxLev: -107
+arfcn: 1008 rxLev: -107
+arfcn: 1009 rxLev: -107
+arfcn: 1010 rxLev: -107
+arfcn: 999 rxLev: -107
+$GPGGA,180840.278,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1001 rxLev: -107
+arfcn: 1002 rxLev: -107
+$GPGSV,3,1,12,02,27,080,16,12,51,064,17,14,40,287,15,24,26,133,21*7B
+arfcn: 80 rxLev: -107
+arfcn: 77 rxLev: -107
+$GPGSV,3,2,12,25,77,314,09,29,46,190,06,31,27,304,19,33,33,198,*7C
+arfcn: 987 rxLev: -107
+arfcn: 988 rxLev: -107
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 989 rxLev: -107
+$GPRMC,180840.278,V,,,,,,,090218,,,N*47
+arfcn: 990 rxLev: -107
+arfcn: 998 rxLev: -107
+arfcn: 995 rxLev: -107
+arfcn: 996 rxLev: -107
+arfcn: 992 rxLev: -107
+$GPGGA,180841.278,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 40 rxLev: -107
+arfcn: 39 rxLev: -107
+$GPRMC,180841.278,V,,,,,,,090218,,,N*46
+arfcn: 36 rxLev: -107
+arfcn: 37 rxLev: -107
+arfcn: 35 rxLev: -107
+arfcn: 24 rxLev: -107
+arfcn: 1014 rxLev: -108
+arfcn: 1012 rxLev: -108
+arfcn: 1013 rxLev: -108
+arfcn: 1019 rxLev: -108
+arfcn: 1017 rxLev: -108
+$GPGGA,180842.278,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 1020 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180842.278,V,,,,,,,090218,,,N*45
+arfcn: 666 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/09,19:08:43+04"
+Survey duration: 30 seconds, 3 bases detected over 226 freqs scanned.
+$GPGGA,180843.278,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180843.278,V,,,,,,,090218,,,N*44
+$GPGGA,180844.278,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180844.278,V,,,,,,,090218,,,N*43
+Survey start at #CCLK: "18/02/09,19:08:45+04"
+at#csurv
+Network survey started ...
+$GPGGA,180845.278,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,16,12,51,064,16,14,40,287,15,24,26,133,22*79
+$GPGSV,3,2,12,25,77,314,11,29,46,190,05,31,27,304,19,33,33,198,*76
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180845.278,V,,,,,,,090218,,,N*42
+$GPGGA,180846.278,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180846.278,V,,,,,,,090218,,,N*41
+$GPGGA,180847.278,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180847.278,V,,,,,,,090218,,,N*40
+$GPGGA,180848.278,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180848.278,V,,,,,,,090218,,,N*4F
+$GPGGA,180849.278,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180849.278,V,,,,,,,090218,,,N*4E
+$GPGGA,180850.278,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,16,12,51,064,14,14,40,287,17,24,26,133,22*79
+$GPGSV,3,2,12,25,77,314,05,29,46,190,06,31,27,304,18,33,33,198,*71
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180850.278,V,,,,,,,090218,,,N*46
+$GPGGA,180851.278,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180851.278,V,,,,,,,090218,,,N*47
+$GPGGA,180852.278,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180852.278,V,,,,,,,090218,,,N*44
+arfcn: 118 bsic: 24 rxLev: -80 ber: 0.00 mcc: 208 mnc: 10 lac: 6001 cellId: 31992 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 116 118 numChannels: 13 array: 76 77 78 81 82 84 86 113 114 115 120 121 124 pbcch: 0 nom: 2 rac: 61 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 7 pcMeasCh: 1 
+arfcn: 116 rxLev: -81
+arfcn: 977 bsic: 0 rxLev: -83 ber: 0.00 mcc: 208 mnc: 20 lac: 413 cellId: 20508 cellStatus: CELL_SUITABLE numArfcn: 1 arfcn: 977 numChannels: 18 array: 975 976 979 980 981 982 984 985 1012 1013 1014 1016 1018 1022 788 791 793 881 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+$GPGGA,180853.278,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180853.278,V,,,,,,,090218,,,N*45
+$GPGGA,180854.278,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180854.278,V,,,,,,,090218,,,N*42
+$GPGGA,180855.278,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,15,12,51,064,09,14,40,287,18,24,26,133,23*78
+arfcn: 4 bsic: 1 rxLev: -83 ber: 0.00 mcc: 208 mnc: 01 lac: 10301 cellId: 62570 cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 4 17 18 19 20 21 22 23 24 25 26 27 28 29 43 44 45 46 47 48 49 numChannels: 13 array: 1 3 4 5 6 7 8 9 11 13 14 15 513 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 5 pcMeasCh: 1 
+arfcn: 107 rxLev: -89
+$GPGSV,3,2,12,25,77,314,07,29,46,190,10,31,27,304,17,33,33,198,*7B
+arfcn: 105 rxLev: -90
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 106 rxLev: -90
+$GPRMC,180855.278,V,,,,,,,090218,,,N*43
+arfcn: 108 rxLev: -90
+arfcn: 109 rxLev: -91
+arfcn: 104 rxLev: -91
+arfcn: 103 rxLev: -92
+arfcn: 61 rxLev: -92
+$GPGGA,180856.278,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 63 rxLev: -92
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 64 rxLev: -93
+$GPRMC,180856.278,V,,,,,,,090218,,,N*40
+arfcn: 62 rxLev: -93
+arfcn: 67 rxLev: -93
+arfcn: 69 rxLev: -93
+arfcn: 102 rxLev: -93
+arfcn: 101 rxLev: -94
+arfcn: 100 rxLev: -94
+arfcn: 95 rxLev: -94
+arfcn: 96 rxLev: -94
+$GPGGA,180857.278,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 70 rxLev: -94
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 57 rxLev: -94
+$GPRMC,180857.278,V,,,,,,,090218,,,N*41
+arfcn: 60 rxLev: -94
+arfcn: 55 rxLev: -94
+arfcn: 56 rxLev: -94
+arfcn: 54 rxLev: -94
+arfcn: 59 rxLev: -94
+arfcn: 71 rxLev: -94
+arfcn: 66 rxLev: -94
+arfcn: 93 rxLev: -94
+arfcn: 94 rxLev: -94
+arfcn: 99 rxLev: -94
+$GPGGA,180858.278,,,,,0,00,,,M,0.0,M,,0000*57
+arfcn: 98 rxLev: -94
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 97 rxLev: -95
+$GPRMC,180858.278,V,,,,,,,090218,,,N*4E
+arfcn: 65 rxLev: -95
+arfcn: 68 rxLev: -95
+arfcn: 58 rxLev: -95
+arfcn: 110 rxLev: -95
+arfcn: 92 rxLev: -96
+arfcn: 53 rxLev: -96
+arfcn: 976 rxLev: -96
+arfcn: 91 rxLev: -97
+arfcn: 72 rxLev: -97
+arfcn: 3 rxLev: -97
+$GPGGA,180859.278,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 18 rxLev: -97
+$GPRMC,180859.278,V,,,,,,,090218,,,N*4F
+arfcn: 117 rxLev: -97
+arfcn: 119 rxLev: -98
+arfcn: 124 rxLev: -98
+arfcn: 90 rxLev: -98
+arfcn: 52 rxLev: -98
+arfcn: 978 rxLev: -98
+$GPGGA,180900.278,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,15,12,51,064,08,14,40,287,19,24,26,133,23*78
+$GPGSV,3,2,12,25,77,314,06,29,46,190,08,31,27,304,17,33,33,198,*73
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180900.278,V,,,,,,,090218,,,N*42
+$GPGGA,180901.278,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180901.278,V,,,,,,,090218,,,N*43
+$GPGGA,180902.278,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180902.278,V,,,,,,,090218,,,N*40
+$GPGGA,180903.278,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180903.278,V,,,,,,,090218,,,N*41
+arfcn: 979 bsic: 0 rxLev: -98 ber: 0.00 mcc: 208 mnc: 20 lac: 413 cellId: 20510 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 979 numChannels: 23 array: 789 790 791 792 793 796 878 881 883 885 975 976 977 980 981 982 1012 1013 1014 1015 1016 1019 1022 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+$GPGGA,180904.278,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180904.278,V,,,,,,,090218,,,N*46
+$GPGGA,180905.278,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,15,12,51,064,07,14,40,287,19,24,26,133,24*70
+$GPGSV,3,2,12,25,77,314,04,29,46,190,12,31,27,304,18,33,33,198,*75
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180905.278,V,,,,,,,090218,,,N*47
+$GPGGA,180906.278,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180906.278,V,,,,,,,090218,,,N*44
+$GPGGA,180907.278,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180907.278,V,,,,,,,090218,,,N*45
+$GPGGA,180908.278,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180908.278,V,,,,,,,090218,,,N*4A
+$GPGGA,180909.278,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180909.278,V,,,,,,,090218,,,N*4B
+arfcn: 982 bsic: 41 rxLev: -99 ber: 0.06 mcc: 208 mnc: 20 lac: 413 cellId: 20501 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 982 1017 numChannels: 18 array: 788 791 792 793 796 878 885 975 976 977 979 980 985 1012 1014 1015 1016 1022 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 9 rxLev: -99
+arfcn: 5 rxLev: -100
+arfcn: 120 rxLev: -100
+arfcn: 975 rxLev: -100
+$GPGGA,180910.278,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,15,12,51,064,08,14,40,287,18,24,26,133,20*7A
+$GPGSV,3,2,12,25,77,314,04,29,46,190,12,31,27,304,19,33,33,198,*74
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180910.278,V,,,,,,,090218,,,N*43
+$GPGGA,180911.278,,,,,0,04,2.4,,M,0.0,M,,0000*77
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180911.278,V,,,,,,,090218,,,N*42
+$GPGGA,180912.278,,,,,0,04,2.4,,M,0.0,M,,0000*74
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180912.278,V,,,,,,,090218,,,N*41
+arfcn: 6 bsic: 31 rxLev: -100 ber: 17.03 mcc: 208 mnc: 01 lac: 10301 cellId: 63809 cellStatus: CELL_FORBIDDEN numArfcn: 0 arfcn: numChannels: 0 array:
+arfcn: 7 rxLev: -100
+arfcn: 10 rxLev: -100
+arfcn: 48 rxLev: -100
+arfcn: 122 rxLev: -101
+arfcn: 115 rxLev: -101
+arfcn: 609 rxLev: -101
+arfcn: 123 rxLev: -101
+arfcn: 45 rxLev: -102
+$GPGGA,180913.277,,,,,0,04,2.4,,M,0.0,M,,0000*7A
+arfcn: 12 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 2 rxLev: -102
+$GPRMC,180913.277,V,,,,,,,090218,,,N*4F
+arfcn: 22 rxLev: -102
+arfcn: 849 rxLev: -102
+arfcn: 17 rxLev: -102
+arfcn: 11 rxLev: -102
+arfcn: 980 rxLev: -102
+arfcn: 111 rxLev: -102
+arfcn: 73 rxLev: -102
+arfcn: 78 rxLev: -102
+$GPGGA,180914.277,,,,,0,04,2.4,,M,0.0,M,,0000*7D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 75 rxLev: -103
+$GPRMC,180914.277,V,,,,,,,090218,,,N*48
+arfcn: 0 rxLev: -103
+arfcn: 16 rxLev: -103
+arfcn: 789 rxLev: -103
+arfcn: 729 rxLev: -103
+arfcn: 13 rxLev: -103
+arfcn: 15 rxLev: -103
+arfcn: 47 rxLev: -103
+arfcn: 51 rxLev: -104
+arfcn: 44 rxLev: -104
+arfcn: 1 rxLev: -104
+arfcn: 981 rxLev: -104
+$GPGGA,180915.278,,,,,0,04,2.4,,M,0.0,M,,0000*73
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 985 rxLev: -104
+$GPGSV,3,1,12,25,77,314,13,12,51,064,22,29,46,190,16,24,26,133,18*72
+$GPGSV,3,2,12,02,27,080,15,14,40,287,18,31,27,304,20,33,33,198,*77
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180915.278,V,,,,,,,090218,,,N*46
+$GPGGA,180916.277,4748.8060,N,00149.8434,W,1,04,2.4,59.7,M,48.5,M,,0000*7D
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.4,3.2*3A
+$GPRMC,180916.277,A,4748.8060,N,00149.8434,W,70.25,230.59,090218,,,A*40
+$GPGGA,180917.277,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 82 bsic: 25 rxLev: -104 ber: 0.00 mcc: 208 mnc: 10 lac: 6001 cellId: 36503 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 80 82 numChannels: 18 array: 77 78 79 81 82 83 84 86 113 114 115 116 117 118 120 121 122 124 pbcch: 0 nom: 2 rac: 61 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 7 pcMeasCh: 1 
+arfcn: 1005 rxLev: -104
+$GPRMC,180917.277,V,,,,,,,090218,,,N*4B
+arfcn: 1015 rxLev: -104
+arfcn: 1002 rxLev: -105
+arfcn: 89 rxLev: -105
+arfcn: 983 rxLev: -105
+arfcn: 121 rxLev: -105
+arfcn: 19 rxLev: -105
+arfcn: 28 rxLev: -105
+arfcn: 986 rxLev: -105
+arfcn: 74 rxLev: -105
+arfcn: 1004 rxLev: -105
+$GPGGA,180918.278,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180918.278,V,,,,,,,090218,,,N*4B
+arfcn: 1001 rxLev: -106
+arfcn: 1006 rxLev: -106
+arfcn: 725 rxLev: -106
+arfcn: 1023 rxLev: -106
+arfcn: 861 rxLev: -106
+arfcn: 14 rxLev: -106
+arfcn: 8 rxLev: -106
+arfcn: 41 rxLev: -106
+arfcn: 76 rxLev: -106
+arfcn: 80 rxLev: -106
+$GPGGA,180919.278,,,,,0,00,,,M,0.0,M,,0000*53
+arfcn: 987 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 988 rxLev: -106
+$GPRMC,180919.278,V,,,,,,,090218,,,N*4A
+arfcn: 984 rxLev: -106
+arfcn: 990 rxLev: -106
+arfcn: 991 rxLev: -106
+arfcn: 994 rxLev: -106
+arfcn: 995 rxLev: -106
+arfcn: 996 rxLev: -106
+arfcn: 786 rxLev: -106
+arfcn: 735 rxLev: -106
+arfcn: 771 rxLev: -106
+arfcn: 1022 rxLev: -106
+$GPGGA,180920.278,,,,,0,04,2.4,,M,0.0,M,,0000*75
+arfcn: 723 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1000 rxLev: -106
+$GPGSV,3,1,12,25,77,314,15,12,51,064,16,29,46,190,15,24,26,133,16*7E
+arfcn: 1003 rxLev: -106
+$GPGSV,3,2,12,02,27,080,14,14,40,287,17,31,27,304,22,33,33,198,*7B
+arfcn: 998 rxLev: -107
+arfcn: 999 rxLev: -107
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 1008 rxLev: -107
+$GPRMC,180920.278,V,,,,,,,090218,,,N*40
+arfcn: 1016 rxLev: -107
+arfcn: 669 rxLev: -107
+arfcn: 1019 rxLev: -107
+arfcn: 739 rxLev: -107
+arfcn: 746 rxLev: -107
+$GPGGA,180921.278,,,,,0,04,2.4,,M,0.0,M,,0000*74
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 736 rxLev: -107
+$GPRMC,180921.278,V,,,,,,,090218,,,N*41
+arfcn: 734 rxLev: -107
+arfcn: 997 rxLev: -107
+arfcn: 992 rxLev: -107
+arfcn: 77 rxLev: -107
+arfcn: 42 rxLev: -107
+arfcn: 43 rxLev: -107
+arfcn: 38 rxLev: -107
+arfcn: 23 rxLev: -107
+arfcn: 27 rxLev: -107
+$GPGGA,180922.278,,,,,0,04,2.4,,M,0.0,M,,0000*77
+arfcn: 20 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 37 rxLev: -107
+$GPRMC,180922.278,V,,,,,,,090218,,,N*42
+arfcn: 35 rxLev: -107
+arfcn: 36 rxLev: -107
+arfcn: 33 rxLev: -107
+arfcn: 39 rxLev: -107
+arfcn: 993 rxLev: -107
+arfcn: 989 rxLev: -107
+arfcn: 778 rxLev: -107
+arfcn: 1020 rxLev: -107
+arfcn: 1017 rxLev: -107
+$GPGGA,180923.278,,,,,0,04,2.4,,M,0.0,M,,0000*76
+arfcn: 1021 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 606 rxLev: -107
+$GPRMC,180923.278,V,,,,,,,090218,,,N*43
+arfcn: 718 rxLev: -107
+arfcn: 724 rxLev: -107
+arfcn: 726 rxLev: -107
+arfcn: 722 rxLev: -108
+arfcn: 1018 rxLev: -108
+arfcn: 1012 rxLev: -108
+arfcn: 1014 rxLev: -108
+arfcn: 1009 rxLev: -108
+arfcn: 1007 rxLev: -108
+arfcn: 777 rxLev: -108
+$GPGGA,180924.278,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 40 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 46 rxLev: -108
+$GPRMC,180924.278,V,,,,,,,090218,,,N*44
+arfcn: 34 rxLev: -108
+arfcn: 32 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/09,19:09:25+04"
+Survey duration: 39 seconds, 7 bases detected over 173 freqs scanned.
+$GPGGA,180925.278,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,14,12,51,064,16,14,40,287,16,24,26,133,22*78
+$GPGSV,3,2,12,25,77,314,21,29,46,190,15,31,27,304,19,33,33,198,*74
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180925.278,V,,,,,,,090218,,,N*45
+$GPGGA,180926.278,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180926.278,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:09:27+04"
+at#csurv
+Network survey started ...
+$GPGGA,180927.278,,,,,0,04,2.4,,M,0.0,M,,0000*72
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180927.278,V,,,,,,,090218,,,N*47
+$GPGGA,180928.278,,,,,0,04,2.4,,M,0.0,M,,0000*7D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180928.278,V,,,,,,,090218,,,N*48
+$GPGGA,180929.278,,,,,0,04,2.4,,M,0.0,M,,0000*7C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180929.278,V,,,,,,,090218,,,N*49
+$GPGGA,180930.278,,,,,0,04,2.4,,M,0.0,M,,0000*74
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,25,77,314,20,12,51,064,17,29,46,190,15,24,26,133,24*78
+$GPGSV,3,2,12,02,27,080,14,14,40,287,17,31,27,304,19,33,33,198,*73
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180930.278,V,,,,,,,090218,,,N*41
+$GPGGA,180931.278,,,,,0,04,2.4,,M,0.0,M,,0000*75
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180931.278,V,,,,,,,090218,,,N*40
+$GPGGA,180932.276,4748.5827,N,00150.0187,W,1,04,2.4,59.0,M,48.5,M,,0000*76
+$GPGSA,M,3,25,12,29,24,,,,,,,,,3.9,2.4,3.2*3A
+$GPRMC,180932.276,A,4748.5827,N,00150.0187,W,64.66,192.56,090218,,,A*4A
+$GPGGA,180933.276,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180933.276,V,,,,,,,090218,,,N*4C
+$GPGGA,180934.276,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180934.276,V,,,,,,,090218,,,N*4B
+arfcn: 118 bsic: 24 rxLev: -88 ber: 0.00 mcc: 208 mnc: 10 lac: 6001 cellId: 31992 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 116 118 numChannels: 13 array: 76 77 78 81 82 84 86 113 114 115 120 121 124 pbcch: 0 nom: 2 rac: 61 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 7 pcMeasCh: 1 
+arfcn: 98 rxLev: -92
+$GPGGA,180935.276,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 97 rxLev: -93
+$GPGSV,3,1,12,02,27,080,14,12,51,064,16,14,40,287,17,24,26,133,23*78
+$GPGSV,3,2,12,25,77,314,07,29,46,190,15,31,27,304,18,33,33,198,*71
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180935.276,V,,,,,,,090218,,,N*4A
+$GPGGA,180936.276,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180936.276,V,,,,,,,090218,,,N*49
+$GPGGA,180937.276,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180937.276,V,,,,,,,090218,,,N*48
+$GPGGA,180938.276,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180938.276,V,,,,,,,090218,,,N*47
+$GPGGA,180939.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180939.276,V,,,,,,,090218,,,N*46
+arfcn: 979 bsic: 0 rxLev: -93 ber: 0.03 mcc: 208 mnc: 20 lac: 413 cellId: 20510 cellStatus: CELL_SUITABLE numArfcn: 1 arfcn: 979 numChannels: 23 array: 789 790 791 792 793 796 878 881 883 885 975 976 977 980 981 982 1012 1013 1014 1015 1016 1019 1022 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+$GPGGA,180940.276,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,14,12,51,064,16,14,40,287,21,24,26,133,17*7A
+$GPGSV,3,2,12,25,77,314,04,29,46,190,15,31,27,304,17,33,33,198,*7D
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180940.276,V,,,,,,,090218,,,N*48
+arfcn: 4 bsic: 1 rxLev: -93 ber: 8.03 mcc: 208 mnc: 01 lac: 10301 cellId: 62570 cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 4 17 18 19 20 21 22 23 24 25 26 27 28 29 43 44 45 46 47 48 49 numChannels: 13 array: 1 3 4 5 6 7 8 9 11 13 14 15 513 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 5 pcMeasCh: 1 
+arfcn: 65 rxLev: -93
+arfcn: 977 bsic: 0 rxLev: -93 ber: 0.00 mcc: 208 mnc: 20 lac: 413 cellId: 20508 cellStatus: CELL_SUITABLE numArfcn: 1 arfcn: 977 numChannels: 18 array: 975 976 979 980 981 982 984 985 1012 1013 1014 1016 1018 1022 788 791 793 881 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 99 rxLev: -93
+arfcn: 96 rxLev: -94
+$GPGGA,180941.276,,,,,0,00,,,M,0.0,M,,0000*50
+arfcn: 93 rxLev: -94
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 63 rxLev: -94
+$GPRMC,180941.276,V,,,,,,,090218,,,N*49
+arfcn: 66 rxLev: -94
+arfcn: 64 rxLev: -94
+arfcn: 60 rxLev: -94
+arfcn: 94 rxLev: -94
+arfcn: 100 rxLev: -94
+arfcn: 102 rxLev: -94
+arfcn: 101 rxLev: -95
+arfcn: 95 rxLev: -95
+$GPGGA,180942.278,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 92 rxLev: -95
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 59 rxLev: -95
+$GPRMC,180942.278,V,,,,,,,090218,,,N*44
+arfcn: 62 rxLev: -95
+arfcn: 67 rxLev: -95
+arfcn: 70 rxLev: -95
+arfcn: 71 rxLev: -95
+arfcn: 105 rxLev: -95
+arfcn: 106 rxLev: -95
+arfcn: 109 rxLev: -95
+arfcn: 108 rxLev: -96
+$GPGGA,180943.278,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180943.278,V,,,,,,,090218,,,N*45
+$GPGGA,180944.276,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180944.276,V,,,,,,,090218,,,N*4C
+$GPGGA,180945.276,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,16,12,51,064,17,14,40,287,20,24,26,133,16*79
+$GPGSV,3,2,12,25,77,314,04,29,46,190,15,31,27,304,16,33,33,198,*7C
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+$GPRMC,180945.276,V,,,,,,,090218,,,N*4D
+arfcn: 120 bsic: 19 rxLev: -96 ber: 1.04 mcc: 208 mnc: 10 lac: 6001 cellId: 32011 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 120 122 numChannels: 15 array: 76 78 81 82 83 85 86 113 114 115 116 117 118 121 124 pbcch: 0 nom: 2 rac: 61 spgc: 0 pat: 6 nco: 0 t3168: 1000 t3192: 500 drxmax: 2 ctrlAck: 0 bsCVmax: 9 alpha: 7 pcMeasCh: 1 
+arfcn: 58 rxLev: -96
+$GPGGA,180946.278,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 61 rxLev: -96
+$GPRMC,180946.278,V,,,,,,,090218,,,N*40
+arfcn: 54 rxLev: -96
+arfcn: 107 rxLev: -96
+arfcn: 110 rxLev: -96
+arfcn: 103 rxLev: -96
+arfcn: 91 rxLev: -96
+arfcn: 104 rxLev: -97
+arfcn: 56 rxLev: -97
+arfcn: 57 rxLev: -97
+arfcn: 68 rxLev: -97
+arfcn: 69 rxLev: -97
+arfcn: 53 rxLev: -97
+$GPGGA,180947.278,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 124 rxLev: -97
+arfcn: 55 rxLev: -98
+$GPRMC,180947.278,V,,,,,,,090218,,,N*41
+arfcn: 976 rxLev: -99
+arfcn: 72 rxLev: -99
+arfcn: 90 rxLev: -99
+$GPGGA,180948.278,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180948.278,V,,,,,,,090218,,,N*4E
+$GPGGA,180949.278,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180949.278,V,,,,,,,090218,,,N*4F
+$GPGGA,180950.278,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 980 bsic: 34 rxLev: -99 ber: 0.03 mcc: 208 mnc: 20 lac: 284 cellId: 38675 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 980 1023 numChannels: 23 array: 787 788 790 791 793 875 879 880 883 975 977 978 979 982 983 984 985 1012 1014 1015 1018 1020 1022 pbcch: 0 nom: 2 rac: 6 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 975 rxLev: -100
+$GPGSV,3,1,12,02,27,080,17,12,51,064,18,14,40,287,19,24,26,133,15*7E
+arfcn: 3 rxLev: -100
+arfcn: 2 rxLev: -101
+$GPGSV,3,2,12,25,77,314,04,29,46,190,14,31,27,304,16,33,33,198,*7D
+arfcn: 6 rxLev: -101
+$GPGSV,3,3,12,32,42,253,,04,22,113,,06,16,044,,03,00,339,*75
+arfcn: 7 rxLev: -101
+$GPRMC,180950.278,V,,,,,,,090218,,,N*47
+arfcn: 52 rxLev: -101
+arfcn: 46 rxLev: -101
+arfcn: 123 rxLev: -101
+arfcn: 111 rxLev: -101
+arfcn: 609 rxLev: -101
+$GPGGA,180951.278,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 849 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 115 rxLev: -102
+$GPRMC,180951.278,V,,,,,,,090218,,,N*46
+arfcn: 122 rxLev: -102
+arfcn: 982 rxLev: -102
+arfcn: 10 rxLev: -102
+arfcn: 11 rxLev: -102
+arfcn: 12 rxLev: -102
+arfcn: 15 rxLev: -102
+arfcn: 121 rxLev: -102
+arfcn: 119 rxLev: -102
+$GPGGA,180952.278,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1023 rxLev: -102
+arfcn: 789 rxLev: -103
+$GPRMC,180952.278,V,,,,,,,090218,,,N*45
+arfcn: 978 rxLev: -103
+arfcn: 13 rxLev: -103
+arfcn: 9 rxLev: -103
+arfcn: 5 rxLev: -103
+arfcn: 16 rxLev: -103
+arfcn: 17 rxLev: -103
+arfcn: 20 rxLev: -103
+arfcn: 23 rxLev: -103
+arfcn: 43 rxLev: -103
+$GPGGA,180953.278,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 117 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 89 rxLev: -103
+$GPRMC,180953.278,V,,,,,,,090218,,,N*44
+$GPGGA,180954.278,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180954.278,V,,,,,,,090218,,,N*43
+$GPGGA,180955.278,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,17,12,51,064,18,14,40,287,16,24,26,133,04*71
+$GPGSV,3,2,12,25,77,314,11,29,46,190,14,31,27,304,14,32,42,253,19*70
+$GPGSV,3,3,12,33,33,198,,04,22,113,,06,16,044,,03,00,339,*76
+$GPRMC,180955.278,V,,,,,,,090218,,,N*42
+$GPGGA,180956.278,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180956.278,V,,,,,,,090218,,,N*41
+$GPGGA,180957.276,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180957.276,V,,,,,,,090218,,,N*4E
+$GPGGA,180958.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180958.276,V,,,,,,,090218,,,N*41
+$GPGGA,180959.278,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,180959.278,V,,,,,,,090218,,,N*4E
+arfcn: 78 bsic: 30 rxLev: -103 ber: 0.00 mcc: 208 mnc: 10 lac: 30514 cellId: 20550 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 78 87 numChannels: 11 array: 81 82 83 86 87 114 117 118 120 121 124 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 75 rxLev: -104
+arfcn: 47 rxLev: -104
+arfcn: 44 rxLev: -104
+arfcn: 18 rxLev: -104
+arfcn: 27 rxLev: -104
+arfcn: 1 rxLev: -104
+arfcn: 1022 rxLev: -104
+$GPGGA,181000.276,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 0 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 8 rxLev: -105
+$GPGSV,3,1,12,02,27,080,18,12,51,064,18,14,40,287,16,24,26,133,14*7F
+arfcn: 28 rxLev: -105
+arfcn: 73 rxLev: -105
+$GPGSV,3,2,12,25,77,314,04,29,46,190,16,31,27,304,13,32,42,253,19*71
+$GPGSV,3,3,12,33,33,198,,04,22,113,,06,16,044,,03,00,339,*76
+arfcn: 983 rxLev: -105
+$GPRMC,181000.276,V,,,,,,,090218,,,N*44
+arfcn: 981 rxLev: -105
+arfcn: 759 rxLev: -105
+arfcn: 1001 rxLev: -105
+arfcn: 1005 rxLev: -105
+arfcn: 1006 rxLev: -106
+$GPGGA,181001.276,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 1008 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1004 rxLev: -106
+$GPRMC,181001.276,V,,,,,,,090218,,,N*45
+arfcn: 726 rxLev: -106
+arfcn: 669 rxLev: -106
+arfcn: 1021 rxLev: -106
+$GPGGA,181002.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181002.276,V,,,,,,,090218,,,N*46
+$GPGGA,181003.276,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181003.276,V,,,,,,,090218,,,N*47
+$GPGGA,181004.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181004.276,V,,,,,,,090218,,,N*40
+$GPGGA,181005.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,18,12,51,064,17,14,40,287,17,24,26,133,15*70
+$GPGSV,3,2,12,29,46,190,15,31,27,304,12,32,42,253,19,33,33,198,*76
+$GPGSV,3,3,12,25,77,314,,04,22,113,,06,16,044,,03,00,339,*77
+$GPRMC,181005.276,V,,,,,,,090218,,,N*41
+$GPGGA,181006.278,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181006.278,V,,,,,,,090218,,,N*4C
+Survey end at #CCLK: "18/02/09,19:10:07+04"
+Survey duration: 39 seconds, 7 bases detected over 105 freqs scanned.
+$GPGGA,181007.278,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181007.278,V,,,,,,,090218,,,N*4D
+$GPGGA,181008.276,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181008.276,V,,,,,,,090218,,,N*4C
+$GPGGA,181009.276,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181009.276,V,,,,,,,090218,,,N*4D
+$GPGGA,181010.278,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:10:11+04"
+at#csurv
+Network survey started ...
+$GPGSV,3,1,12,02,27,080,18,12,51,064,18,14,40,287,16,24,26,133,14*7F
+$GPGSV,3,2,12,29,46,190,14,31,27,304,12,32,42,253,19,33,33,198,*77
+$GPGSV,3,3,12,25,77,314,,04,22,113,,06,16,044,,03,00,339,*77
+$GPRMC,181010.278,V,,,,,,,090218,,,N*4B
+$GPGGA,181011.278,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181011.278,V,,,,,,,090218,,,N*4A
+$GPGGA,181012.278,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181012.278,V,,,,,,,090218,,,N*49
+$GPGGA,181013.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181013.276,V,,,,,,,090218,,,N*46
+$GPGGA,181014.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181014.276,V,,,,,,,090218,,,N*41
+$GPGGA,181015.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,080,18,12,51,064,16,14,40,287,17,24,26,133,16*72
+$GPGSV,3,2,12,29,46,190,06,31,27,304,13,32,42,253,18,33,33,198,*74
+$GPGSV,3,3,12,25,77,314,,04,22,113,,06,16,044,,03,00,339,*77
+$GPRMC,181015.276,V,,,,,,,090218,,,N*40
+Survey end at #CCLK: "18/02/09,19:10:16+04"
+Survey duration: 5 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181016.275,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181016.275,V,,,,,,,090218,,,N*40
+$GPGGA,181017.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181017.276,V,,,,,,,090218,,,N*42
+Survey start at #CCLK: "18/02/09,19:10:18+04"
+at#csurv
+Network survey started ...
+$GPGGA,181018.276,,,,,0,00,,,M,0.0,M,,0000*54
+Survey end at #CCLK: "18/02/09,19:10:19+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181018.276,V,,,,,,,090218,,,N*4D
+$GPGGA,181019.276,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181019.276,V,,,,,,,090218,,,N*4C
+Survey start at #CCLK: "18/02/09,19:10:20+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:10:20+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181020.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,17,12,50,065,15,14,40,285,17,24,24,134,16*7F
+$GPGSV,3,2,12,29,48,190,04,31,28,305,12,32,41,251,16,33,33,198,*78
+$GPGSV,3,3,12,25,78,321,,04,23,112,,06,16,043,,03,00,338,*78
+$GPRMC,181020.276,V,,,,,,,090218,,,N*46
+$GPGGA,181021.276,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181021.276,V,,,,,,,090218,,,N*47
+$GPGGA,181022.276,,,,,0,00,,,M,0.0,M,,0000*5D
+Survey start at #CCLK: "18/02/09,19:10:23+04"
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:10:23+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181022.276,V,,,,,,,090218,,,N*44
+$GPGGA,181023.276,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181023.276,V,,,,,,,090218,,,N*45
+$GPGGA,181024.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181024.276,V,,,,,,,090218,,,N*42
+Survey start at #CCLK: "18/02/09,19:10:25+04"
+at#csurv
+Network survey started ...
+$GPGGA,181025.276,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,16,12,50,065,16,14,40,285,17,24,24,134,15*7E
+$GPGSV,3,2,12,29,48,190,04,32,41,251,15,33,33,198,,25,78,321,*7E
+$GPGSV,3,3,12,31,28,305,,04,23,112,,06,16,043,,03,00,338,*7E
+$GPRMC,181025.276,V,,,,,,,090218,,,N*43
+$GPGGA,181026.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181026.276,V,,,,,,,090218,,,N*40
+$GPGGA,181027.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181027.276,V,,,,,,,090218,,,N*41
+$GPGGA,181028.276,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181028.276,V,,,,,,,090218,,,N*4E
+$GPGGA,181029.276,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181029.276,V,,,,,,,090218,,,N*4F
+$GPGGA,181030.276,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,15,12,50,065,15,14,40,285,16,24,24,134,15*7F
+$GPGSV,3,2,12,29,48,190,04,32,41,251,16,33,33,198,,25,78,321,*7D
+$GPGSV,3,3,12,31,28,305,,04,23,112,,06,16,043,,03,00,338,*7E
+$GPRMC,181030.276,V,,,,,,,090218,,,N*47
+$GPGGA,181031.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181031.276,V,,,,,,,090218,,,N*46
+$GPGGA,181032.276,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181032.276,V,,,,,,,090218,,,N*45
+$GPGGA,181033.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181033.276,V,,,,,,,090218,,,N*44
+$GPGGA,181034.276,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181034.276,V,,,,,,,090218,,,N*43
+$GPGGA,181035.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,15,12,50,065,16,14,40,285,16,24,24,134,08*70
+arfcn: 78 bsic: 30 rxLev: -90 ber: 0.00 mcc: 208 mnc: 10 lac: 30514 cellId: 20550 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 78 87 numChannels: 11 array: 81 82 83 86 87 114 117 118 120 121 124 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+$GPGSV,3,2,12,32,41,251,18,33,33,198,,25,78,321,,29,48,190,*77
+$GPGSV,3,3,12,31,28,305,,04,23,112,,06,16,043,,03,00,338,*7E
+$GPRMC,181035.276,V,,,,,,,090218,,,N*42
+$GPGGA,181036.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181036.276,V,,,,,,,090218,,,N*41
+$GPGGA,181037.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181037.276,V,,,,,,,090218,,,N*40
+$GPGGA,181038.276,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181038.276,V,,,,,,,090218,,,N*4F
+$GPGGA,181039.276,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181039.276,V,,,,,,,090218,,,N*4E
+$GPGGA,181040.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,16,12,50,065,16,14,40,285,16,24,24,134,10*7A
+$GPGSV,3,2,12,32,41,251,20,33,33,198,,25,78,321,,29,48,190,*7C
+$GPGSV,3,3,12,31,28,305,,04,23,112,,06,16,043,,03,00,338,*7E
+$GPRMC,181040.276,V,,,,,,,090218,,,N*40
+$GPGGA,181041.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181041.276,V,,,,,,,090218,,,N*41
+$GPGGA,181042.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181042.276,V,,,,,,,090218,,,N*42
+$GPGGA,181043.276,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181043.276,V,,,,,,,090218,,,N*43
+$GPGGA,181044.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181044.276,V,,,,,,,090218,,,N*44
+$GPGGA,181045.272,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,17,12,50,065,09,14,40,285,16,24,24,134,09*7D
+$GPGSV,3,2,12,32,41,251,20,33,33,198,,25,78,321,,29,48,190,*7C
+$GPGSV,3,3,12,31,28,305,,04,23,112,,06,16,043,,03,00,338,*7E
+$GPRMC,181045.272,V,,,,,,,090218,,,N*41
+$GPGGA,181046.272,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181046.272,V,,,,,,,090218,,,N*42
+$GPGGA,181047.272,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181047.272,V,,,,,,,090218,,,N*43
+arfcn: 3 bsic: 36 rxLev: -94 ber: 18.07 mcc: 208 mnc: 01 lac: 10301 cellId: 37653 cellStatus: CELL_FORBIDDEN numArfcn: 13 arfcn: 3 17 18 19 20 21 22 23 24 25 47 48 49 numChannels: 13 array: 1 4 5 6 7 8 9 11 12 13 14 15 513
+arfcn: 979 rxLev: -98
+arfcn: 62 rxLev: -98
+arfcn: 980 bsic: 34 rxLev: -99 ber: 1.04 mcc: 208 mnc: 20 lac: 284 cellId: 38675 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 980 1023 numChannels: 23 array: 975 977 978 979 982 983 984 985 1012 1014 1015 1018 1020 1022 787 788 790 791 793 875 879 880 883 pbcch: 0 nom: 2 rac: 6 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 975 rxLev: -99
+$GPGGA,181048.276,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 976 rxLev: -99
+$GPRMC,181048.276,V,,,,,,,090218,,,N*48
+arfcn: 977 rxLev: -99
+arfcn: 124 rxLev: -99
+arfcn: 10 rxLev: -100
+arfcn: 7 rxLev: -100
+arfcn: 63 rxLev: -100
+arfcn: 61 rxLev: -101
+arfcn: 609 rxLev: -101
+arfcn: 13 rxLev: -101
+$GPGGA,181049.276,,,,,0,00,,,M,0.0,M,,0000*50
+arfcn: 123 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 120 rxLev: -101
+$GPRMC,181049.276,V,,,,,,,090218,,,N*49
+arfcn: 66 rxLev: -101
+arfcn: 67 rxLev: -101
+arfcn: 71 rxLev: -101
+arfcn: 70 rxLev: -102
+arfcn: 11 rxLev: -102
+arfcn: 6 rxLev: -102
+arfcn: 2 rxLev: -102
+arfcn: 44 rxLev: -102
+$GPGGA,181050.272,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 849 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,19,12,50,065,08,14,40,285,16,24,24,134,07*7C
+$GPGSV,3,2,12,32,41,251,21,33,33,198,,25,78,321,,29,48,190,*7D
+$GPGSV,3,3,12,31,28,305,,04,23,112,,06,16,043,,03,00,338,*7E
+$GPRMC,181050.272,V,,,,,,,090218,,,N*45
+$GPGGA,181051.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181051.276,V,,,,,,,090218,,,N*40
+$GPGGA,181052.276,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181052.276,V,,,,,,,090218,,,N*43
+$GPGGA,181053.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181053.276,V,,,,,,,090218,,,N*42
+$GPGGA,181054.276,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181054.276,V,,,,,,,090218,,,N*45
+$GPGGA,181055.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,16,12,50,065,08,14,40,285,16,24,24,134,05*71
+$GPGSV,3,2,12,29,48,190,15,32,41,251,21,33,33,198,,25,78,321,*79
+$GPGSV,3,3,12,31,28,305,,04,23,112,,06,16,043,,03,00,338,*7E
+$GPRMC,181055.276,V,,,,,,,090218,,,N*44
+$GPGGA,181056.276,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181056.276,V,,,,,,,090218,,,N*47
+arfcn: 1015 bsic: 19 rxLev: -102 ber: 14.02 mcc: 208 mnc: 20 lac: 284 cellId: 38744 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1015 numChannels: 15 array: 975 976 977 979 980 982 985 1012 1013 1014 1016 1017 1020 1021 1022
+arfcn: 59 rxLev: -102
+arfcn: 64 rxLev: -102
+arfcn: 4 rxLev: -102
+Survey end at #CCLK: "18/02/09,19:10:57+04"
+Survey duration: 32 seconds, 4 bases detected over 30 freqs scanned.
+$GPGGA,181057.277,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181057.277,V,,,,,,,090218,,,N*47
+$GPGGA,181058.277,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181058.277,V,,,,,,,090218,,,N*48
+Survey start at #CCLK: "18/02/09,19:10:59+04"
+at#csurv
+Network survey started ...
+$GPGGA,181059.277,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181059.277,V,,,,,,,090218,,,N*49
+$GPGGA,181100.277,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,17,12,50,065,07,14,40,285,16,24,24,134,11*7A
+$GPGSV,3,2,12,29,48,190,13,32,41,251,19,33,33,198,,25,78,321,*74
+$GPGSV,3,3,12,31,28,305,,04,23,112,,06,16,043,,03,00,338,*7E
+$GPRMC,181100.277,V,,,,,,,090218,,,N*44
+$GPGGA,181101.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181101.276,V,,,,,,,090218,,,N*44
+$GPGGA,181102.277,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181102.277,V,,,,,,,090218,,,N*46
+$GPGGA,181103.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181103.276,V,,,,,,,090218,,,N*46
+$GPGGA,181104.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181104.276,V,,,,,,,090218,,,N*41
+$GPGGA,181105.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,17,12,50,065,05,14,40,285,17,24,24,134,04*7D
+$GPGSV,3,2,12,29,48,190,08,32,41,251,19,33,33,198,,25,78,321,*7E
+$GPGSV,3,3,12,31,28,305,,04,23,112,,06,16,043,,03,00,338,*7E
+$GPRMC,181105.276,V,,,,,,,090218,,,N*40
+$GPGGA,181106.276,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181106.276,V,,,,,,,090218,,,N*43
+$GPGGA,181107.272,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181107.272,V,,,,,,,090218,,,N*46
+$GPGGA,181108.276,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181108.276,V,,,,,,,090218,,,N*4D
+arfcn: 980 bsic: 34 rxLev: -93 ber: 0.00 mcc: 208 mnc: 20 lac: 284 cellId: 38675 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 980 1023 numChannels: 23 array: 975 977 978 979 982 983 984 985 1012 1014 1015 1018 1020 1022 787 788 790 791 793 875 879 880 883 pbcch: 0 nom: 2 rac: 6 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 976 rxLev: -98
+arfcn: 975 rxLev: -99
+arfcn: 10 rxLev: -99
+arfcn: 124 rxLev: -99
+arfcn: 7 rxLev: -100
+arfcn: 62 rxLev: -100
+arfcn: 63 rxLev: -100
+arfcn: 71 rxLev: -100
+arfcn: 979 rxLev: -100
+$GPGGA,181109.276,,,,,0,00,,,M,0.0,M,,0000*55
+arfcn: 66 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 67 rxLev: -101
+$GPRMC,181109.276,V,,,,,,,090218,,,N*4C
+arfcn: 609 rxLev: -101
+arfcn: 70 rxLev: -101
+arfcn: 6 rxLev: -101
+arfcn: 3 rxLev: -101
+arfcn: 12 rxLev: -101
+arfcn: 977 rxLev: -101
+arfcn: 120 rxLev: -101
+arfcn: 123 rxLev: -101
+arfcn: 61 rxLev: -102
+$GPGGA,181110.272,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 849 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 65 rxLev: -103
+arfcn: 1 rxLev: -103
+$GPGSV,3,1,12,02,27,079,16,12,50,065,13,14,40,285,17,29,48,190,08*7E
+arfcn: 978 rxLev: -103
+$GPGSV,3,2,12,32,41,251,18,33,33,198,,25,78,321,,31,28,305,*76
+arfcn: 75 rxLev: -103
+arfcn: 86 rxLev: -103
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+arfcn: 122 rxLev: -103
+$GPRMC,181110.272,V,,,,,,,090218,,,N*40
+arfcn: 2 rxLev: -103
+arfcn: 11 rxLev: -103
+arfcn: 64 rxLev: -103
+arfcn: 72 rxLev: -103
+$GPGGA,181111.272,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 69 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 60 rxLev: -104
+$GPRMC,181111.272,V,,,,,,,090218,,,N*41
+arfcn: 59 rxLev: -104
+arfcn: 49 rxLev: -104
+arfcn: 56 rxLev: -104
+arfcn: 8 rxLev: -104
+arfcn: 15 rxLev: -104
+arfcn: 115 rxLev: -104
+arfcn: 789 rxLev: -104
+arfcn: 981 rxLev: -104
+arfcn: 77 rxLev: -104
+$GPGGA,181112.276,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 982 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 983 rxLev: -104
+$GPRMC,181112.276,V,,,,,,,090218,,,N*46
+arfcn: 984 rxLev: -104
+arfcn: 13 rxLev: -104
+arfcn: 4 rxLev: -104
+arfcn: 57 rxLev: -104
+arfcn: 55 rxLev: -104
+arfcn: 47 rxLev: -104
+arfcn: 68 rxLev: -105
+arfcn: 73 rxLev: -105
+arfcn: 0 rxLev: -105
+$GPGGA,181113.276,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 38 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 994 rxLev: -105
+$GPRMC,181113.276,V,,,,,,,090218,,,N*47
+arfcn: 1003 rxLev: -105
+arfcn: 1005 rxLev: -105
+arfcn: 1006 rxLev: -105
+arfcn: 101 rxLev: -105
+arfcn: 121 rxLev: -105
+arfcn: 37 rxLev: -105
+arfcn: 36 rxLev: -105
+arfcn: 17 rxLev: -105
+$GPGGA,181114.276,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 18 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 19 rxLev: -105
+$GPRMC,181114.276,V,,,,,,,090218,,,N*40
+arfcn: 21 rxLev: -105
+arfcn: 58 rxLev: -105
+arfcn: 54 rxLev: -105
+arfcn: 43 rxLev: -105
+arfcn: 44 rxLev: -105
+arfcn: 45 rxLev: -106
+arfcn: 41 rxLev: -106
+arfcn: 42 rxLev: -106
+arfcn: 16 rxLev: -106
+arfcn: 35 rxLev: -106
+$GPGGA,181115.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 32 rxLev: -106
+arfcn: 34 rxLev: -106
+$GPGSV,3,1,12,02,27,079,16,12,50,065,13,14,40,285,16,29,48,190,04*73
+arfcn: 5 rxLev: -106
+arfcn: 14 rxLev: -106
+$GPGSV,3,2,12,32,41,251,18,33,33,198,,25,78,321,,31,28,305,*76
+arfcn: 74 rxLev: -106
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181115.276,V,,,,,,,090218,,,N*41
+$GPGGA,181116.275,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181116.275,V,,,,,,,090218,,,N*41
+$GPGGA,181117.277,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181117.277,V,,,,,,,090218,,,N*42
+$GPGGA,181118.277,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181118.277,V,,,,,,,090218,,,N*4D
+arfcn: 78 bsic: 30 rxLev: -106 ber: 1.06 mcc: 208 mnc: 10 lac: 30514 cellId: 20550 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 78 87 numChannels: 11 array: 81 82 83 86 87 114 117 118 120 121 124 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 1004 rxLev: -106
+arfcn: 1002 rxLev: -106
+arfcn: 998 rxLev: -106
+arfcn: 995 rxLev: -106
+arfcn: 996 rxLev: -106
+$GPGGA,181119.276,,,,,0,00,,,M,0.0,M,,0000*54
+arfcn: 729 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 606 rxLev: -106
+$GPRMC,181119.276,V,,,,,,,090218,,,N*4D
+arfcn: 1021 rxLev: -106
+arfcn: 1022 rxLev: -106
+arfcn: 861 rxLev: -106
+arfcn: 669 rxLev: -106
+arfcn: 990 rxLev: -106
+arfcn: 991 rxLev: -106
+arfcn: 993 rxLev: -106
+arfcn: 985 rxLev: -106
+arfcn: 986 rxLev: -106
+arfcn: 999 rxLev: -106
+$GPGGA,181120.277,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1001 rxLev: -106
+$GPGSV,3,1,12,02,27,079,15,12,50,065,09,14,40,285,15,29,48,190,04*78
+arfcn: 1007 rxLev: -106
+arfcn: 98 rxLev: -106
+$GPGSV,3,2,12,32,41,251,16,33,33,198,,25,78,321,,31,28,305,*78
+arfcn: 9 rxLev: -106
+arfcn: 39 rxLev: -106
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+arfcn: 40 rxLev: -106
+$GPRMC,181120.277,V,,,,,,,090218,,,N*46
+arfcn: 53 rxLev: -106
+arfcn: 52 rxLev: -107
+arfcn: 46 rxLev: -107
+arfcn: 33 rxLev: -107
+$GPGGA,181121.277,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 31 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 100 rxLev: -107
+$GPRMC,181121.277,V,,,,,,,090218,,,N*47
+arfcn: 105 rxLev: -107
+arfcn: 96 rxLev: -107
+arfcn: 110 rxLev: -107
+arfcn: 118 rxLev: -107
+arfcn: 1008 rxLev: -107
+arfcn: 1015 rxLev: -107
+arfcn: 1000 rxLev: -107
+arfcn: 988 rxLev: -107
+arfcn: 992 rxLev: -107
+arfcn: 786 rxLev: -107
+$GPGGA,181122.276,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 1023 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181122.276,V,,,,,,,090218,,,N*45
+arfcn: 1020 rxLev: -107
+arfcn: 1019 rxLev: -107
+arfcn: 997 rxLev: -107
+arfcn: 989 rxLev: -107
+arfcn: 987 rxLev: -107
+arfcn: 116 rxLev: -107
+arfcn: 95 rxLev: -107
+arfcn: 76 rxLev: -107
+arfcn: 104 rxLev: -107
+arfcn: 102 rxLev: -107
+$GPGGA,181123.276,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 99 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 97 rxLev: -107
+$GPRMC,181123.276,V,,,,,,,090218,,,N*44
+arfcn: 22 rxLev: -107
+arfcn: 24 rxLev: -108
+arfcn: 20 rxLev: -108
+arfcn: 1014 rxLev: -108
+arfcn: 1010 rxLev: -108
+arfcn: 1012 rxLev: -108
+arfcn: 1009 rxLev: -108
+arfcn: 1018 rxLev: -108
+arfcn: 1016 rxLev: -108
+arfcn: 1017 rxLev: -108
+$GPGGA,181124.276,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 513 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/09,19:11:25+04"
+Survey duration: 25 seconds, 2 bases detected over 145 freqs scanned.
+$GPRMC,181124.276,V,,,,,,,090218,,,N*43
+$GPGGA,181125.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,15,12,50,065,09,14,40,285,17,29,48,190,07*79
+$GPGSV,3,2,12,32,41,251,15,33,33,198,,25,78,321,,31,28,305,*7B
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181125.276,V,,,,,,,090218,,,N*42
+$GPGGA,181126.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181126.276,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:11:27+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:27+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181127.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181127.276,V,,,,,,,090218,,,N*40
+$GPGGA,181128.272,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181128.272,V,,,,,,,090218,,,N*4B
+$GPGGA,181129.272,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:11:30+04"
+$GPRMC,181129.272,V,,,,,,,090218,,,N*4A
+at#csurv
+Network survey started ...
+$GPGGA,181130.272,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,16,12,50,065,16,14,40,285,16,29,48,190,06*74
+$GPGSV,3,2,12,32,41,251,14,33,33,198,,25,78,321,,31,28,305,*7A
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181130.272,V,,,,,,,090218,,,N*42
+$GPGGA,181131.276,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181131.276,V,,,,,,,090218,,,N*47
+Survey end at #CCLK: "18/02/09,19:11:32+04"
+Survey duration: 2 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181132.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181132.276,V,,,,,,,090218,,,N*44
+Survey start at #CCLK: "18/02/09,19:11:33+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:33+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181133.272,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181133.272,V,,,,,,,090218,,,N*41
+$GPGGA,181134.272,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181134.272,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:11:35+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:35+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181135.272,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,17,12,50,065,16,14,40,285,15,29,48,190,05*75
+$GPGSV,3,2,12,32,41,251,15,33,33,198,,25,78,321,,31,28,305,*7B
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181135.272,V,,,,,,,090218,,,N*47
+$GPGGA,181136.272,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181136.272,V,,,,,,,090218,,,N*44
+$GPGGA,181137.272,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181137.272,V,,,,,,,090218,,,N*45
+Survey start at #CCLK: "18/02/09,19:11:38+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:38+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181138.272,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181138.272,V,,,,,,,090218,,,N*4A
+$GPGGA,181139.276,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181139.276,V,,,,,,,090218,,,N*4F
+Survey start at #CCLK: "18/02/09,19:11:40+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:40+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181140.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,17,12,50,065,16,14,40,285,15,29,48,190,09*79
+$GPGSV,3,2,12,32,41,251,17,33,33,198,,25,78,321,,31,28,305,*79
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181140.276,V,,,,,,,090218,,,N*41
+$GPGGA,181141.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181141.276,V,,,,,,,090218,,,N*40
+$GPGGA,181142.276,,,,,0,00,,,M,0.0,M,,0000*5A
+Survey start at #CCLK: "18/02/09,19:11:42+04"
+at#csurv
+Network survey started ...
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey end at #CCLK: "18/02/09,19:11:43+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181142.276,V,,,,,,,090218,,,N*43
+$GPGGA,181143.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181143.276,V,,,,,,,090218,,,N*42
+$GPGGA,181144.276,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181144.276,V,,,,,,,090218,,,N*45
+Survey start at #CCLK: "18/02/09,19:11:45+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:45+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181145.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,15,12,50,065,15,14,40,285,16,29,48,190,11*72
+$GPGSV,3,2,12,32,41,251,18,33,33,198,,25,78,321,,31,28,305,*76
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181145.276,V,,,,,,,090218,,,N*44
+$GPGGA,181146.276,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181146.276,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:11:47+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:47+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181147.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181147.276,V,,,,,,,090218,,,N*46
+$GPGGA,181148.276,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181148.276,V,,,,,,,090218,,,N*49
+Survey start at #CCLK: "18/02/09,19:11:49+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:49+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181149.276,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181149.276,V,,,,,,,090218,,,N*48
+$GPGGA,181150.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,15,14,40,285,15,29,48,190,16,32,41,251,17*7F
+$GPGSV,3,2,12,33,33,198,,25,78,321,,31,28,305,,02,27,079,*74
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181150.276,V,,,,,,,090218,,,N*40
+Survey start at #CCLK: "18/02/09,19:11:51+04"
+$GPGGA,181151.276,,,,,0,00,,,M,0.0,M,,0000*58
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:52+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181151.276,V,,,,,,,090218,,,N*41
+$GPGGA,181152.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181152.276,V,,,,,,,090218,,,N*42
+$GPGGA,181153.272,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181153.272,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:11:54+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:54+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181154.272,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181154.272,V,,,,,,,090218,,,N*40
+$GPGGA,181155.276,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,16,14,40,285,13,25,78,321,14,29,48,190,16*73
+$GPGSV,3,2,12,32,41,251,17,33,33,198,,31,28,305,,02,27,079,*78
+Survey start at #CCLK: "18/02/09,19:11:56+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:56+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181155.276,V,,,,,,,090218,,,N*45
+$GPGGA,181156.272,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181156.272,V,,,,,,,090218,,,N*42
+$GPGGA,181157.272,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181157.272,V,,,,,,,090218,,,N*43
+Survey start at #CCLK: "18/02/09,19:11:58+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:11:58+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181158.276,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181158.276,V,,,,,,,090218,,,N*48
+$GPGGA,181159.276,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181159.276,V,,,,,,,090218,,,N*49
+Survey start at #CCLK: "18/02/09,19:12:00+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:00+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181200.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,15,14,40,285,13,25,78,321,14,29,48,190,15*73
+$GPGSV,3,2,12,32,41,251,16,33,33,198,,31,28,305,,02,27,079,*79
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181200.276,V,,,,,,,090218,,,N*46
+$GPGGA,181201.272,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181201.272,V,,,,,,,090218,,,N*43
+$GPGGA,181202.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:12:03+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:03+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181202.276,V,,,,,,,090218,,,N*44
+$GPGGA,181203.272,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181203.272,V,,,,,,,090218,,,N*41
+$GPGGA,181204.272,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181204.272,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:12:05+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:05+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181205.272,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,16,14,40,285,14,25,78,321,14,29,48,190,14*76
+$GPGSV,3,2,12,32,41,251,16,33,33,198,,31,28,305,,02,27,079,*79
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181205.272,V,,,,,,,090218,,,N*47
+$GPGGA,181206.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181206.276,V,,,,,,,090218,,,N*40
+Survey start at #CCLK: "18/02/09,19:12:07+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:07+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181207.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181207.276,V,,,,,,,090218,,,N*41
+$GPGGA,181208.276,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181208.276,V,,,,,,,090218,,,N*4E
+Survey start at #CCLK: "18/02/09,19:12:09+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:09+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181209.276,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181209.276,V,,,,,,,090218,,,N*4F
+$GPGGA,181210.276,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,16,14,40,285,15,25,78,321,16,29,48,190,08*78
+$GPGSV,3,2,12,32,41,251,15,33,33,198,,31,28,305,,02,27,079,*7A
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181210.276,V,,,,,,,090218,,,N*47
+$GPGGA,181211.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181211.276,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:12:12+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:12+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181212.276,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181212.276,V,,,,,,,090218,,,N*45
+$GPGGA,181213.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181213.276,V,,,,,,,090218,,,N*44
+Survey start at #CCLK: "18/02/09,19:12:14+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:14+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181214.276,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181214.276,V,,,,,,,090218,,,N*43
+$GPGGA,181215.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,15,14,40,285,14,25,78,321,16,29,48,190,08*7A
+$GPGSV,3,2,12,32,41,251,15,33,33,198,,31,28,305,,02,27,079,*7A
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181215.276,V,,,,,,,090218,,,N*42
+Survey start at #CCLK: "18/02/09,19:12:16+04"
+$GPGGA,181216.275,,,,,0,00,,,M,0.0,M,,0000*5B
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:17+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181216.275,V,,,,,,,090218,,,N*42
+$GPGGA,181217.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181217.276,V,,,,,,,090218,,,N*40
+$GPGGA,181218.276,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181218.276,V,,,,,,,090218,,,N*4F
+Survey start at #CCLK: "18/02/09,19:12:19+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:19+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181219.276,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181219.276,V,,,,,,,090218,,,N*4E
+$GPGGA,181220.272,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,14,14,40,285,15,25,78,321,15,29,48,190,11*71
+$GPGSV,3,2,12,32,41,251,15,33,33,198,,31,28,305,,02,27,079,*7A
+Survey start at #CCLK: "18/02/09,19:12:21+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:21+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181220.272,V,,,,,,,090218,,,N*40
+$GPGGA,181221.276,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181221.276,V,,,,,,,090218,,,N*45
+$GPGGA,181222.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181222.276,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:12:23+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:23+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181223.276,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181223.276,V,,,,,,,090218,,,N*47
+$GPGGA,181224.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181224.276,V,,,,,,,090218,,,N*40
+Survey start at #CCLK: "18/02/09,19:12:25+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:25+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181225.276,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,07,14,40,285,16,25,78,321,16,29,48,190,11*73
+$GPGSV,3,2,12,32,41,251,16,33,33,198,,31,28,305,,02,27,079,*79
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181225.276,V,,,,,,,090218,,,N*41
+$GPGGA,181226.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181226.276,V,,,,,,,090218,,,N*42
+$GPGGA,181227.275,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:12:28+04"
+at#csurv
+$GPRMC,181227.275,V,,,,,,,090218,,,N*40
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:28+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181228.275,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181228.275,V,,,,,,,090218,,,N*4F
+$GPGGA,181229.275,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181229.275,V,,,,,,,090218,,,N*4E
+Survey start at #CCLK: "18/02/09,19:12:30+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:30+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181230.276,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,079,12,12,50,065,15,14,40,285,17,24,24,134,13*7F
+$GPGSV,3,2,12,25,78,321,16,29,48,190,09,32,41,251,17,33,33,198,*76
+$GPGSV,3,3,12,31,28,305,,04,23,112,,06,16,043,,03,00,338,*7E
+$GPRMC,181230.276,V,,,,,,,090218,,,N*45
+$GPGGA,181231.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181231.276,V,,,,,,,090218,,,N*44
+Survey start at #CCLK: "18/02/09,19:12:32+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:32+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181232.275,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181232.275,V,,,,,,,090218,,,N*44
+$GPGGA,181233.275,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181233.275,V,,,,,,,090218,,,N*45
+Survey start at #CCLK: "18/02/09,19:12:34+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:34+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181234.275,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181234.275,V,,,,,,,090218,,,N*42
+$GPGGA,181235.275,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,15,14,40,285,16,24,24,134,14,25,78,321,16*7C
+$GPGSV,3,2,12,29,48,190,08,32,41,251,17,33,33,198,,31,28,305,*76
+$GPGSV,3,3,12,02,27,079,,04,23,112,,06,16,043,,03,00,338,*79
+$GPRMC,181235.275,V,,,,,,,090218,,,N*43
+$GPGGA,181236.275,,,,,0,00,,,M,0.0,M,,0000*59
+Survey start at #CCLK: "18/02/09,19:12:37+04"
+at#csurv
+Network survey started ...
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey end at #CCLK: "18/02/09,19:12:37+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181236.275,V,,,,,,,090218,,,N*40
+$GPGGA,181237.275,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181237.275,V,,,,,,,090218,,,N*41
+$GPGGA,181238.272,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181238.272,V,,,,,,,090218,,,N*49
+Survey start at #CCLK: "18/02/09,19:12:39+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:39+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181239.275,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181239.275,V,,,,,,,090218,,,N*4F
+$GPGGA,181240.275,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,25,14,40,285,15,24,24,134,14,25,78,321,15*7F
+$GPGSV,3,2,12,29,48,190,08,32,41,251,19,33,33,198,,31,28,305,*78
+$GPGSV,3,3,12,02,27,079,,04,23,112,,06,16,043,,03,00,338,*79
+Survey start at #CCLK: "18/02/09,19:12:41+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:41+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181240.275,V,,,,,,,090218,,,N*41
+$GPGGA,181241.275,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181241.275,V,,,,,,,090218,,,N*40
+$GPGGA,181242.275,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181242.275,V,,,,,,,090218,,,N*43
+Survey start at #CCLK: "18/02/09,19:12:43+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:43+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181243.275,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181243.275,V,,,,,,,090218,,,N*42
+$GPGGA,181244.275,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181244.275,V,,,,,,,090218,,,N*45
+$GPGGA,181245.275,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:12:46+04"
+at#csurv
+Network survey started ...
+$GPGSV,3,1,12,12,50,065,10,14,40,285,13,24,24,134,06,25,78,321,04*7C
+Survey end at #CCLK: "18/02/09,19:12:46+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,2,12,29,48,190,08,32,41,251,12,33,33,198,,31,28,305,*73
+$GPGSV,3,3,12,02,27,079,,04,23,112,,06,16,043,,03,00,338,*79
+$GPRMC,181245.275,V,,,,,,,090218,,,N*44
+$GPGGA,181246.275,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181246.275,V,,,,,,,090218,,,N*47
+$GPGGA,181247.275,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181247.275,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:12:48+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:48+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181248.275,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181248.275,V,,,,,,,090218,,,N*49
+$GPGGA,181249.275,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181249.275,V,,,,,,,090218,,,N*48
+Survey start at #CCLK: "18/02/09,19:12:50+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:50+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181250.275,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,04,14,40,285,12,24,24,134,04,25,78,321,04*7A
+$GPGSV,3,2,12,29,48,190,05,32,41,251,10,33,33,198,,31,28,305,*7C
+$GPGSV,3,3,12,02,27,079,,04,23,112,,06,16,043,,03,00,338,*79
+$GPRMC,181250.275,V,,,,,,,090218,,,N*40
+$GPGGA,181251.272,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181251.272,V,,,,,,,090218,,,N*46
+$GPGGA,181252.277,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:12:53+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:53+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181252.277,V,,,,,,,090218,,,N*40
+$GPGGA,181253.277,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181253.277,V,,,,,,,090218,,,N*41
+$GPGGA,181254.277,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181254.277,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:12:55+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:55+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181255.277,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,04,24,24,134,04,25,78,321,04,29,48,190,04*7C
+$GPGSV,3,2,12,33,33,198,,32,41,251,,14,40,285,,31,28,305,*79
+$GPGSV,3,3,12,02,27,079,,04,23,112,,06,16,043,,03,00,338,*79
+$GPRMC,181255.277,V,,,,,,,090218,,,N*47
+$GPGGA,181256.278,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181256.278,V,,,,,,,090218,,,N*4B
+Survey start at #CCLK: "18/02/09,19:12:57+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:57+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181257.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181257.276,V,,,,,,,090218,,,N*44
+$GPGGA,181258.277,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181258.277,V,,,,,,,090218,,,N*4A
+Survey start at #CCLK: "18/02/09,19:12:59+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:12:59+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181259.276,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181259.276,V,,,,,,,090218,,,N*4A
+$GPGGA,181300.277,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,04,24,24,134,04,29,48,190,04,33,33,198,*70
+$GPGSV,3,2,12,25,78,321,,32,41,251,,14,40,285,,31,28,305,*71
+$GPGSV,3,3,12,02,27,079,,04,23,112,,06,16,043,,03,00,338,*79
+$GPRMC,181300.277,V,,,,,,,090218,,,N*46
+$GPGGA,181301.277,,,,,0,00,,,M,0.0,M,,0000*5E
+Survey start at #CCLK: "18/02/09,19:13:01+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:02+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181301.277,V,,,,,,,090218,,,N*47
+$GPGGA,181302.277,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181302.277,V,,,,,,,090218,,,N*44
+$GPGGA,181303.277,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181303.277,V,,,,,,,090218,,,N*45
+Survey start at #CCLK: "18/02/09,19:13:04+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:04+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181304.277,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181304.277,V,,,,,,,090218,,,N*42
+$GPGGA,181305.277,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,50,065,04,29,48,190,04,33,33,198,,25,78,321,*7A
+$GPGSV,3,2,12,32,41,251,,14,40,285,,31,28,305,,02,27,079,*70
+Survey start at #CCLK: "18/02/09,19:13:06+04"
+at#csurv
+Network survey started ...
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+Survey end at #CCLK: "18/02/09,19:13:06+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181305.277,V,,,,,,,090218,,,N*43
+$GPGGA,181306.277,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181306.277,V,,,,,,,090218,,,N*40
+$GPGGA,181307.276,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181307.276,V,,,,,,,090218,,,N*40
+Survey start at #CCLK: "18/02/09,19:13:08+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:08+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181308.276,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181308.276,V,,,,,,,090218,,,N*4F
+$GPGGA,181309.276,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181309.276,V,,,,,,,090218,,,N*4E
+Survey start at #CCLK: "18/02/09,19:13:10+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:10+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181310.275,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,33,33,198,,25,78,321,,12,50,065,,29,48,190,*7A
+$GPGSV,3,2,12,32,41,251,,14,40,285,,31,28,305,,02,27,079,*70
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181310.275,V,,,,,,,090218,,,N*45
+$GPGGA,181311.275,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181311.275,V,,,,,,,090218,,,N*44
+$GPGGA,181312.276,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:13:13+04"
+at#csurv
+Network survey started ...
+$GPRMC,181312.276,V,,,,,,,090218,,,N*44
+Survey end at #CCLK: "18/02/09,19:13:13+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181313.276,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181313.276,V,,,,,,,090218,,,N*45
+$GPGGA,181314.276,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181314.276,V,,,,,,,090218,,,N*42
+Survey start at #CCLK: "18/02/09,19:13:15+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:15+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181315.276,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,33,33,198,,25,78,321,,12,50,065,,29,48,190,*7A
+$GPGSV,3,2,12,32,41,251,,14,40,285,,31,28,305,,02,27,079,*70
+$GPGSV,3,3,12,24,24,134,,04,23,112,,06,16,043,,03,00,338,*76
+$GPRMC,181315.276,V,,,,,,,090218,,,N*43
+$GPGGA,181316.271,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181316.271,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:13:17+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:17+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181317.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181317.271,V,,,,,,,090218,,,N*46
+$GPGGA,181318.271,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181318.271,V,,,,,,,090218,,,N*49
+$GPGGA,181319.271,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:13:20+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:20+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181319.271,V,,,,,,,090218,,,N*48
+$GPGGA,181320.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,25,78,328,16,33,33,198,,29,49,190,,12,49,065,*7D
+$GPGSV,3,2,12,32,40,249,,14,40,284,,31,30,305,,02,27,077,*7E
+$GPGSV,3,3,12,04,24,111,,24,23,134,,06,16,042,,03,00,337,*7B
+$GPRMC,181320.271,V,,,,,,,090218,,,N*42
+$GPGGA,181321.271,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181321.271,V,,,,,,,090218,,,N*43
+Survey start at #CCLK: "18/02/09,19:13:22+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:22+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181322.271,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181322.271,V,,,,,,,090218,,,N*40
+$GPGGA,181323.271,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181323.271,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:13:24+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:24+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181324.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181324.271,V,,,,,,,090218,,,N*46
+$GPGGA,181325.271,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,25,78,328,15,33,33,198,,29,49,190,,12,49,065,*7E
+$GPGSV,3,2,12,32,40,249,,14,40,284,,31,30,305,,02,27,077,*7E
+$GPGSV,3,3,12,04,24,111,,24,23,134,,06,16,042,,03,00,337,*7B
+$GPRMC,181325.271,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:13:26+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:26+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181326.271,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181326.271,V,,,,,,,090218,,,N*44
+$GPGGA,181327.271,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181327.271,V,,,,,,,090218,,,N*45
+$GPGGA,181328.271,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181328.271,V,,,,,,,090218,,,N*4A
+Survey start at #CCLK: "18/02/09,19:13:29+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:29+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181329.271,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181329.271,V,,,,,,,090218,,,N*4B
+$GPGGA,181330.271,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,25,78,328,13,33,33,198,,29,49,190,,12,49,065,*78
+$GPGSV,3,2,12,32,40,249,,14,40,284,,31,30,305,,02,27,077,*7E
+Survey start at #CCLK: "18/02/09,19:13:31+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:31+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,3,12,04,24,111,,24,23,134,,06,16,042,,03,00,337,*7B
+$GPRMC,181330.271,V,,,,,,,090218,,,N*43
+$GPGGA,181331.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181331.271,V,,,,,,,090218,,,N*42
+$GPGGA,181332.271,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181332.271,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:13:33+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:33+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181333.271,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181333.271,V,,,,,,,090218,,,N*40
+$GPGGA,181334.271,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181334.271,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:13:35+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:35+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181335.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,25,78,328,12,33,33,198,,29,49,190,,12,49,065,*79
+$GPGSV,3,2,12,32,40,249,,14,40,284,,31,30,305,,02,27,077,*7E
+$GPGSV,3,3,12,04,24,111,,24,23,134,,06,16,042,,03,00,337,*7B
+$GPRMC,181335.271,V,,,,,,,090218,,,N*46
+$GPGGA,181336.271,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181336.271,V,,,,,,,090218,,,N*45
+$GPGGA,181337.277,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:13:38+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:38+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181337.277,V,,,,,,,090218,,,N*42
+$GPGGA,181338.276,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181338.276,V,,,,,,,090218,,,N*4C
+$GPGGA,181339.276,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181339.276,V,,,,,,,090218,,,N*4D
+Survey start at #CCLK: "18/02/09,19:13:40+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:40+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181340.276,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,25,78,328,04,33,33,198,,29,49,190,,12,49,065,*7E
+$GPGSV,3,2,12,32,40,249,,14,40,284,,31,30,305,,02,27,077,*7E
+$GPGSV,3,3,12,04,24,111,,24,23,134,,06,16,042,,03,00,337,*7B
+$GPRMC,181340.276,V,,,,,,,090218,,,N*43
+$GPGGA,181341.275,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181341.275,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:13:42+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:42+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181342.270,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181342.270,V,,,,,,,090218,,,N*47
+$GPGGA,181343.270,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181343.270,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:13:44+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:44+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181344.270,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181344.270,V,,,,,,,090218,,,N*41
+$GPGGA,181345.270,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,24,23,134,20,33,33,198,,25,78,328,,29,49,190,*74
+$GPGSV,3,2,12,12,49,065,,32,40,249,,14,40,284,,31,30,305,*74
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181345.270,V,,,,,,,090218,,,N*40
+Survey start at #CCLK: "18/02/09,19:13:46+04"
+$GPGGA,181346.270,,,,,0,00,,,M,0.0,M,,0000*5A
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:47+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181346.270,V,,,,,,,090218,,,N*43
+$GPGGA,181347.270,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181347.270,V,,,,,,,090218,,,N*42
+$GPGGA,181348.270,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181348.270,V,,,,,,,090218,,,N*4D
+Survey start at #CCLK: "18/02/09,19:13:49+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:49+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181349.270,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181349.270,V,,,,,,,090218,,,N*4C
+$GPGGA,181350.270,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,24,23,134,20,33,33,198,,25,78,328,,29,49,190,*74
+$GPGSV,3,2,12,12,49,065,,32,40,249,,14,40,284,,31,30,305,*74
+Survey start at #CCLK: "18/02/09,19:13:51+04"
+at#csurv
+Network survey started ...
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+Survey end at #CCLK: "18/02/09,19:13:51+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181350.270,V,,,,,,,090218,,,N*44
+$GPGGA,181351.270,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181351.270,V,,,,,,,090218,,,N*45
+$GPGGA,181352.270,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181352.270,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:13:53+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:53+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181353.270,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181353.270,V,,,,,,,090218,,,N*47
+$GPGGA,181354.270,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181354.270,V,,,,,,,090218,,,N*40
+$GPGGA,181355.270,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,24,23,134,20,33,33,198,,25,78,328,,29,49,190,*74
+Survey start at #CCLK: "18/02/09,19:13:56+04"
+$GPGSV,3,2,12,12,49,065,,32,40,249,,14,40,284,,31,30,305,*74
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:56+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181355.270,V,,,,,,,090218,,,N*41
+$GPGGA,181356.270,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181356.270,V,,,,,,,090218,,,N*42
+$GPGGA,181357.270,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181357.270,V,,,,,,,090218,,,N*43
+Survey start at #CCLK: "18/02/09,19:13:58+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:13:58+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181358.270,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181358.270,V,,,,,,,090218,,,N*4C
+$GPGGA,181359.270,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181359.270,V,,,,,,,090218,,,N*4D
+Survey start at #CCLK: "18/02/09,19:14:00+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:00+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181400.270,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,24,23,134,21,33,33,198,,25,78,328,,29,49,190,*75
+$GPGSV,3,2,12,12,49,065,,32,40,249,,14,40,284,,31,30,305,*74
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181400.270,V,,,,,,,090218,,,N*46
+$GPGGA,181401.270,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181401.270,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:14:02+04"
+at#csurv
+$GPGGA,181402.270,,,,,0,00,,,M,0.0,M,,0000*5D
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:03+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181402.270,V,,,,,,,090218,,,N*44
+$GPGGA,181403.270,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181403.270,V,,,,,,,090218,,,N*45
+$GPGGA,181404.270,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181404.270,V,,,,,,,090218,,,N*42
+Survey start at #CCLK: "18/02/09,19:14:05+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:05+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181405.270,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,24,23,134,21,33,33,198,,25,78,328,,29,49,190,*75
+$GPGSV,3,2,12,12,49,065,,32,40,249,,14,40,284,,31,30,305,*74
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181405.270,V,,,,,,,090218,,,N*43
+$GPGGA,181406.270,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181406.270,V,,,,,,,090218,,,N*40
+Survey start at #CCLK: "18/02/09,19:14:07+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:07+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181407.270,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181407.270,V,,,,,,,090218,,,N*41
+$GPGGA,181408.270,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181408.270,V,,,,,,,090218,,,N*4E
+Survey start at #CCLK: "18/02/09,19:14:09+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:09+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181409.270,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181409.270,V,,,,,,,090218,,,N*4F
+$GPGGA,181410.270,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,24,23,134,21,33,33,198,,25,78,328,,29,49,190,*75
+$GPGSV,3,2,12,12,49,065,,32,40,249,,14,40,284,,31,30,305,*74
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181410.270,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:14:11+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:11+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181411.270,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181411.270,V,,,,,,,090218,,,N*46
+$GPGGA,181412.270,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181412.270,V,,,,,,,090218,,,N*45
+$GPGGA,181413.270,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:14:14+04"
+at#csurv
+Network survey started ...
+$GPRMC,181413.270,V,,,,,,,090218,,,N*44
+Survey end at #CCLK: "18/02/09,19:14:14+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181414.270,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181414.270,V,,,,,,,090218,,,N*43
+$GPGGA,181415.270,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,24,23,134,27,33,33,198,,25,78,328,,29,49,190,*73
+Survey start at #CCLK: "18/02/09,19:14:16+04"
+$GPGSV,3,2,12,12,49,065,,32,40,249,,14,40,284,,31,30,305,*74
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:16+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181415.270,V,,,,,,,090218,,,N*42
+$GPGGA,181416.270,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181416.270,V,,,,,,,090218,,,N*41
+$GPGGA,181417.276,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181417.276,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:14:18+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:18+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181418.275,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181418.275,V,,,,,,,090218,,,N*4A
+$GPGGA,181419.270,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181419.270,V,,,,,,,090218,,,N*4E
+$GPGGA,181420.271,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,14,24,23,134,16,33,33,198,,25,78,328,*77
+$GPGSV,3,2,12,29,49,190,,32,40,249,,14,40,284,,31,30,305,*77
+Survey start at #CCLK: "18/02/09,19:14:21+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:21+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181420.271,V,,,,,,,090218,,,N*45
+$GPGGA,181421.271,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181421.271,V,,,,,,,090218,,,N*44
+$GPGGA,181422.271,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181422.271,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:14:23+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:23+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181423.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181423.271,V,,,,,,,090218,,,N*46
+$GPGGA,181424.271,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181424.271,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:14:25+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:25+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181425.271,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,16,24,23,134,24,25,78,328,14,33,33,198,*71
+$GPGSV,3,2,12,29,49,190,,32,40,249,,14,40,284,,31,30,305,*77
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181425.271,V,,,,,,,090218,,,N*40
+$GPGGA,181426.271,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181426.271,V,,,,,,,090218,,,N*43
+Survey start at #CCLK: "18/02/09,19:14:27+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:27+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181427.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181427.271,V,,,,,,,090218,,,N*42
+$GPGGA,181428.271,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181428.271,V,,,,,,,090218,,,N*4D
+$GPGGA,181429.271,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181429.271,V,,,,,,,090218,,,N*4C
+Survey start at #CCLK: "18/02/09,19:14:30+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:30+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181430.271,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,17,24,23,134,20,25,78,328,13,33,33,198,*73
+$GPGSV,3,2,12,29,49,190,,32,40,249,,14,40,284,,31,30,305,*77
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181430.271,V,,,,,,,090218,,,N*44
+$GPGGA,181431.271,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181431.271,V,,,,,,,090218,,,N*45
+Survey start at #CCLK: "18/02/09,19:14:32+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:32+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181432.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181432.271,V,,,,,,,090218,,,N*46
+$GPGGA,181433.271,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181433.271,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:14:34+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:34+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181434.271,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181434.271,V,,,,,,,090218,,,N*40
+$GPGGA,181435.271,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,17,24,23,134,14,25,78,328,13,33,33,198,*74
+$GPGSV,3,2,12,29,49,190,,32,40,249,,14,40,284,,31,30,305,*77
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181435.271,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:14:36+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:36+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181436.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181436.271,V,,,,,,,090218,,,N*42
+$GPGGA,181437.271,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181437.271,V,,,,,,,090218,,,N*43
+$GPGGA,181438.271,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:14:39+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:39+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181438.271,V,,,,,,,090218,,,N*4C
+$GPGGA,181439.271,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181439.271,V,,,,,,,090218,,,N*4D
+$GPGGA,181440.271,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,16,24,23,134,06,25,78,328,10,33,33,198,*75
+Survey start at #CCLK: "18/02/09,19:14:41+04"
+at#csurv
+Network survey started ...
+$GPGSV,3,2,12,29,49,190,,32,40,249,,14,40,284,,31,30,305,*77
+Survey end at #CCLK: "18/02/09,19:14:41+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181440.271,V,,,,,,,090218,,,N*43
+$GPGGA,181441.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181441.271,V,,,,,,,090218,,,N*42
+$GPGGA,181442.271,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181442.271,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:14:43+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:43+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181443.271,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181443.271,V,,,,,,,090218,,,N*40
+$GPGGA,181444.271,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181444.271,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:14:45+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:45+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181445.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,17,24,23,134,13,25,78,328,09,29,49,190,13*74
+$GPGSV,3,2,12,33,33,198,,32,40,249,,14,40,284,,31,30,305,*79
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181445.271,V,,,,,,,090218,,,N*46
+$GPGGA,181446.271,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181446.271,V,,,,,,,090218,,,N*45
+$GPGGA,181447.271,,,,,0,00,,,M,0.0,M,,0000*5D
+Survey start at #CCLK: "18/02/09,19:14:47+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:48+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181447.271,V,,,,,,,090218,,,N*44
+$GPGGA,181448.271,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181448.271,V,,,,,,,090218,,,N*4B
+$GPGGA,181449.271,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181449.271,V,,,,,,,090218,,,N*4A
+Survey start at #CCLK: "18/02/09,19:14:50+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:50+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181450.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,17,24,23,134,13,25,78,328,11,29,49,190,13*7D
+$GPGSV,3,2,12,33,33,198,,32,40,249,,14,40,284,,31,30,305,*79
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181450.271,V,,,,,,,090218,,,N*42
+$GPGGA,181451.271,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181451.271,V,,,,,,,090218,,,N*43
+Survey start at #CCLK: "18/02/09,19:14:52+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:52+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181452.271,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181452.271,V,,,,,,,090218,,,N*40
+$GPGGA,181453.271,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181453.271,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:14:54+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:54+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181454.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181454.271,V,,,,,,,090218,,,N*46
+$GPGGA,181455.271,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,16,24,23,134,13,25,78,328,10,29,49,190,06*79
+$GPGSV,3,2,12,33,33,198,,32,40,249,,14,40,284,,31,30,305,*79
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181455.271,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:14:56+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:56+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181456.271,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181456.271,V,,,,,,,090218,,,N*44
+$GPGGA,181457.271,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181457.271,V,,,,,,,090218,,,N*45
+$GPGGA,181458.271,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181458.271,V,,,,,,,090218,,,N*4A
+Survey start at #CCLK: "18/02/09,19:14:59+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:14:59+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181459.271,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181459.271,V,,,,,,,090218,,,N*4B
+$GPGGA,181500.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,15,24,23,134,12,25,78,328,10,29,49,190,06*7B
+$GPGSV,3,2,12,33,33,198,,32,40,249,,14,40,284,,31,30,305,*79
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181500.271,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:15:01+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:01+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181501.271,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181501.271,V,,,,,,,090218,,,N*47
+$GPGGA,181502.271,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181502.271,V,,,,,,,090218,,,N*44
+$GPGGA,181503.271,,,,,0,00,,,M,0.0,M,,0000*5C
+Survey start at #CCLK: "18/02/09,19:15:04+04"
+at#csurv
+Network survey started ...
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey end at #CCLK: "18/02/09,19:15:04+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181503.271,V,,,,,,,090218,,,N*45
+$GPGGA,181504.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181504.271,V,,,,,,,090218,,,N*42
+$GPGGA,181505.271,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,13,24,23,134,13,25,78,328,10,29,49,190,08*72
+Survey start at #CCLK: "18/02/09,19:15:06+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:06+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,2,12,33,33,198,,32,40,249,,14,40,284,,31,30,305,*79
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181505.271,V,,,,,,,090218,,,N*43
+$GPGGA,181506.271,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181506.271,V,,,,,,,090218,,,N*40
+$GPGGA,181507.271,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181507.271,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:15:08+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:08+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181508.271,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181508.271,V,,,,,,,090218,,,N*4E
+$GPGGA,181509.271,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181509.271,V,,,,,,,090218,,,N*4F
+Survey start at #CCLK: "18/02/09,19:15:10+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:10+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181510.271,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,04,24,23,134,12,25,78,328,08,29,49,190,08*7C
+$GPGSV,3,2,12,33,33,198,,32,40,249,,14,40,284,,31,30,305,*79
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181510.271,V,,,,,,,090218,,,N*47
+$GPGGA,181511.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181511.271,V,,,,,,,090218,,,N*46
+Survey start at #CCLK: "18/02/09,19:15:12+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:12+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181512.271,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181512.271,V,,,,,,,090218,,,N*45
+$GPGGA,181513.271,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181513.271,V,,,,,,,090218,,,N*44
+$GPGGA,181514.271,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:15:15+04"
+$GPRMC,181514.271,V,,,,,,,090218,,,N*43
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:15+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181515.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,077,24,24,23,134,15,25,78,328,10,29,49,190,07*75
+$GPGSV,3,2,12,33,33,198,,12,49,065,,32,40,249,,14,40,284,*73
+$GPGSV,3,3,12,31,30,305,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181515.271,V,,,,,,,090218,,,N*42
+$GPGGA,181516.271,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181516.271,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:15:17+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:17+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181517.271,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181517.271,V,,,,,,,090218,,,N*40
+$GPGGA,181518.271,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181518.271,V,,,,,,,090218,,,N*4F
+Survey start at #CCLK: "18/02/09,19:15:19+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:19+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181519.271,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181519.271,V,,,,,,,090218,,,N*4E
+$GPGGA,181520.271,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,077,18,24,23,134,16,25,78,328,11,29,49,190,08*77
+$GPGSV,3,2,12,33,33,198,,12,49,065,,32,40,249,,14,40,284,*73
+$GPGSV,3,3,12,31,30,305,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181520.271,V,,,,,,,090218,,,N*44
+Survey start at #CCLK: "18/02/09,19:15:21+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:21+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181521.271,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181521.271,V,,,,,,,090218,,,N*45
+$GPGGA,181522.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181522.271,V,,,,,,,090218,,,N*46
+$GPGGA,181523.271,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:15:24+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:24+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181523.271,V,,,,,,,090218,,,N*47
+$GPGGA,181524.271,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181524.271,V,,,,,,,090218,,,N*40
+$GPGGA,181525.271,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,077,17,12,49,065,14,24,23,134,16,25,78,328,04*72
+Survey start at #CCLK: "18/02/09,19:15:26+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:26+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,2,12,29,49,190,07,33,33,198,,32,40,249,,14,40,284,*77
+$GPGSV,3,3,12,31,30,305,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181525.271,V,,,,,,,090218,,,N*41
+$GPGGA,181526.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181526.271,V,,,,,,,090218,,,N*42
+$GPGGA,181527.271,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181527.271,V,,,,,,,090218,,,N*43
+Survey start at #CCLK: "18/02/09,19:15:28+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:28+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181528.271,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181528.271,V,,,,,,,090218,,,N*4C
+$GPGGA,181529.271,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181529.271,V,,,,,,,090218,,,N*4D
+Survey start at #CCLK: "18/02/09,19:15:30+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:30+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181530.271,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,077,15,12,49,065,13,24,23,134,16,25,78,328,04*77
+$GPGSV,3,2,12,29,49,190,08,33,33,198,,32,40,249,,14,40,284,*78
+$GPGSV,3,3,12,31,30,305,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181530.271,V,,,,,,,090218,,,N*45
+$GPGGA,181531.271,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181531.271,V,,,,,,,090218,,,N*44
+$GPGGA,181532.271,,,,,0,00,,,M,0.0,M,,0000*5E
+Survey start at #CCLK: "18/02/09,19:15:32+04"
+at#csurv
+Network survey started ...
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey end at #CCLK: "18/02/09,19:15:33+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPRMC,181532.271,V,,,,,,,090218,,,N*47
+$GPGGA,181533.271,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181533.271,V,,,,,,,090218,,,N*46
+$GPGGA,181534.271,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181534.271,V,,,,,,,090218,,,N*41
+Survey start at #CCLK: "18/02/09,19:15:35+04"
+at#csurv
+Network survey started ...
+$GPGGA,181535.271,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,077,14,12,49,065,05,24,23,134,15,25,78,328,04*72
+$GPGSV,3,2,12,29,49,190,04,33,33,198,,32,40,249,,14,40,284,*74
+$GPGSV,3,3,12,31,30,305,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181535.271,V,,,,,,,090218,,,N*40
+$GPGGA,181536.271,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181536.271,V,,,,,,,090218,,,N*43
+$GPGGA,181537.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181537.271,V,,,,,,,090218,,,N*42
+$GPGGA,181538.271,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181538.271,V,,,,,,,090218,,,N*4D
+$GPGGA,181539.271,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181539.271,V,,,,,,,090218,,,N*4C
+$GPGGA,181540.272,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,27,077,12,12,49,065,10,24,23,134,24,25,78,328,04*72
+$GPGSV,3,2,12,29,49,190,04,31,30,305,21,33,33,198,,32,40,249,*7F
+$GPGSV,3,3,12,14,40,284,,04,24,111,,06,16,042,,03,00,337,*75
+arfcn: 1012 bsic: 56 rxLev: -73 ber: 0.00 mcc: 208 mnc: 20 lac: 413 cellId: 17161 cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 988 1012 1013 numChannels: 18 array: 975 977 979 980 981 982 984 1014 1016 1018 1020 1022 790 791 793 879 881 883 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+$GPRMC,181540.272,V,,,,,,,090218,,,N*41
+$GPGGA,181541.272,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181541.272,V,,,,,,,090218,,,N*40
+$GPGGA,181542.272,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181542.272,V,,,,,,,090218,,,N*43
+$GPGGA,181543.272,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181543.272,V,,,,,,,090218,,,N*42
+arfcn: 113 bsic: 60 rxLev: -82 ber: 0.00 mcc: 208 mnc: 10 lac: 30514 cellId: 17197 cellStatus: CELL_FORBIDDEN numArfcn: 3 arfcn: 78 113 118 numChannels: 21 array: 77 78 79 80 81 82 83 84 87 113 114 115 116 117 118 119 120 121 122 123 124 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 998 rxLev: -83
+arfcn: 1000 rxLev: -83
+arfcn: 997 rxLev: -83
+arfcn: 1001 rxLev: -84
+arfcn: 996 rxLev: -84
+arfcn: 999 rxLev: -84
+arfcn: 991 rxLev: -85
+arfcn: 1002 rxLev: -86
+arfcn: 992 rxLev: -86
+$GPGGA,181544.272,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 993 rxLev: -86
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 994 rxLev: -87
+$GPRMC,181544.272,V,,,,,,,090218,,,N*45
+arfcn: 995 rxLev: -87
+arfcn: 990 rxLev: -87
+arfcn: 1003 rxLev: -87
+arfcn: 1004 rxLev: -87
+arfcn: 1006 rxLev: -88
+arfcn: 1007 rxLev: -88
+arfcn: 1005 rxLev: -89
+arfcn: 105 rxLev: -89
+arfcn: 104 rxLev: -90
+$GPGGA,181545.272,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 100 rxLev: -90
+arfcn: 101 rxLev: -90
+$GPGSV,3,1,12,02,27,077,12,12,49,065,12,24,23,134,26,25,78,328,10*77
+arfcn: 59 rxLev: -90
+arfcn: 1008 rxLev: -90
+$GPGSV,3,2,12,29,49,190,12,31,30,305,20,33,33,198,,32,40,249,*79
+arfcn: 1013 rxLev: -90
+$GPGSV,3,3,12,14,40,284,,04,24,111,,06,16,042,,03,00,337,*75
+arfcn: 989 rxLev: -90
+$GPRMC,181545.272,V,,,,,,,090218,,,N*44
+arfcn: 58 rxLev: -90
+arfcn: 99 rxLev: -90
+arfcn: 95 rxLev: -90
+arfcn: 65 rxLev: -90
+arfcn: 96 rxLev: -91
+$GPGGA,181546.272,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 103 rxLev: -91
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1011 rxLev: -91
+$GPRMC,181546.272,V,,,,,,,090218,,,N*47
+arfcn: 102 rxLev: -91
+arfcn: 92 rxLev: -92
+arfcn: 66 rxLev: -92
+arfcn: 108 rxLev: -92
+arfcn: 57 rxLev: -92
+arfcn: 60 rxLev: -92
+arfcn: 61 rxLev: -92
+$GPGGA,181547.272,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 62 rxLev: -92
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 56 rxLev: -92
+$GPRMC,181547.272,V,,,,,,,090218,,,N*46
+arfcn: 55 rxLev: -92
+arfcn: 98 rxLev: -92
+arfcn: 94 rxLev: -93
+arfcn: 64 rxLev: -93
+arfcn: 107 rxLev: -93
+arfcn: 1009 rxLev: -93
+arfcn: 106 rxLev: -93
+arfcn: 109 rxLev: -93
+arfcn: 67 rxLev: -93
+arfcn: 97 rxLev: -93
+$GPGGA,181548.272,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 91 rxLev: -93
+$GPRMC,181548.272,V,,,,,,,090218,,,N*49
+arfcn: 63 rxLev: -93
+arfcn: 54 rxLev: -94
+arfcn: 71 rxLev: -94
+arfcn: 716 rxLev: -94
+arfcn: 70 rxLev: -95
+arfcn: 69 rxLev: -95
+arfcn: 72 rxLev: -95
+$GPGGA,181549.272,,,,,0,00,,,M,0.0,M,,0000*51
+arfcn: 93 rxLev: -95
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 68 rxLev: -95
+$GPRMC,181549.272,V,,,,,,,090218,,,N*48
+arfcn: 53 rxLev: -95
+arfcn: 10 rxLev: -96
+arfcn: 124 rxLev: -96
+$GPGGA,181550.272,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,16,24,23,134,25,25,78,328,11,29,49,190,12*78
+$GPGSV,3,2,12,31,30,305,11,33,33,198,,32,40,249,,14,40,284,*79
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181550.272,V,,,,,,,090218,,,N*40
+Survey end at #CCLK: "18/02/09,19:15:51+04"
+Survey duration: 16 seconds, 2 bases detected over 67 freqs scanned.
+$GPGGA,181551.272,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181551.272,V,,,,,,,090218,,,N*41
+$GPGGA,181552.272,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181552.272,V,,,,,,,090218,,,N*42
+Survey start at #CCLK: "18/02/09,19:15:53+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:15:53+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181553.272,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181553.272,V,,,,,,,090218,,,N*43
+$GPGGA,181554.272,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181554.272,V,,,,,,,090218,,,N*44
+Survey start at #CCLK: "18/02/09,19:15:55+04"
+at#csurv
+Network survey started ...
+$GPGGA,181555.272,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,17,24,23,134,18,25,78,328,10,31,30,305,21*7F
+$GPGSV,3,2,12,33,33,198,,29,49,190,,32,40,249,,14,40,284,*70
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181555.272,V,,,,,,,090218,,,N*45
+$GPGGA,181556.272,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181556.272,V,,,,,,,090218,,,N*46
+$GPGGA,181557.272,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181557.272,V,,,,,,,090218,,,N*47
+$GPGGA,181558.272,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181558.272,V,,,,,,,090218,,,N*48
+$GPGGA,181559.272,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181559.272,V,,,,,,,090218,,,N*49
+$GPGGA,181600.272,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,17,24,23,134,18,25,78,328,10,31,30,305,22*7C
+$GPGSV,3,2,12,33,33,198,,29,49,190,,32,40,249,,14,40,284,*70
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181600.272,V,,,,,,,090218,,,N*46
+$GPGGA,181601.272,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181601.272,V,,,,,,,090218,,,N*47
+arfcn: 1012 bsic: 56 rxLev: -80 ber: 0.00 mcc: 208 mnc: 20 lac: 413 cellId: 17161 cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 988 1012 1013 numChannels: 18 array: 975 977 979 980 981 982 984 1014 1016 1018 1020 1022 790 791 793 879 881 883 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+$GPGGA,181602.272,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181602.272,V,,,,,,,090218,,,N*44
+$GPGGA,181603.272,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181603.272,V,,,,,,,090218,,,N*45
+$GPGGA,181604.272,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 113 bsic: 60 rxLev: -85 ber: 0.00 mcc: 208 mnc: 10 lac: 30514 cellId: 17197 cellStatus: CELL_FORBIDDEN numArfcn: 3 arfcn: 78 113 118 numChannels: 21 array: 77 78 79 80 81 82 83 84 87 113 114 115 116 117 118 119 120 121 122 123 124 pbcch: 0 nom: 2 rac: 1 spgc: 0 pat: 6 nco: 0 t3168: 1500 t3192: 500 drxmax: 0 ctrlAck: 0 bsCVmax: 8 alpha: 6 pcMeasCh: 1 
+arfcn: 64 rxLev: -87
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 65 rxLev: -87
+arfcn: 66 rxLev: -88
+$GPRMC,181604.272,V,,,,,,,090218,,,N*42
+arfcn: 67 rxLev: -88
+arfcn: 63 rxLev: -88
+arfcn: 61 rxLev: -89
+arfcn: 62 rxLev: -89
+arfcn: 58 rxLev: -89
+arfcn: 59 rxLev: -89
+arfcn: 60 rxLev: -89
+$GPGGA,181605.272,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,16,24,23,134,25,25,78,328,07,31,30,305,17*73
+$GPGSV,3,2,12,33,33,198,,29,49,190,,32,40,249,,14,40,284,*70
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181605.272,V,,,,,,,090218,,,N*43
+$GPGGA,181606.272,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181606.272,V,,,,,,,090218,,,N*40
+$GPGGA,181607.272,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181607.272,V,,,,,,,090218,,,N*41
+$GPGGA,181608.272,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181608.272,V,,,,,,,090218,,,N*4E
+$GPGGA,181609.272,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181609.272,V,,,,,,,090218,,,N*4F
+$GPGGA,181610.272,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,15,24,23,134,24,25,78,328,04,31,30,305,16*73
+$GPGSV,3,2,12,33,33,198,,29,49,190,,32,40,249,,14,40,284,*70
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181610.272,V,,,,,,,090218,,,N*47
+Survey end at #CCLK: "18/02/09,19:16:11+04"
+Survey duration: 16 seconds, 2 bases detected over 12 freqs scanned.
+$GPGGA,181611.272,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181611.272,V,,,,,,,090218,,,N*46
+$GPGGA,181612.272,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181612.272,V,,,,,,,090218,,,N*45
+Survey start at #CCLK: "18/02/09,19:16:13+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:16:13+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181613.272,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181613.272,V,,,,,,,090218,,,N*44
+$GPGGA,181614.272,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181614.272,V,,,,,,,090218,,,N*43
+$GPGGA,181615.272,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,49,065,04,24,23,134,04,25,78,328,07,31,30,305,16*72
+Survey start at #CCLK: "18/02/09,19:16:16+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:16:16+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,2,12,33,33,198,,29,49,190,,32,40,249,,14,40,284,*70
+$GPGSV,3,3,12,02,27,077,,04,24,111,,06,16,042,,03,00,337,*7D
+$GPRMC,181615.272,V,,,,,,,090218,,,N*42
+$GPGGA,181616.271,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181616.271,V,,,,,,,090218,,,N*42
+$GPGGA,181617.272,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/09,19:16:18+04"
+$GPRMC,181617.272,V,,,,,,,090218,,,N*40
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:16:18+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181618.272,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181618.272,V,,,,,,,090218,,,N*4F
+$GPGGA,181619.272,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181619.272,V,,,,,,,090218,,,N*4E
+Survey start at #CCLK: "18/02/09,19:16:20+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:16:20+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181620.272,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,47,066,04,24,22,135,04,25,79,335,05,31,31,305,17*70
+$GPGSV,3,2,12,33,33,198,,29,51,190,,14,40,282,,32,39,248,*70
+$GPGSV,3,3,12,02,28,076,,04,25,110,,06,15,041,,03,00,336,*72
+$GPRMC,181620.272,V,,,,,,,090218,,,N*44
+$GPGGA,181621.272,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181621.272,V,,,,,,,090218,,,N*45
+Survey start at #CCLK: "18/02/09,19:16:22+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:16:22+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181622.272,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181622.272,V,,,,,,,090218,,,N*46
+$GPGGA,181623.272,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181623.272,V,,,,,,,090218,,,N*47
+Survey start at #CCLK: "18/02/09,19:16:24+04"
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:16:24+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGGA,181624.272,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,181624.272,V,,,,,,,090218,,,N*40
+$GPGGA,181625.272,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,12,47,066,04,24,22,135,04,25,79,335,04,31,31,305,14*72
+$GPGSV,3,2,12,33,33,198,,29,51,190,,14,40,282,,32,39,248,*70
+$GPGSV,3,3,12,02,28,076,,04,25,110,,06,15,041,,03,00,336,*72
+$GPRMC,181625.272,V,,,,,,,090218,,,N*41
+$GPGGA,181626.272,,,,,0,00,,,M,0.0,M,,0000*5B
+Survey start at #CCLK: "18/02/09,19:16:27+04"
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+at#csurv
+Network survey started ...
+Survey end at #CCLK: "18/02/09,19:16:27+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.

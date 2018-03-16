@@ -1,0 +1,24 @@
+#############INSTRUCTIONS##################
+
+- INSTRUCTIONS FOR creating the db_json (concatenate all raw data from pi)
+	- Run 1_build_database.py 
+	- Warning: only read out.txt files located in /IMSI/Data/sauvegarde (raw data have been saved here in RO)
+
+- INSTRUCTIONS for database:
+	- install postgresql following tutos mentioned below
+	- Create imsi database
+	- command sudo su postgres
+	- Run python db_setup.py 
+	- First table is created, can query it;-)
+
+###############Comments#####################
+
+-Tuto for installing postgre:
+	* https://w3resource.com/PostgreSQL/install-postgresql-on-linux-and-windows.php
+
+- DB Passwd: imsi
+- DB Name: imsi
+
+- Tutos for json and Postgre:
+	*http://clarkdave.net/2013/06/what-can-you-do-with-postgresql-and-json/
+	*http://www.postgresqltutorial.com/postgresql-json/

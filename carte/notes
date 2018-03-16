@@ -1,0 +1,29 @@
+- Faire deux onglets: analyse, live. Un truc qui permette une présentation de tout ce que l'on sait sur une zone en plus des summary infos sur une cell donnée. Un troisième avec les alertes?
+
+- Projets existant:
+	*https://github.com/initbrain/btsmapper
+	*https://www.cellmapper.net/map?
+	*http://cellidfinder.com/
+
+- MCC/opérateurs table de correspondance: https://github.com/initbrain/btsmapper/blob/91762ed45773bf289183b6cdf38ec2f17bbb7ae3/btsmapper/interface/cli/__init__.py
+
+- Comment sont renvoyés les coordonnées des BTS dans une zone donnée? -> pour pouvoir faire des requ$etes sur la BDD.
+
+
+    {
+        "arfcn_present": false,                 // si les voisins signalent la presence de cette antenne
+        "cellid": 869,                          
+        "constant_location": true,              // meme localisation pour tous les relevés d'une meme cid
+        "constant_parameters": true,            // meme paramettre toujours (lac mcc mnc) identiques 
+        "first_time": "2017/12/29,16:10:53",    // 2
+        "lac_present": true,                    // d'autre bs voisines avec le meme lac
+        "last_time": "2017/12/29,16:13:40",     // 1
+        "nb_arfcn": 1,                          //
+        "nb_bsic": 1,                           
+        "nb_cellstatus": 0,
+        "nb_lac": 1,
+        "nb_mcc": 1,
+        "nb_mnc": 1,
+        "nb_neighb": 4.0,                       // Nombre de voisins
+        "neighb_issue": "None"                  
+    }

@@ -1,0 +1,4349 @@
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075643.441,V,,,,,,,110218,,,N*44
+Survey start at #CCLK: "18/02/11,08:56:44+04"
+at#csurv
+Network survey started ...
+$GPGGA,075644.441,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075644.441,V,,,,,,,110218,,,N*43
+$GPGGA,075645.441,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,42,312,19,06,83,309,20,07,33,132,25,09,65,046,*7A
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+$GPGSV,3,3,11,04,15,313,,05,15,281,,03,03,084,*4E
+$GPRMC,075645.441,V,,,,,,,110218,,,N*42
+$GPGGA,075646.436,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075646.436,V,,,,,,,110218,,,N*41
+$GPGGA,075647.441,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075647.441,V,,,,,,,110218,,,N*40
+$GPGGA,075648.441,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075648.441,V,,,,,,,110218,,,N*4F
+$GPGGA,075649.441,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075649.441,V,,,,,,,110218,,,N*4E
+$GPGGA,075650.441,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,42,312,19,06,83,309,20,07,33,132,25,09,65,046,*7A
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+arfcn: 12 bsic: 38 rxLev: -75 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGSV,3,3,11,04,15,313,,05,15,281,,03,03,084,*4E
+$GPRMC,075650.441,V,,,,,,,110218,,,N*46
+$GPGGA,075651.441,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075651.441,V,,,,,,,110218,,,N*47
+$GPGGA,075652.436,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075652.436,V,,,,,,,110218,,,N*44
+arfcn: 87 bsic: 26 rxLev: -83 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+$GPGGA,075653.441,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075653.441,V,,,,,,,110218,,,N*45
+$GPGGA,075654.441,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075654.441,V,,,,,,,110218,,,N*42
+arfcn: 10 bsic: 30 rxLev: -91 ber: 0.01 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+arfcn: 13 rxLev: -92
+$GPGGA,075655.441,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,42,312,18,06,83,309,20,07,33,132,25,09,65,046,*7B
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+$GPGSV,3,3,11,04,15,313,,05,15,281,,03,03,084,*4E
+$GPRMC,075655.441,V,,,,,,,110218,,,N*43
+$GPGGA,075656.441,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 7 bsic: 33 rxLev: -92 ber: 0.05 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 124 rxLev: -92
+$GPRMC,075656.441,V,,,,,,,110218,,,N*40
+arfcn: 977 bsic: 54 rxLev: -92 ber: 50.00 mcc: 208 mnc: 20 lac: 423 cellId: 2283
+5 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 97
+5 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 102
+0 1021 794
+arfcn: 19 rxLev: -93
+arfcn: 11 rxLev: -94
+$GPGGA,075657.441,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075657.441,V,,,,,,,110218,,,N*41
+$GPGGA,075658.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 984 bsic: 51 rxLev: -94 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+$GPRMC,075658.436,V,,,,,,,110218,,,N*4E
+$GPGGA,075659.441,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075659.441,V,,,,,,,110218,,,N*4F
+arfcn: 1016 bsic: 18 rxLev: -98 ber: 0.04 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 9 rxLev: -98
+arfcn: 70 rxLev: -98
+arfcn: 54 rxLev: -98
+arfcn: 58 rxLev: -98
+arfcn: 61 rxLev: -99
+arfcn: 62 rxLev: -99
+arfcn: 57 rxLev: -99
+arfcn: 53 rxLev: -99
+arfcn: 71 rxLev: -99
+$GPGGA,075700.441,,,,,0,00,,,M,0.0,M,,0000*52
+arfcn: 66 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 121 rxLev: -99
+$GPGSV,3,1,11,02,42,312,18,06,83,309,20,07,33,132,25,09,65,046,*7B
+arfcn: 998 rxLev: -99
+arfcn: 999 rxLev: -99
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+arfcn: 69 rxLev: -99
+$GPGSV,3,3,11,04,15,313,,05,15,281,,03,03,084,*4E
+$GPRMC,075700.441,V,,,,,,,110218,,,N*42
+$GPGGA,075701.441,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075701.441,V,,,,,,,110218,,,N*43
+arfcn: 82 bsic: 27 rxLev: -99 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+0 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+$GPGGA,075702.441,,,,,0,00,,,M,0.0,M,,0000*50
+arfcn: 55 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 63 rxLev: -99
+$GPRMC,075702.441,V,,,,,,,110218,,,N*40
+arfcn: 64 rxLev: -99
+arfcn: 60 rxLev: -99
+arfcn: 59 rxLev: -99
+arfcn: 26 rxLev: -99
+arfcn: 65 rxLev: -100
+arfcn: 56 rxLev: -100
+arfcn: 50 rxLev: -100
+arfcn: 75 rxLev: -100
+arfcn: 68 rxLev: -100
+arfcn: 67 rxLev: -100
+$GPGGA,075703.436,,,,,0,00,,,M,0.0,M,,0000*51
+arfcn: 1001 rxLev: -100
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1002 rxLev: -100
+$GPRMC,075703.436,V,,,,,,,110218,,,N*41
+arfcn: 1007 rxLev: -100
+arfcn: 1008 rxLev: -100
+$GPGGA,075704.436,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075704.436,V,,,,,,,110218,,,N*46
+$GPGGA,075705.441,,,,,0,00,,,M,0.0,M,,0000*57
+arfcn: 980 bsic: 40 rxLev: -100 ber: 1.06 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 997 rxLev: -100
+arfcn: 996 rxLev: -100
+$GPGSV,3,1,11,02,42,312,17,06,83,309,20,07,33,132,25,09,65,046,*74
+arfcn: 1006 rxLev: -100
+arfcn: 1004 rxLev: -100
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+arfcn: 108 rxLev: -100
+$GPGSV,3,3,11,04,15,313,,05,15,281,,03,03,084,*4E
+arfcn: 112 rxLev: -101
+$GPRMC,075705.441,V,,,,,,,110218,,,N*47
+arfcn: 123 rxLev: -101
+arfcn: 92 rxLev: -101
+arfcn: 100 rxLev: -101
+arfcn: 1005 rxLev: -101
+$GPGGA,075706.441,,,,,0,00,,,M,0.0,M,,0000*54
+arfcn: 1003 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075706.441,V,,,,,,,110218,,,N*44
+arfcn: 1000 rxLev: -101
+arfcn: 72 rxLev: -101
+arfcn: 86 rxLev: -101
+arfcn: 88 rxLev: -101
+arfcn: 4 rxLev: -101
+arfcn: 42 rxLev: -101
+arfcn: 978 rxLev: -101
+arfcn: 979 rxLev: -101
+$GPGGA,075707.441,,,,,0,00,,,M,0.0,M,,0000*55
+arfcn: 985 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 91 rxLev: -101
+$GPRMC,075707.441,V,,,,,,,110218,,,N*45
+arfcn: 96 rxLev: -101
+arfcn: 975 rxLev: -101
+arfcn: 976 rxLev: -102
+arfcn: 120 rxLev: -102
+arfcn: 97 rxLev: -102
+arfcn: 94 rxLev: -102
+arfcn: 95 rxLev: -102
+arfcn: 981 rxLev: -102
+arfcn: 995 rxLev: -102
+arfcn: 6 rxLev: -102
+$GPGGA,075708.441,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 14 rxLev: -102
+$GPRMC,075708.441,V,,,,,,,110218,,,N*4A
+arfcn: 52 rxLev: -102
+arfcn: 994 rxLev: -102
+arfcn: 993 rxLev: -102
+arfcn: 93 rxLev: -102
+arfcn: 101 rxLev: -102
+arfcn: 98 rxLev: -102
+arfcn: 669 rxLev: -102
+arfcn: 789 rxLev: -102
+arfcn: 99 rxLev: -103
+$GPGGA,075709.436,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 104 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 102 rxLev: -103
+$GPRMC,075709.436,V,,,,,,,110218,,,N*4B
+arfcn: 122 rxLev: -103
+arfcn: 992 rxLev: -103
+$GPGGA,075710.436,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,42,312,17,06,83,308,19,07,33,132,25,09,65,046,*7F
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 2.03 mcc: 208 mnc: 20 lac: 423 cellId: 202
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 73 rxLev: -103
+$GPRMC,075710.436,V,,,,,,,110218,,,N*43
+arfcn: 15 rxLev: -104
+arfcn: 8 rxLev: -104
+arfcn: 18 rxLev: -104
+arfcn: 990 rxLev: -104
+arfcn: 991 rxLev: -104
+$GPGGA,075711.441,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 549 rxLev: -104
+arfcn: 606 rxLev: -104
+$GPRMC,075711.441,V,,,,,,,110218,,,N*42
+arfcn: 103 rxLev: -105
+arfcn: 5 rxLev: -105
+arfcn: 2 rxLev: -105
+arfcn: 74 rxLev: -105
+arfcn: 3 rxLev: -105
+arfcn: 1 rxLev: -105
+arfcn: 16 rxLev: -105
+arfcn: 22 rxLev: -105
+arfcn: 29 rxLev: -105
+$GPGGA,075712.441,,,,,0,00,,,M,0.0,M,,0000*51
+arfcn: 105 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 119 rxLev: -105
+$GPRMC,075712.441,V,,,,,,,110218,,,N*41
+arfcn: 1018 rxLev: -105
+arfcn: 1020 rxLev: -106
+arfcn: 786 rxLev: -106
+arfcn: 1009 rxLev: -106
+arfcn: 27 rxLev: -106
+arfcn: 0 rxLev: -106
+arfcn: 24 rxLev: -106
+arfcn: 37 rxLev: -106
+$GPGGA,075713.441,,,,,0,00,,,M,0.0,M,,0000*50
+arfcn: 76 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 79 rxLev: -106
+$GPRMC,075713.441,V,,,,,,,110218,,,N*40
+arfcn: 116 rxLev: -106
+arfcn: 609 rxLev: -106
+arfcn: 667 rxLev: -107
+arfcn: 117 rxLev: -107
+arfcn: 109 rxLev: -107
+arfcn: 106 rxLev: -107
+arfcn: 107 rxLev: -107
+arfcn: 1015 rxLev: -107
+arfcn: 982 rxLev: -107
+arfcn: 983 rxLev: -107
+$GPGGA,075714.441,,,,,0,00,,,M,0.0,M,,0000*57
+arfcn: 41 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 43 rxLev: -107
+$GPRMC,075714.441,V,,,,,,,110218,,,N*47
+arfcn: 46 rxLev: -107
+arfcn: 48 rxLev: -107
+arfcn: 17 rxLev: -107
+arfcn: 623 rxLev: -107
+arfcn: 861 rxLev: -107
+arfcn: 1023 rxLev: -107
+arfcn: 1017 rxLev: -107
+arfcn: 545 rxLev: -108
+arfcn: 665 rxLev: -108
+$GPGGA,075715.441,,,,,0,00,,,M,0.0,M,,0000*56
+arfcn: 38 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 51 rxLev: -108
+$GPGSV,3,1,11,02,42,312,17,06,83,308,18,07,33,132,26,09,65,046,*7D
+arfcn: 1011 rxLev: -108
+arfcn: 90 rxLev: -108
+Network survey ended
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+Survey end at #CCLK: "18/02/11,08:57:16+04"
+Survey duration: 31 seconds, 10 bases detected over 151 freqs scanned.
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+$GPRMC,075715.441,V,,,,,,,110218,,,N*46
+$GPGGA,075716.436,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075716.436,V,,,,,,,110218,,,N*45
+$GPGGA,075717.441,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075717.441,V,,,,,,,110218,,,N*44
+$GPGGA,075718.441,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075718.441,V,,,,,,,110218,,,N*4B
+Survey start at #CCLK: "18/02/11,08:57:19+04"
+at#csurv
+Network survey started ...
+$GPGGA,075719.441,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075719.441,V,,,,,,,110218,,,N*4A
+$GPGGA,075720.441,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,42,312,17,06,83,308,17,07,33,132,26,09,65,046,*72
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+$GPRMC,075720.441,V,,,,,,,110218,,,N*40
+$GPGGA,075721.436,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075721.436,V,,,,,,,110218,,,N*41
+$GPGGA,075722.436,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075722.436,V,,,,,,,110218,,,N*42
+$GPGGA,075723.441,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075723.441,V,,,,,,,110218,,,N*43
+$GPGGA,075724.441,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075724.441,V,,,,,,,110218,,,N*44
+arfcn: 12 bsic: 38 rxLev: -74 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,075725.441,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,42,312,16,06,83,308,17,07,33,132,26,09,65,046,*73
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+$GPRMC,075725.441,V,,,,,,,110218,,,N*45
+$GPGGA,075726.441,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075726.441,V,,,,,,,110218,,,N*46
+arfcn: 87 bsic: 26 rxLev: -83 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+$GPGGA,075727.436,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075727.436,V,,,,,,,110218,,,N*47
+$GPGGA,075728.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 10 bsic: 30 rxLev: -91 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPRMC,075728.436,V,,,,,,,110218,,,N*48
+arfcn: 13 rxLev: -92
+arfcn: 49 rxLev: -92
+arfcn: 124 rxLev: -92
+arfcn: 977 bsic: 54 rxLev: -93 ber: 50.00 mcc: 208 mnc: 20 lac: 423 cellId: 2283
+5 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 97
+5 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 102
+0 1021 794
+$GPGGA,075729.441,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075729.441,V,,,,,,,110218,,,N*49
+$GPGGA,075730.441,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 984 bsic: 51 rxLev: -93 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+$GPGSV,3,1,11,02,42,312,16,06,83,308,17,07,33,132,26,09,65,046,*73
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+$GPRMC,075730.441,V,,,,,,,110218,,,N*41
+$GPGGA,075731.441,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075731.441,V,,,,,,,110218,,,N*40
+arfcn: 7 bsic: 33 rxLev: -93 ber: 0.04 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 11 rxLev: -93
+arfcn: 48 rxLev: -97
+$GPGGA,075732.441,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 54 rxLev: -98
+$GPRMC,075732.441,V,,,,,,,110218,,,N*43
+arfcn: 70 rxLev: -98
+$GPGGA,075733.436,,,,,0,00,,,M,0.0,M,,0000*52
+arfcn: 1016 bsic: 18 rxLev: -98 ber: 0.01 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 71 rxLev: -98
+$GPRMC,075733.436,V,,,,,,,110218,,,N*42
+arfcn: 60 rxLev: -98
+arfcn: 62 rxLev: -99
+arfcn: 69 rxLev: -99
+arfcn: 58 rxLev: -99
+arfcn: 43 rxLev: -99
+arfcn: 121 rxLev: -99
+arfcn: 997 rxLev: -99
+$GPGGA,075734.436,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075734.436,V,,,,,,,110218,,,N*45
+$GPGGA,075735.441,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,42,312,17,06,83,308,16,07,33,132,26,09,65,046,*73
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+$GPRMC,075735.441,V,,,,,,,110218,,,N*44
+arfcn: 82 bsic: 27 rxLev: -99 ber: 0.04 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+0 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+arfcn: 57 rxLev: -99
+arfcn: 55 rxLev: -99
+$GPGGA,075736.441,,,,,0,00,,,M,0.0,M,,0000*57
+arfcn: 53 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 67 rxLev: -99
+$GPRMC,075736.441,V,,,,,,,110218,,,N*47
+arfcn: 61 rxLev: -99
+arfcn: 63 rxLev: -99
+arfcn: 64 rxLev: -99
+arfcn: 66 rxLev: -99
+arfcn: 9 rxLev: -99
+arfcn: 25 rxLev: -99
+arfcn: 1006 rxLev: -99
+arfcn: 65 rxLev: -100
+arfcn: 59 rxLev: -100
+arfcn: 68 rxLev: -100
+$GPGGA,075737.441,,,,,0,00,,,M,0.0,M,,0000*56
+arfcn: 56 rxLev: -100
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 75 rxLev: -100
+$GPRMC,075737.441,V,,,,,,,110218,,,N*46
+arfcn: 998 rxLev: -100
+arfcn: 1001 rxLev: -100
+arfcn: 1002 rxLev: -100
+arfcn: 1004 rxLev: -100
+arfcn: 999 rxLev: -100
+arfcn: 1000 rxLev: -100
+$GPGGA,075738.441,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075738.441,V,,,,,,,110218,,,N*49
+$GPGGA,075739.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075739.436,V,,,,,,,110218,,,N*48
+arfcn: 980 bsic: 40 rxLev: -100 ber: 6.03 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+arfcn: 86 rxLev: -100
+arfcn: 1007 rxLev: -100
+arfcn: 1005 rxLev: -101
+arfcn: 88 rxLev: -101
+arfcn: 92 rxLev: -101
+arfcn: 96 rxLev: -101
+$GPGGA,075740.436,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 108 rxLev: -101
+arfcn: 112 rxLev: -101
+$GPGSV,3,1,11,02,42,312,17,06,83,308,16,07,33,132,26,09,65,046,*73
+arfcn: 978 rxLev: -101
+$GPGSV,3,2,11,19,33,212,,23,28,046,,17,20,197,,30,20,157,*71
+arfcn: 123 rxLev: -101
+arfcn: 1003 rxLev: -101
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+arfcn: 72 rxLev: -101
+$GPRMC,075740.436,V,,,,,,,110218,,,N*46
+arfcn: 4 rxLev: -101
+arfcn: 52 rxLev: -101
+arfcn: 994 rxLev: -101
+arfcn: 995 rxLev: -101
+arfcn: 996 rxLev: -101
+$GPGGA,075741.441,,,,,0,00,,,M,0.0,M,,0000*57
+arfcn: 100 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 93 rxLev: -101
+$GPRMC,075741.441,V,,,,,,,110218,,,N*47
+arfcn: 91 rxLev: -101
+arfcn: 1008 rxLev: -101
+arfcn: 94 rxLev: -102
+arfcn: 95 rxLev: -102
+arfcn: 97 rxLev: -102
+arfcn: 98 rxLev: -102
+arfcn: 985 rxLev: -102
+arfcn: 981 rxLev: -102
+arfcn: 6 rxLev: -102
+arfcn: 975 rxLev: -102
+$GPGGA,075742.441,,,,,0,00,,,M,0.0,M,,0000*54
+arfcn: 993 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075742.441,V,,,,,,,110218,,,N*44
+arfcn: 992 rxLev: -103
+arfcn: 976 rxLev: -103
+arfcn: 120 rxLev: -103
+arfcn: 99 rxLev: -103
+arfcn: 101 rxLev: -103
+arfcn: 104 rxLev: -103
+arfcn: 8 rxLev: -103
+arfcn: 14 rxLev: -103
+arfcn: 789 rxLev: -103
+arfcn: 669 rxLev: -103
+$GPGGA,075743.441,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075743.441,V,,,,,,,110218,,,N*45
+$GPGGA,075744.441,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075744.441,V,,,,,,,110218,,,N*42
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 0.05 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 15 rxLev: -103
+arfcn: 3 rxLev: -103
+arfcn: 102 rxLev: -103
+arfcn: 122 rxLev: -104
+arfcn: 991 rxLev: -104
+arfcn: 990 rxLev: -104
+arfcn: 1 rxLev: -104
+$GPGGA,075745.436,,,,,0,00,,,M,0.0,M,,0000*53
+arfcn: 18 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 29 rxLev: -104
+$GPGSV,3,1,11,02,42,312,17,06,84,307,16,07,33,131,27,09,65,046,*79
+arfcn: 73 rxLev: -104
+arfcn: 17 rxLev: -104
+$GPGSV,3,2,11,19,32,212,,23,28,046,,30,20,157,,17,20,196,*71
+arfcn: 546 rxLev: -104
+arfcn: 549 rxLev: -104
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+arfcn: 1017 rxLev: -105
+$GPRMC,075745.436,V,,,,,,,110218,,,N*43
+arfcn: 1018 rxLev: -105
+arfcn: 2 rxLev: -105
+arfcn: 979 rxLev: -105
+arfcn: 103 rxLev: -105
+$GPGGA,075746.436,,,,,0,00,,,M,0.0,M,,0000*50
+arfcn: 105 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 106 rxLev: -105
+$GPRMC,075746.436,V,,,,,,,110218,,,N*40
+arfcn: 116 rxLev: -105
+arfcn: 79 rxLev: -105
+arfcn: 76 rxLev: -105
+arfcn: 5 rxLev: -105
+arfcn: 21 rxLev: -105
+arfcn: 28 rxLev: -105
+arfcn: 74 rxLev: -105
+arfcn: 50 rxLev: -106
+$GPGGA,075747.441,,,,,0,00,,,M,0.0,M,,0000*51
+arfcn: 26 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075747.441,V,,,,,,,110218,,,N*41
+$GPGGA,075748.441,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075748.441,V,,,,,,,110218,,,N*4E
+$GPGGA,075749.441,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075749.441,V,,,,,,,110218,,,N*4F
+arfcn: 1020 rxLev: -106
+$GPGGA,075750.441,,,,,0,00,,,M,0.0,M,,0000*57
+arfcn: 606 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 609 rxLev: -106
+$GPGSV,3,1,11,02,42,312,17,06,84,307,17,07,33,131,27,09,65,046,*78
+arfcn: 607 rxLev: -106
+arfcn: 666 rxLev: -106
+$GPGSV,3,2,11,19,32,212,,23,28,046,,30,20,157,,17,20,196,*71
+arfcn: 1011 rxLev: -106
+arfcn: 24 rxLev: -106
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+arfcn: 16 rxLev: -106
+$GPRMC,075750.441,V,,,,,,,110218,,,N*47
+arfcn: 0 rxLev: -106
+arfcn: 44 rxLev: -106
+arfcn: 117 rxLev: -106
+arfcn: 107 rxLev: -106
+$GPGGA,075751.436,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 109 rxLev: -107
+$GPRMC,075751.436,V,,,,,,,110218,,,N*46
+arfcn: 982 rxLev: -107
+arfcn: 983 rxLev: -107
+arfcn: 45 rxLev: -107
+arfcn: 37 rxLev: -107
+arfcn: 1009 rxLev: -107
+arfcn: 1015 rxLev: -107
+arfcn: 1019 rxLev: -107
+arfcn: 786 rxLev: -107
+arfcn: 861 rxLev: -107
+arfcn: 605 rxLev: -107
+$GPGGA,075752.436,,,,,0,00,,,M,0.0,M,,0000*55
+arfcn: 40 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 41 rxLev: -107
+$GPRMC,075752.436,V,,,,,,,110218,,,N*45
+arfcn: 20 rxLev: -107
+arfcn: 119 rxLev: -107
+arfcn: 78 rxLev: -107
+arfcn: 77 rxLev: -108
+arfcn: 90 rxLev: -108
+arfcn: 42 rxLev: -108
+arfcn: 39 rxLev: -108
+arfcn: 38 rxLev: -108
+arfcn: 46 rxLev: -108
+$GPGGA,075753.441,,,,,0,00,,,M,0.0,M,,0000*54
+arfcn: 47 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 51 rxLev: -108
+$GPRMC,075753.441,V,,,,,,,110218,,,N*44
+arfcn: 619 rxLev: -108
+arfcn: 661 rxLev: -108
+arfcn: 665 rxLev: -108
+arfcn: 667 rxLev: -108
+arfcn: 1022 rxLev: -108
+arfcn: 1023 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,08:57:54+04"
+Survey duration: 35 seconds, 10 bases detected over 166 freqs scanned.
+$GPGGA,075754.441,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075754.441,V,,,,,,,110218,,,N*43
+$GPGGA,075755.436,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,42,312,17,06,84,307,17,07,33,131,27,09,65,046,*78
+$GPGSV,3,2,11,19,32,212,,23,28,046,,30,20,157,,17,20,196,*71
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+$GPRMC,075755.436,V,,,,,,,110218,,,N*42
+$GPGGA,075756.441,,,,,0,00,,,M,0.0,M,,0000*51
+Survey start at #CCLK: "18/02/11,08:57:57+04"
+at#csurv
+Network survey started ...
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075756.441,V,,,,,,,110218,,,N*41
+$GPGGA,075757.436,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075757.436,V,,,,,,,110218,,,N*40
+$GPGGA,075758.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075758.436,V,,,,,,,110218,,,N*4F
+$GPGGA,075759.441,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075759.441,V,,,,,,,110218,,,N*4E
+$GPGGA,075800.441,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,42,312,16,06,84,307,17,07,33,131,28,09,65,046,*76
+$GPGSV,3,2,11,19,32,212,,23,28,046,,30,20,157,,17,20,196,*71
+$GPGSV,3,3,11,04,16,313,,05,16,282,,03,03,084,*4D
+$GPRMC,075800.441,V,,,,,,,110218,,,N*4D
+$GPGGA,075801.441,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075801.441,V,,,,,,,110218,,,N*4C
+$GPGGA,075802.441,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075802.441,V,,,,,,,110218,,,N*4F
+arfcn: 12 bsic: 38 rxLev: -73 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,075803.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075803.436,V,,,,,,,110218,,,N*4E
+$GPGGA,075804.436,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 87 bsic: 26 rxLev: -83 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 46 rxLev: -85
+$GPRMC,075804.436,V,,,,,,,110218,,,N*49
+arfcn: 13 rxLev: -90
+$GPGGA,075805.441,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,38,323,15,06,72,009,18,07,34,115,28,19,47,208,13*78
+$GPGSV,3,2,12,29,00,000,09,09,49,037,,17,33,190,,30,27,145,*71
+$GPGSV,3,3,12,05,20,285,,23,14,040,,04,13,316,,13,07,217,*71
+$GPRMC,075805.441,V,,,,,,,110218,,,N*48
+arfcn: 10 bsic: 30 rxLev: -90 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+arfcn: 44 rxLev: -91
+arfcn: 47 rxLev: -91
+$GPGGA,075806.441,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075806.441,V,,,,,,,110218,,,N*4B
+$GPGGA,075807.441,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075807.441,V,,,,,,,110218,,,N*4A
+$GPGGA,075808.441,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075808.441,V,,,,,,,110218,,,N*45
+$GPGGA,075809.436,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075809.436,V,,,,,,,110218,,,N*44
+arfcn: 7 bsic: 33 rxLev: -92 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 124 rxLev: -93
+arfcn: 977 bsic: 54 rxLev: -93 ber: 0.05 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+arfcn: 11 rxLev: -93
+$GPGGA,075810.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,63,279,15,06,67,157,17,07,12,128,28,19,16,191,11*76
+$GPGSV,3,2,12,29,13,329,12,09,61,094,,04,36,295,,23,33,056,*77
+$GPGSV,3,3,12,05,26,260,,25,06,303,,17,01,181,,26,00,022,*75
+$GPRMC,075810.436,V,,,,,,,110218,,,N*4C
+$GPGGA,075811.441,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075811.441,V,,,,,,,110218,,,N*4D
+arfcn: 984 bsic: 51 rxLev: -94 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 43 rxLev: -97
+arfcn: 20 rxLev: -97
+arfcn: 54 rxLev: -97
+$GPGGA,075812.450,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075812.450,V,,,,,,,110218,,,N*4E
+arfcn: 1016 bsic: 18 rxLev: -97 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 55 rxLev: -98
+arfcn: 56 rxLev: -98
+arfcn: 62 rxLev: -98
+arfcn: 61 rxLev: -99
+$GPGGA,075813.441,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 60 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 57 rxLev: -99
+$GPRMC,075813.441,V,,,,,,,110218,,,N*4F
+arfcn: 58 rxLev: -99
+arfcn: 64 rxLev: -99
+arfcn: 66 rxLev: -99
+arfcn: 69 rxLev: -99
+arfcn: 70 rxLev: -99
+arfcn: 71 rxLev: -99
+arfcn: 67 rxLev: -99
+arfcn: 68 rxLev: -99
+arfcn: 65 rxLev: -99
+$GPGGA,075814.441,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 63 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 59 rxLev: -99
+$GPRMC,075814.441,V,,,,,,,110218,,,N*48
+arfcn: 53 rxLev: -99
+arfcn: 25 rxLev: -99
+$GPGGA,075815.437,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,38,323,14,06,72,009,17,07,34,115,28,17,33,190,11*78
+arfcn: 82 bsic: 27 rxLev: -99 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+0 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+$GPGSV,3,2,11,19,47,208,12,09,49,037,,30,27,145,,05,20,285,*74
+arfcn: 121 rxLev: -99
+$GPGSV,3,3,11,23,14,040,,04,13,316,,13,07,217,*4A
+arfcn: 1007 rxLev: -100
+arfcn: 9 rxLev: -100
+$GPRMC,075815.437,V,,,,,,,110218,,,N*48
+arfcn: 4 rxLev: -100
+arfcn: 75 rxLev: -100
+arfcn: 1006 rxLev: -100
+arfcn: 1008 rxLev: -100
+$GPGGA,075816.437,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 997 rxLev: -100
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075816.437,V,,,,,,,110218,,,N*4B
+arfcn: 999 rxLev: -100
+arfcn: 1001 rxLev: -100
+arfcn: 978 rxLev: -100
+arfcn: 88 rxLev: -100
+arfcn: 92 rxLev: -101
+arfcn: 100 rxLev: -101
+arfcn: 123 rxLev: -101
+arfcn: 108 rxLev: -101
+$GPGGA,075817.441,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075817.441,V,,,,,,,110218,,,N*4B
+$GPGGA,075818.441,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075818.441,V,,,,,,,110218,,,N*44
+arfcn: 980 bsic: 40 rxLev: -101 ber: 10.01 mcc: 208 mnc: 20 lac: 423 cellId: 206
+57 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+arfcn: 998 rxLev: -101
+arfcn: 1002 rxLev: -101
+arfcn: 1003 rxLev: -101
+arfcn: 1004 rxLev: -101
+arfcn: 1005 rxLev: -101
+arfcn: 1000 rxLev: -101
+$GPGGA,075819.441,,,,,0,00,,,M,0.0,M,,0000*55
+arfcn: 996 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 995 rxLev: -101
+$GPRMC,075819.441,V,,,,,,,110218,,,N*45
+arfcn: 985 rxLev: -101
+arfcn: 112 rxLev: -101
+arfcn: 95 rxLev: -101
+arfcn: 96 rxLev: -101
+arfcn: 91 rxLev: -101
+arfcn: 72 rxLev: -101
+arfcn: 52 rxLev: -101
+arfcn: 6 rxLev: -101
+arfcn: 22 rxLev: -101
+arfcn: 93 rxLev: -102
+$GPGGA,075820.441,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 97 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 94 rxLev: -102
+arfcn: 98 rxLev: -102
+$GPGSV,3,1,11,02,33,324,13,06,67,000,16,07,38,113,28,17,36,194,12*77
+$GPGSV,3,2,11,19,49,215,,09,47,031,,30,33,146,,05,16,288,*73
+arfcn: 981 rxLev: -102
+arfcn: 994 rxLev: -102
+$GPGSV,3,3,11,23,13,039,,13,09,220,,04,08,317,*42
+$GPRMC,075820.441,V,,,,,,,110218,,,N*4F
+arfcn: 976 rxLev: -102
+arfcn: 993 rxLev: -102
+arfcn: 99 rxLev: -102
+arfcn: 120 rxLev: -102
+arfcn: 42 rxLev: -102
+$GPGGA,075821.437,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 14 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 48 rxLev: -102
+$GPRMC,075821.437,V,,,,,,,110218,,,N*4F
+arfcn: 669 rxLev: -102
+$GPGGA,075822.437,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 1.06 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 549 rxLev: -103
+$GPRMC,075822.437,V,,,,,,,110218,,,N*4C
+arfcn: 73 rxLev: -103
+arfcn: 15 rxLev: -103
+arfcn: 8 rxLev: -103
+arfcn: 45 rxLev: -103
+arfcn: 86 rxLev: -103
+arfcn: 992 rxLev: -103
+arfcn: 991 rxLev: -103
+arfcn: 101 rxLev: -103
+$GPGGA,075823.437,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 122 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 102 rxLev: -103
+$GPRMC,075823.437,V,,,,,,,110218,,,N*4D
+arfcn: 104 rxLev: -103
+arfcn: 3 rxLev: -103
+arfcn: 789 rxLev: -103
+arfcn: 24 rxLev: -104
+arfcn: 23 rxLev: -104
+arfcn: 2 rxLev: -104
+arfcn: 1 rxLev: -104
+arfcn: 990 rxLev: -104
+arfcn: 975 rxLev: -105
+$GPGGA,075824.441,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 979 rxLev: -105
+arfcn: 103 rxLev: -105
+$GPRMC,075824.441,V,,,,,,,110218,,,N*4B
+arfcn: 0 rxLev: -105
+arfcn: 21 rxLev: -105
+arfcn: 74 rxLev: -105
+$GPGGA,075825.441,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,02,25,313,12,06,58,284,16,07,45,169,28,17,08,222,12*70
+$GPGSV,3,2,12,27,00,000,11,09,73,343,,23,46,046,,03,25,101,*72
+$GPGSV,3,3,12,30,23,187,,19,15,238,,22,08,109,,16,03,070,*70
+$GPRMC,075825.441,V,,,,,,,110218,,,N*4A
+$GPGGA,075826.437,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075826.437,V,,,,,,,110218,,,N*48
+$GPGGA,075827.437,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 1018 bsic: 40 rxLev: -105 ber: 5.02 mcc: 208 mnc: 20 lac: 40 cellId: 3836
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+3 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1005 1018
+arfcn: 609 rxLev: -105
+$GPRMC,075827.437,V,,,,,,,110218,,,N*49
+arfcn: 1020 rxLev: -105
+arfcn: 29 rxLev: -105
+arfcn: 5 rxLev: -105
+arfcn: 105 rxLev: -105
+arfcn: 106 rxLev: -106
+arfcn: 76 rxLev: -106
+arfcn: 547 rxLev: -106
+arfcn: 666 rxLev: -106
+arfcn: 545 rxLev: -106
+$GPGGA,075828.436,,,,,0,00,,,M,0.0,M,,0000*57
+arfcn: 546 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1017 rxLev: -106
+$GPRMC,075828.436,V,,,,,,,110218,,,N*47
+arfcn: 1010 rxLev: -106
+arfcn: 37 rxLev: -106
+arfcn: 119 rxLev: -106
+arfcn: 117 rxLev: -107
+arfcn: 116 rxLev: -107
+arfcn: 107 rxLev: -107
+arfcn: 109 rxLev: -107
+arfcn: 16 rxLev: -107
+arfcn: 79 rxLev: -107
+$GPGGA,075829.436,,,,,0,00,,,M,0.0,M,,0000*56
+arfcn: 50 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1023 rxLev: -107
+$GPRMC,075829.436,V,,,,,,,110218,,,N*46
+arfcn: 861 rxLev: -107
+arfcn: 1011 rxLev: -107
+arfcn: 51 rxLev: -107
+arfcn: 982 rxLev: -107
+arfcn: 983 rxLev: -107
+arfcn: 1009 rxLev: -107
+arfcn: 90 rxLev: -108
+arfcn: 77 rxLev: -108
+arfcn: 38 rxLev: -108
+arfcn: 39 rxLev: -108
+$GPGGA,075830.436,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 41 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1015 rxLev: -108
+arfcn: 1019 rxLev: -108
+$GPGSV,3,1,11,02,33,324,13,06,67,000,16,07,39,113,28,19,49,216,*7A
+arfcn: 663 rxLev: -108
+arfcn: 786 rxLev: -108
+$GPGSV,3,2,11,09,47,031,,17,36,194,,30,33,146,,05,16,288,*7F
+arfcn: 664 rxLev: -108
+$GPGSV,3,3,11,23,13,039,,13,09,220,,04,08,317,*42
+arfcn: 727 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,08:58:31+04"
+Survey duration: 34 seconds, 11 bases detected over 160 freqs scanned.
+$GPRMC,075830.436,V,,,,,,,110218,,,N*4E
+$GPGGA,075831.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075831.436,V,,,,,,,110218,,,N*4F
+$GPGGA,075832.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075832.436,V,,,,,,,110218,,,N*4C
+Survey start at #CCLK: "18/02/11,08:58:34+04"
+at#csurv
+Network survey started ...
+$GPGGA,075833.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075833.436,V,,,,,,,110218,,,N*4D
+$GPGGA,075834.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075834.436,V,,,,,,,110218,,,N*4A
+$GPGGA,075835.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,33,324,12,06,67,000,16,07,39,113,28,19,49,216,*7B
+$GPGSV,3,2,11,09,47,031,,17,36,194,,30,33,146,,05,16,288,*7F
+$GPGSV,3,3,11,23,13,039,,13,09,220,,04,08,317,*42
+$GPRMC,075835.436,V,,,,,,,110218,,,N*4B
+$GPGGA,075836.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075836.436,V,,,,,,,110218,,,N*48
+$GPGGA,075837.436,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075837.436,V,,,,,,,110218,,,N*49
+$GPGGA,075838.436,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075838.436,V,,,,,,,110218,,,N*46
+$GPGGA,075839.436,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075839.436,V,,,,,,,110218,,,N*47
+$GPGGA,075840.436,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,02,33,324,12,06,67,000,17,07,39,113,28,19,49,216,*7A
+$GPGSV,3,2,11,09,47,031,,17,36,194,,30,33,146,,05,16,289,*7E
+$GPGSV,3,3,11,23,13,039,,13,09,220,,04,08,317,*42
+$GPRMC,075840.436,V,,,,,,,110218,,,N*49
+$GPGGA,075841.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075841.436,V,,,,,,,110218,,,N*48
+$GPGGA,075842.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075842.436,V,,,,,,,110218,,,N*4B
+$GPGGA,075843.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075843.436,V,,,,,,,110218,,,N*4A
+arfcn: 12 bsic: 38 rxLev: -73 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,075844.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075844.436,V,,,,,,,110218,,,N*4D
+$GPGGA,075845.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,06,67,000,17,07,39,113,28,19,49,216,,09,47,031,*76
+$GPGSV,3,2,11,17,36,194,,30,33,146,,02,33,324,,05,16,289,*71
+arfcn: 87 bsic: 26 rxLev: -83 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+$GPGSV,3,3,11,23,13,039,,13,09,220,,04,08,317,*42
+$GPRMC,075845.436,V,,,,,,,110218,,,N*4C
+$GPGGA,075846.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075846.436,V,,,,,,,110218,,,N*4F
+$GPGGA,075847.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075847.436,V,,,,,,,110218,,,N*4E
+arfcn: 10 bsic: 30 rxLev: -90 ber: 0.02 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+arfcn: 13 rxLev: -91
+$GPGGA,075848.436,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075848.436,V,,,,,,,110218,,,N*41
+$GPGGA,075849.436,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 7 bsic: 33 rxLev: -91 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 124 rxLev: -92
+$GPRMC,075849.436,V,,,,,,,110218,,,N*40
+arfcn: 977 bsic: 54 rxLev: -93 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+$GPGGA,075850.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,06,67,000,17,07,39,113,28,19,49,216,,09,47,031,*76
+$GPGSV,3,2,11,17,36,194,,30,33,146,,02,33,324,,05,16,289,*71
+$GPGSV,3,3,11,23,13,039,,13,09,220,,04,08,317,*42
+$GPRMC,075850.436,V,,,,,,,110218,,,N*48
+$GPGGA,075851.436,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 984 bsic: 51 rxLev: -93 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+$GPRMC,075851.436,V,,,,,,,110218,,,N*49
+arfcn: 11 rxLev: -93
+arfcn: 9 rxLev: -97
+$GPGGA,075852.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075852.436,V,,,,,,,110218,,,N*4A
+arfcn: 1016 bsic: 18 rxLev: -97 ber: 0.02 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 54 rxLev: -98
+arfcn: 61 rxLev: -98
+arfcn: 70 rxLev: -98
+arfcn: 71 rxLev: -99
+arfcn: 62 rxLev: -99
+arfcn: 69 rxLev: -99
+arfcn: 66 rxLev: -99
+arfcn: 67 rxLev: -99
+arfcn: 60 rxLev: -99
+arfcn: 58 rxLev: -99
+$GPGGA,075853.436,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 55 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 56 rxLev: -99
+$GPRMC,075853.436,V,,,,,,,110218,,,N*4B
+arfcn: 57 rxLev: -99
+$GPGGA,075854.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075854.436,V,,,,,,,110218,,,N*4C
+$GPGGA,075855.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,06,67,000,16,07,39,113,28,19,49,216,,09,47,031,*77
+$GPGSV,3,2,11,17,36,194,,30,33,146,,02,33,324,,05,16,289,*71
+$GPGSV,3,3,11,23,13,039,,13,09,220,,04,08,317,*42
+$GPRMC,075855.436,V,,,,,,,110218,,,N*4D
+$GPGGA,075856.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075856.436,V,,,,,,,110218,,,N*4E
+arfcn: 82 bsic: 27 rxLev: -99 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+0 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+arfcn: 121 rxLev: -99
+arfcn: 75 rxLev: -100
+arfcn: 59 rxLev: -100
+$GPGGA,075857.436,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 64 rxLev: -100
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 53 rxLev: -100
+$GPRMC,075857.436,V,,,,,,,110218,,,N*4F
+arfcn: 65 rxLev: -100
+arfcn: 63 rxLev: -100
+arfcn: 68 rxLev: -100
+arfcn: 72 rxLev: -100
+arfcn: 88 rxLev: -100
+$GPGGA,075858.436,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075858.436,V,,,,,,,110218,,,N*40
+$GPGGA,075859.436,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075859.436,V,,,,,,,110218,,,N*41
+$GPGGA,075900.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,06,67,000,16,07,39,113,28,19,49,216,,09,47,031,*77
+$GPGSV,3,2,11,17,36,194,,30,33,146,,02,33,324,,05,16,289,*71
+arfcn: 980 bsic: 40 rxLev: -100 ber: 0.10 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+arfcn: 978 rxLev: -101
+$GPGSV,3,3,11,23,13,039,,13,09,220,,04,08,317,*42
+$GPRMC,075900.436,V,,,,,,,110218,,,N*4C
+arfcn: 123 rxLev: -101
+arfcn: 112 rxLev: -101
+arfcn: 985 rxLev: -101
+arfcn: 92 rxLev: -101
+arfcn: 4 rxLev: -101
+$GPGGA,075901.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 91 rxLev: -101
+$GPRMC,075901.436,V,,,,,,,110218,,,N*4D
+arfcn: 998 rxLev: -101
+arfcn: 999 rxLev: -101
+arfcn: 1000 rxLev: -101
+arfcn: 1001 rxLev: -101
+arfcn: 1003 rxLev: -101
+arfcn: 1005 rxLev: -101
+arfcn: 1007 rxLev: -101
+arfcn: 93 rxLev: -101
+arfcn: 95 rxLev: -101
+arfcn: 96 rxLev: -101
+arfcn: 100 rxLev: -101
+$GPGGA,075902.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 108 rxLev: -101
+arfcn: 99 rxLev: -102
+$GPRMC,075902.436,V,,,,,,,110218,,,N*4E
+arfcn: 97 rxLev: -102
+arfcn: 94 rxLev: -102
+arfcn: 1008 rxLev: -102
+arfcn: 1006 rxLev: -102
+arfcn: 1004 rxLev: -102
+arfcn: 1002 rxLev: -102
+arfcn: 997 rxLev: -102
+arfcn: 995 rxLev: -102
+$GPGGA,075903.436,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 981 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 6 rxLev: -102
+$GPRMC,075903.436,V,,,,,,,110218,,,N*4F
+arfcn: 52 rxLev: -102
+arfcn: 8 rxLev: -102
+arfcn: 14 rxLev: -102
+arfcn: 15 rxLev: -102
+arfcn: 996 rxLev: -102
+arfcn: 98 rxLev: -102
+arfcn: 104 rxLev: -103
+arfcn: 994 rxLev: -103
+$GPGGA,075904.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075904.436,V,,,,,,,110218,,,N*48
+$GPGGA,075905.436,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,06,67,000,16,07,39,113,28,19,49,216,,09,47,031,*77
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 1.09 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+$GPGSV,3,2,11,17,36,194,,30,33,146,,02,33,324,,05,16,289,*71
+arfcn: 789 rxLev: -103
+$GPGSV,3,3,11,23,13,039,,13,09,220,,04,08,317,*42
+arfcn: 669 rxLev: -103
+$GPRMC,075905.436,V,,,,,,,110218,,,N*49
+arfcn: 101 rxLev: -103
+arfcn: 102 rxLev: -103
+arfcn: 120 rxLev: -103
+arfcn: 86 rxLev: -103
+arfcn: 73 rxLev: -104
+$GPGGA,075906.436,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 5 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 2 rxLev: -104
+$GPRMC,075906.436,V,,,,,,,110218,,,N*4A
+arfcn: 122 rxLev: -104
+arfcn: 993 rxLev: -104
+arfcn: 992 rxLev: -104
+arfcn: 979 rxLev: -104
+arfcn: 103 rxLev: -104
+arfcn: 16 rxLev: -104
+arfcn: 549 rxLev: -104
+arfcn: 3 rxLev: -105
+arfcn: 1 rxLev: -105
+$GPGGA,075907.436,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 976 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 983 rxLev: -105
+$GPRMC,075907.436,V,,,,,,,110218,,,N*4B
+arfcn: 1018 rxLev: -105
+arfcn: 991 rxLev: -105
+arfcn: 990 rxLev: -105
+arfcn: 0 rxLev: -105
+arfcn: 50 rxLev: -105
+arfcn: 74 rxLev: -105
+arfcn: 546 rxLev: -105
+arfcn: 1023 rxLev: -106
+arfcn: 666 rxLev: -106
+$GPGGA,075908.436,,,,,0,00,,,M,0.0,M,,0000*54
+arfcn: 76 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 79 rxLev: -106
+$GPRMC,075908.436,V,,,,,,,110218,,,N*44
+arfcn: 44 rxLev: -106
+arfcn: 1020 rxLev: -106
+arfcn: 105 rxLev: -106
+arfcn: 106 rxLev: -106
+arfcn: 107 rxLev: -106
+arfcn: 975 rxLev: -106
+arfcn: 119 rxLev: -106
+arfcn: 116 rxLev: -106
+arfcn: 117 rxLev: -106
+$GPGGA,075909.436,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 665 rxLev: -106
+$GPRMC,075909.436,V,,,,,,,110218,,,N*45
+arfcn: 547 rxLev: -106
+arfcn: 606 rxLev: -106
+arfcn: 609 rxLev: -106
+arfcn: 109 rxLev: -107
+arfcn: 982 rxLev: -107
+arfcn: 17 rxLev: -107
+arfcn: 46 rxLev: -107
+arfcn: 42 rxLev: -107
+arfcn: 89 rxLev: -107
+arfcn: 1015 rxLev: -107
+$GPGGA,075910.436,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 1009 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1011 rxLev: -107
+arfcn: 1022 rxLev: -107
+$GPGSV,3,1,11,06,68,000,15,07,39,113,27,19,49,216,,09,46,031,*75
+arfcn: 861 rxLev: -107
+$GPGSV,3,2,11,17,36,194,,30,33,146,,02,33,325,,05,16,289,*70
+arfcn: 619 rxLev: -108
+arfcn: 548 rxLev: -108
+$GPGSV,3,3,11,23,13,039,,13,09,220,,04,08,318,*4D
+arfcn: 1017 rxLev: -108
+$GPRMC,075910.436,V,,,,,,,110218,,,N*4D
+arfcn: 90 rxLev: -108
+arfcn: 43 rxLev: -108
+arfcn: 51 rxLev: -108
+arfcn: 19 rxLev: -108
+arfcn: 21 rxLev: -108
+$GPGGA,075911.436,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 36 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075911.436,V,,,,,,,110218,,,N*4C
+arfcn: 37 rxLev: -108
+arfcn: 40 rxLev: -108
+arfcn: 41 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,08:59:12+04"
+Survey duration: 38 seconds, 10 bases detected over 150 freqs scanned.
+$GPGGA,075912.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075912.436,V,,,,,,,110218,,,N*4F
+$GPGGA,075913.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075913.436,V,,,,,,,110218,,,N*4E
+Survey start at #CCLK: "18/02/11,08:59:14+04"
+at#csurv
+Network survey started ...
+$GPGGA,075914.436,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075914.436,V,,,,,,,110218,,,N*49
+$GPGGA,075915.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,06,68,000,15,07,39,113,27,19,49,216,,09,46,031,*75
+$GPGSV,3,2,11,17,36,194,,30,33,146,,02,33,325,,05,16,289,*70
+$GPGSV,3,3,11,23,12,039,,13,09,220,,04,08,318,*4C
+$GPRMC,075915.436,V,,,,,,,110218,,,N*48
+$GPGGA,075916.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075916.436,V,,,,,,,110218,,,N*4B
+$GPGGA,075917.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075917.436,V,,,,,,,110218,,,N*4A
+$GPGGA,075918.436,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075918.436,V,,,,,,,110218,,,N*45
+$GPGGA,075919.436,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075919.436,V,,,,,,,110218,,,N*44
+$GPGGA,075920.437,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,06,55,286,15,07,48,174,27,17,07,224,12,23,46,044,11*7F
+$GPGSV,3,2,12,26,01,043,15,09,71,338,,03,28,102,,30,25,191,*7D
+$GPGSV,3,3,12,02,22,314,,19,13,241,,22,11,111,,16,05,070,*77
+$GPRMC,075920.437,V,,,,,,,110218,,,N*4F
+$GPGGA,075921.437,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 12 bsic: 38 rxLev: -74 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPRMC,075921.437,V,,,,,,,110218,,,N*4E
+$GPGGA,075922.437,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075922.437,V,,,,,,,110218,,,N*4D
+$GPGGA,075923.437,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 87 bsic: 26 rxLev: -83 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+$GPRMC,075923.437,V,,,,,,,110218,,,N*4C
+$GPGGA,075924.437,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075924.437,V,,,,,,,110218,,,N*4B
+arfcn: 10 bsic: 30 rxLev: -91 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+arfcn: 13 rxLev: -92
+$GPGGA,075925.437,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,06,40,276,15,07,31,203,27,23,70,057,11,26,20,056,14*7B
+$GPGSV,3,2,11,09,66,283,,03,37,132,,16,23,088,,02,20,314,*7F
+$GPGSV,3,3,11,22,17,133,,30,07,209,,04,02,331,*46
+$GPRMC,075925.437,V,,,,,,,110218,,,N*4A
+$GPGGA,075926.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075926.436,V,,,,,,,110218,,,N*48
+arfcn: 7 bsic: 33 rxLev: -92 ber: 0.02 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 124 rxLev: -93
+arfcn: 977 bsic: 54 rxLev: -93 ber: 1.02 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+$GPGGA,075927.436,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075927.436,V,,,,,,,110218,,,N*49
+$GPGGA,075928.436,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075928.436,V,,,,,,,110218,,,N*46
+arfcn: 984 bsic: 51 rxLev: -93 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 11 rxLev: -94
+arfcn: 54 rxLev: -98
+$GPGGA,075929.436,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075929.436,V,,,,,,,110218,,,N*47
+arfcn: 1016 bsic: 18 rxLev: -98 ber: 0.03 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 56 rxLev: -98
+arfcn: 70 rxLev: -98
+$GPGGA,075930.436,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 69 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 55 rxLev: -99
+$GPGSV,3,1,11,06,40,276,15,07,31,203,27,23,70,057,14,09,66,283,*7E
+arfcn: 58 rxLev: -99
+arfcn: 61 rxLev: -99
+$GPGSV,3,2,11,03,37,132,,16,23,088,,26,20,056,,02,20,314,*7A
+$GPGSV,3,3,11,22,17,133,,30,07,209,,04,02,331,*46
+$GPRMC,075930.436,V,,,,,,,110218,,,N*4F
+$GPGGA,075931.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 82 bsic: 27 rxLev: -99 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+0 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+$GPRMC,075931.436,V,,,,,,,110218,,,N*4E
+arfcn: 53 rxLev: -99
+arfcn: 9 rxLev: -99
+arfcn: 62 rxLev: -99
+arfcn: 60 rxLev: -99
+arfcn: 68 rxLev: -99
+arfcn: 63 rxLev: -99
+arfcn: 64 rxLev: -99
+arfcn: 65 rxLev: -99
+arfcn: 66 rxLev: -99
+arfcn: 121 rxLev: -99
+arfcn: 67 rxLev: -100
+$GPGGA,075932.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 59 rxLev: -100
+$GPRMC,075932.436,V,,,,,,,110218,,,N*4D
+arfcn: 75 rxLev: -100
+arfcn: 71 rxLev: -100
+arfcn: 57 rxLev: -100
+arfcn: 978 rxLev: -100
+$GPGGA,075933.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075933.436,V,,,,,,,110218,,,N*4C
+$GPGGA,075934.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075934.436,V,,,,,,,110218,,,N*4B
+arfcn: 980 bsic: 40 rxLev: -100 ber: 1.07 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+arfcn: 123 rxLev: -101
+arfcn: 100 rxLev: -101
+arfcn: 108 rxLev: -101
+arfcn: 112 rxLev: -101
+arfcn: 88 rxLev: -101
+arfcn: 91 rxLev: -101
+arfcn: 92 rxLev: -101
+$GPGGA,075935.436,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 72 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 4 rxLev: -101
+$GPGSV,3,1,12,06,50,309,15,07,64,162,26,23,32,034,14,30,41,190,18*74
+arfcn: 52 rxLev: -101
+arfcn: 120 rxLev: -101
+$GPGSV,3,2,12,09,54,353,,03,27,089,,19,22,247,,17,19,227,*71
+arfcn: 1005 rxLev: -101
+arfcn: 985 rxLev: -101
+$GPGSV,3,3,12,01,13,151,,02,13,319,,22,13,103,,11,01,155,*77
+arfcn: 999 rxLev: -101
+$GPRMC,075935.436,V,,,,,,,110218,,,N*4A
+arfcn: 1000 rxLev: -102
+arfcn: 1001 rxLev: -102
+arfcn: 1002 rxLev: -102
+arfcn: 997 rxLev: -102
+$GPGGA,075936.436,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 1007 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1008 rxLev: -102
+$GPRMC,075936.436,V,,,,,,,110218,,,N*49
+arfcn: 981 rxLev: -102
+arfcn: 976 rxLev: -102
+arfcn: 96 rxLev: -102
+arfcn: 93 rxLev: -102
+arfcn: 94 rxLev: -102
+arfcn: 6 rxLev: -102
+arfcn: 3 rxLev: -102
+arfcn: 95 rxLev: -102
+$GPGGA,075937.436,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 97 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 99 rxLev: -102
+$GPRMC,075937.436,V,,,,,,,110218,,,N*48
+arfcn: 1006 rxLev: -102
+arfcn: 1003 rxLev: -102
+arfcn: 1004 rxLev: -102
+arfcn: 998 rxLev: -102
+arfcn: 995 rxLev: -102
+arfcn: 996 rxLev: -103
+$GPGGA,075938.436,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075938.436,V,,,,,,,110218,,,N*47
+$GPGGA,075939.436,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075939.436,V,,,,,,,110218,,,N*46
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 2.05 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 101 rxLev: -103
+arfcn: 98 rxLev: -103
+arfcn: 104 rxLev: -103
+arfcn: 979 rxLev: -103
+arfcn: 789 rxLev: -103
+arfcn: 669 rxLev: -103
+arfcn: 975 rxLev: -103
+arfcn: 994 rxLev: -103
+arfcn: 86 rxLev: -103
+$GPGGA,075940.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 73 rxLev: -104
+arfcn: 8 rxLev: -104
+$GPGSV,3,1,12,06,50,309,15,07,64,162,25,30,41,190,19,09,54,353,*79
+arfcn: 14 rxLev: -104
+arfcn: 993 rxLev: -104
+$GPGSV,3,2,12,23,32,034,,03,27,089,,19,22,247,,17,19,227,*7B
+arfcn: 102 rxLev: -104
+arfcn: 549 rxLev: -104
+$GPGSV,3,3,12,01,13,151,,02,13,319,,22,13,103,,11,01,155,*77
+arfcn: 607 rxLev: -104
+$GPRMC,075940.436,V,,,,,,,110218,,,N*48
+arfcn: 103 rxLev: -104
+arfcn: 122 rxLev: -104
+$GPGGA,075941.436,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075941.436,V,,,,,,,110218,,,N*49
+$GPGGA,075942.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075942.436,V,,,,,,,110218,,,N*4A
+arfcn: 1018 bsic: 40 rxLev: -104 ber: 5.03 mcc: 208 mnc: 20 lac: 40 cellId: 3836
+3 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1005 1018
+arfcn: 5 rxLev: -104
+arfcn: 546 rxLev: -105
+arfcn: 991 rxLev: -105
+arfcn: 992 rxLev: -105
+arfcn: 990 rxLev: -105
+arfcn: 105 rxLev: -105
+$GPGGA,075943.441,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 1 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 76 rxLev: -105
+$GPRMC,075943.441,V,,,,,,,110218,,,N*4B
+arfcn: 79 rxLev: -106
+arfcn: 1020 rxLev: -106
+arfcn: 609 rxLev: -106
+arfcn: 109 rxLev: -106
+arfcn: 119 rxLev: -106
+arfcn: 982 rxLev: -106
+arfcn: 74 rxLev: -106
+arfcn: 15 rxLev: -106
+arfcn: 16 rxLev: -106
+arfcn: 25 rxLev: -106
+$GPGGA,075944.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 50 rxLev: -107
+arfcn: 2 rxLev: -107
+$GPRMC,075944.436,V,,,,,,,110218,,,N*4C
+arfcn: 116 rxLev: -107
+arfcn: 107 rxLev: -107
+arfcn: 106 rxLev: -107
+arfcn: 983 rxLev: -107
+arfcn: 666 rxLev: -107
+arfcn: 606 rxLev: -107
+arfcn: 605 rxLev: -107
+arfcn: 861 rxLev: -107
+arfcn: 726 rxLev: -107
+$GPGGA,075945.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1019 rxLev: -107
+$GPGSV,3,1,12,06,50,309,13,07,64,162,24,30,41,190,21,09,54,353,*75
+arfcn: 1015 rxLev: -107
+arfcn: 1017 rxLev: -107
+$GPGSV,3,2,12,23,32,035,,03,27,089,,19,22,246,,17,19,227,*7B
+arfcn: 1009 rxLev: -107
+arfcn: 1011 rxLev: -107
+$GPGSV,3,3,12,01,13,151,,02,13,319,,22,13,103,,11,01,155,*77
+arfcn: 117 rxLev: -107
+$GPRMC,075945.436,V,,,,,,,110218,,,N*4D
+arfcn: 37 rxLev: -107
+arfcn: 41 rxLev: -107
+arfcn: 42 rxLev: -107
+arfcn: 39 rxLev: -108
+arfcn: 40 rxLev: -108
+$GPGGA,075946.436,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 33 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 46 rxLev: -108
+$GPRMC,075946.436,V,,,,,,,110218,,,N*4E
+arfcn: 43 rxLev: -108
+arfcn: 45 rxLev: -108
+arfcn: 51 rxLev: -108
+arfcn: 0 rxLev: -108
+arfcn: 90 rxLev: -108
+arfcn: 665 rxLev: -108
+arfcn: 623 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,08:59:47+04"
+Survey duration: 32 seconds, 11 bases detected over 149 freqs scanned.
+$GPGGA,075947.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075947.436,V,,,,,,,110218,,,N*4F
+$GPGGA,075948.436,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075948.436,V,,,,,,,110218,,,N*40
+$GPGGA,075949.436,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/11,08:59:50+04"
+at#csurv
+Network survey started ...
+$GPRMC,075949.436,V,,,,,,,110218,,,N*41
+$GPGGA,075950.436,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,06,50,309,13,07,64,162,24,30,41,190,21,09,54,353,*75
+$GPGSV,3,2,12,23,32,035,,03,27,089,,19,22,246,,17,19,227,*7B
+$GPGSV,3,3,12,01,13,151,,02,13,319,,22,13,103,,11,01,155,*77
+$GPRMC,075950.436,V,,,,,,,110218,,,N*49
+$GPGGA,075951.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075951.436,V,,,,,,,110218,,,N*48
+$GPGGA,075952.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075952.436,V,,,,,,,110218,,,N*4B
+$GPGGA,075953.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075953.436,V,,,,,,,110218,,,N*4A
+$GPGGA,075954.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075954.436,V,,,,,,,110218,,,N*4D
+arfcn: 12 bsic: 38 rxLev: -73 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+$GPGGA,075955.436,,,,,0,00,,,M,0.0,M,,0000*5C
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,06,50,309,13,07,64,162,23,15,00,000,09,30,41,190,20*73
+$GPGSV,3,2,12,09,54,353,,23,32,035,,03,27,089,,19,22,246,*7F
+$GPGSV,3,3,12,17,19,227,,01,13,151,,02,13,319,,22,13,103,*7E
+$GPRMC,075955.436,V,,,,,,,110218,,,N*4C
+$GPGGA,075956.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075956.436,V,,,,,,,110218,,,N*4F
+$GPGGA,075957.436,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 87 bsic: 26 rxLev: -84 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075957.436,V,,,,,,,110218,,,N*4E
+$GPGGA,075958.436,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075958.436,V,,,,,,,110218,,,N*41
+arfcn: 10 bsic: 30 rxLev: -90 ber: 0.05 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+arfcn: 13 rxLev: -91
+$GPGGA,075959.436,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,075959.436,V,,,,,,,110218,,,N*40
+$GPGGA,080000.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,06,50,309,12,07,64,162,22,30,41,190,20,09,54,353,*73
+$GPGSV,3,2,12,23,32,035,,03,27,089,,19,22,246,,17,19,227,*7B
+$GPGSV,3,3,12,01,13,151,,02,13,319,,22,13,103,,11,01,155,*77
+$GPRMC,080000.436,V,,,,,,,110218,,,N*4F
+arfcn: 7 bsic: 33 rxLev: -91 ber: 0.05 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 977 bsic: 54 rxLev: -93 ber: 0.07 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+$GPGGA,080001.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080001.436,V,,,,,,,110218,,,N*4E
+$GPGGA,080002.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080002.436,V,,,,,,,110218,,,N*4D
+arfcn: 984 bsic: 51 rxLev: -93 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 124 rxLev: -93
+arfcn: 11 rxLev: -93
+arfcn: 19 rxLev: -94
+arfcn: 46 rxLev: -95
+$GPGGA,080003.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 28 rxLev: -97
+arfcn: 9 rxLev: -98
+$GPRMC,080003.436,V,,,,,,,110218,,,N*4C
+arfcn: 54 rxLev: -98
+arfcn: 58 rxLev: -98
+$GPGGA,080004.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080004.436,V,,,,,,,110218,,,N*4B
+arfcn: 1016 bsic: 18 rxLev: -98 ber: 0.05 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 60 rxLev: -99
+arfcn: 62 rxLev: -99
+arfcn: 64 rxLev: -99
+arfcn: 69 rxLev: -99
+arfcn: 70 rxLev: -99
+arfcn: 26 rxLev: -99
+arfcn: 65 rxLev: -99
+arfcn: 66 rxLev: -99
+arfcn: 67 rxLev: -99
+$GPGGA,080005.436,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 63 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 61 rxLev: -99
+arfcn: 59 rxLev: -99
+$GPGSV,3,1,12,06,50,309,12,07,64,162,22,30,41,190,20,09,54,353,*73
+arfcn: 56 rxLev: -99
+arfcn: 55 rxLev: -99
+$GPGSV,3,2,12,23,32,035,,03,27,089,,19,22,246,,17,19,227,*7B
+arfcn: 53 rxLev: -99
+arfcn: 121 rxLev: -99
+$GPGSV,3,3,12,01,13,151,,02,13,319,,22,13,103,,11,01,155,*77
+arfcn: 1006 rxLev: -100
+$GPRMC,080005.436,V,,,,,,,110218,,,N*4A
+arfcn: 1007 rxLev: -100
+arfcn: 57 rxLev: -100
+arfcn: 71 rxLev: -100
+arfcn: 68 rxLev: -100
+$GPGGA,080006.436,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 75 rxLev: -100
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1005 rxLev: -100
+$GPRMC,080006.436,V,,,,,,,110218,,,N*49
+arfcn: 1002 rxLev: -100
+arfcn: 1003 rxLev: -100
+arfcn: 1004 rxLev: -100
+$GPGGA,080007.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080007.436,V,,,,,,,110218,,,N*48
+$GPGGA,080008.436,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080008.436,V,,,,,,,110218,,,N*47
+arfcn: 980 bsic: 40 rxLev: -100 ber: 12.08 mcc: 208 mnc: 20 lac: 423 cellId: 206
+57 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+arfcn: 108 rxLev: -100
+arfcn: 112 rxLev: -101
+arfcn: 1001 rxLev: -101
+arfcn: 1008 rxLev: -101
+arfcn: 997 rxLev: -101
+arfcn: 998 rxLev: -101
+arfcn: 999 rxLev: -101
+arfcn: 1000 rxLev: -101
+$GPGGA,080009.436,,,,,0,00,,,M,0.0,M,,0000*56
+arfcn: 88 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 91 rxLev: -101
+$GPRMC,080009.436,V,,,,,,,110218,,,N*46
+arfcn: 92 rxLev: -101
+$GPGGA,080010.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,06,50,309,11,07,64,162,22,30,41,190,20,09,54,353,*70
+$GPGSV,3,2,12,23,32,035,,03,27,089,,19,22,246,,17,19,227,*7B
+$GPGSV,3,3,12,01,13,151,,02,13,319,,22,13,103,,11,01,155,*77
+$GPRMC,080010.436,V,,,,,,,110218,,,N*4E
+$GPGGA,080011.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080011.436,V,,,,,,,110218,,,N*4F
+$GPGGA,080012.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 82 bsic: 27 rxLev: -101 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 228
+50 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+arfcn: 29 rxLev: -101
+$GPRMC,080012.436,V,,,,,,,110218,,,N*4C
+arfcn: 4 rxLev: -101
+arfcn: 6 rxLev: -101
+arfcn: 14 rxLev: -101
+arfcn: 86 rxLev: -101
+arfcn: 72 rxLev: -101
+arfcn: 995 rxLev: -101
+arfcn: 996 rxLev: -101
+arfcn: 985 rxLev: -101
+$GPGGA,080013.436,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 978 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 123 rxLev: -101
+$GPRMC,080013.436,V,,,,,,,110218,,,N*4D
+arfcn: 94 rxLev: -101
+arfcn: 100 rxLev: -101
+arfcn: 97 rxLev: -102
+arfcn: 93 rxLev: -102
+arfcn: 96 rxLev: -102
+arfcn: 994 rxLev: -102
+arfcn: 52 rxLev: -102
+arfcn: 8 rxLev: -102
+arfcn: 20 rxLev: -102
+arfcn: 15 rxLev: -102
+$GPGGA,080014.436,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 981 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 95 rxLev: -102
+$GPRMC,080014.436,V,,,,,,,110218,,,N*4A
+arfcn: 104 rxLev: -102
+arfcn: 120 rxLev: -102
+arfcn: 98 rxLev: -103
+arfcn: 99 rxLev: -103
+arfcn: 993 rxLev: -103
+arfcn: 669 rxLev: -103
+arfcn: 789 rxLev: -103
+arfcn: 101 rxLev: -103
+arfcn: 976 rxLev: -103
+$GPGGA,080015.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 102 rxLev: -104
+arfcn: 992 rxLev: -104
+$GPGSV,3,1,12,07,64,162,21,30,41,190,20,09,54,353,,06,50,309,*73
+$GPGSV,3,2,12,23,32,035,,03,27,089,,19,22,246,,17,19,227,*7B
+$GPGSV,3,3,12,01,13,151,,02,13,319,,22,13,103,,11,01,155,*77
+$GPRMC,080015.436,V,,,,,,,110218,,,N*4B
+$GPGGA,080016.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080016.436,V,,,,,,,110218,,,N*48
+arfcn: 1012 bsic: 15 rxLev: -104 ber: 2.08 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 73 rxLev: -104
+$GPGGA,080017.436,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 5 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 991 rxLev: -104
+$GPRMC,080017.436,V,,,,,,,110218,,,N*49
+arfcn: 103 rxLev: -104
+arfcn: 979 rxLev: -104
+arfcn: 122 rxLev: -104
+arfcn: 666 rxLev: -104
+arfcn: 549 rxLev: -104
+arfcn: 975 rxLev: -105
+arfcn: 105 rxLev: -105
+arfcn: 990 rxLev: -105
+arfcn: 1018 rxLev: -105
+$GPGGA,080018.436,,,,,0,00,,,M,0.0,M,,0000*56
+arfcn: 1020 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 3 rxLev: -105
+$GPRMC,080018.436,V,,,,,,,110218,,,N*46
+arfcn: 22 rxLev: -105
+arfcn: 79 rxLev: -105
+arfcn: 18 rxLev: -105
+arfcn: 2 rxLev: -105
+arfcn: 1017 rxLev: -105
+arfcn: 106 rxLev: -105
+arfcn: 547 rxLev: -105
+arfcn: 609 rxLev: -106
+arfcn: 665 rxLev: -106
+$GPGGA,080019.436,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 119 rxLev: -106
+$GPRMC,080019.436,V,,,,,,,110218,,,N*47
+arfcn: 1011 rxLev: -106
+arfcn: 50 rxLev: -106
+arfcn: 76 rxLev: -106
+arfcn: 74 rxLev: -106
+arfcn: 16 rxLev: -106
+arfcn: 17 rxLev: -106
+arfcn: 1 rxLev: -106
+arfcn: 116 rxLev: -106
+arfcn: 107 rxLev: -106
+arfcn: 1023 rxLev: -106
+$GPGGA,080020.436,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 606 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 117 rxLev: -107
+arfcn: 109 rxLev: -107
+$GPGSV,3,1,12,07,64,162,21,30,41,190,21,09,54,353,,06,50,309,*72
+arfcn: 1009 rxLev: -107
+$GPGSV,3,2,12,23,32,035,,03,27,089,,19,22,246,,17,19,227,*7B
+arfcn: 982 rxLev: -107
+arfcn: 983 rxLev: -107
+$GPGSV,3,3,12,01,13,151,,02,13,319,,22,13,103,,11,01,155,*77
+arfcn: 0 rxLev: -107
+$GPRMC,080020.436,V,,,,,,,110218,,,N*4D
+arfcn: 43 rxLev: -107
+arfcn: 42 rxLev: -107
+arfcn: 1015 rxLev: -107
+arfcn: 546 rxLev: -107
+arfcn: 545 rxLev: -108
+$GPGGA,080021.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 846 rxLev: -108
+$GPRMC,080021.436,V,,,,,,,110218,,,N*4C
+arfcn: 861 rxLev: -108
+arfcn: 41 rxLev: -108
+arfcn: 51 rxLev: -108
+arfcn: 21 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,09:00:22+04"
+Survey duration: 32 seconds, 10 bases detected over 149 freqs scanned.
+$GPGGA,080022.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080022.436,V,,,,,,,110218,,,N*4F
+$GPGGA,080023.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080023.436,V,,,,,,,110218,,,N*4E
+Survey start at #CCLK: "18/02/11,09:00:25+04"
+at#csurv
+Network survey started ...
+$GPGGA,080024.437,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080024.437,V,,,,,,,110218,,,N*48
+$GPGGA,080025.437,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,03,33,082,13,06,36,315,17,07,79,185,21,20,00,000,18*7C
+$GPGSV,3,2,12,30,51,205,20,09,40,348,,01,26,154,,23,25,027,*7D
+$GPGSV,3,3,12,22,21,100,,17,20,236,,19,19,256,,11,13,158,*74
+$GPRMC,080025.437,V,,,,,,,110218,,,N*49
+$GPGGA,080026.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080026.436,V,,,,,,,110218,,,N*4B
+$GPGGA,080027.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080027.436,V,,,,,,,110218,,,N*4A
+$GPGGA,080028.436,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080028.436,V,,,,,,,110218,,,N*45
+$GPGGA,080029.436,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080029.436,V,,,,,,,110218,,,N*44
+$GPGGA,080030.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,03,21,069,13,07,77,032,17,30,73,211,20,01,38,140,*7D
+$GPGSV,3,2,12,17,35,246,,19,29,267,,11,26,149,,06,25,329,*7A
+$GPGSV,3,3,12,28,25,188,,09,23,356,,22,16,089,,23,07,026,*7A
+$GPRMC,080030.436,V,,,,,,,110218,,,N*4C
+arfcn: 12 bsic: 38 rxLev: -73 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+arfcn: 28 rxLev: -80
+$GPGGA,080031.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080031.436,V,,,,,,,110218,,,N*4D
+$GPGGA,080032.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080032.436,V,,,,,,,110218,,,N*4E
+arfcn: 87 bsic: 26 rxLev: -84 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+arfcn: 48 rxLev: -89
+arfcn: 13 rxLev: -90
+$GPGGA,080033.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080033.436,V,,,,,,,110218,,,N*4F
+$GPGGA,080034.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080034.436,V,,,,,,,110218,,,N*48
+arfcn: 10 bsic: 30 rxLev: -91 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080035.436,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,07,77,032,17,30,73,211,20,01,38,140,,17,35,246,*70
+$GPGSV,3,2,12,19,29,267,,11,26,149,,06,25,329,,28,25,188,*76
+$GPGSV,3,3,12,09,23,356,,03,21,069,,22,16,089,,23,07,026,*79
+$GPRMC,080035.436,V,,,,,,,110218,,,N*49
+$GPGGA,080036.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080036.436,V,,,,,,,110218,,,N*4A
+arfcn: 7 bsic: 33 rxLev: -91 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 11 rxLev: -92
+arfcn: 977 bsic: 54 rxLev: -93 ber: 50.00 mcc: 208 mnc: 20 lac: 423 cellId: 2283
+5 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 97
+5 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 102
+0 1021 794
+$GPGGA,080037.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080037.436,V,,,,,,,110218,,,N*4B
+$GPGGA,080038.436,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080038.436,V,,,,,,,110218,,,N*44
+arfcn: 984 bsic: 51 rxLev: -94 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 124 rxLev: -94
+arfcn: 49 rxLev: -96
+arfcn: 43 rxLev: -96
+arfcn: 17 rxLev: -97
+arfcn: 91 rxLev: -98
+arfcn: 100 rxLev: -98
+$GPGGA,080039.436,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080039.436,V,,,,,,,110218,,,N*45
+arfcn: 1016 bsic: 18 rxLev: -98 ber: 0.09 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+$GPGGA,080040.436,,,,,0,00,,,M,0.0,M,,0000*5B
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 1004 rxLev: -98
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,07,77,032,17,30,73,211,20,01,38,140,,17,35,246,*70
+arfcn: 1005 rxLev: -98
+arfcn: 1007 rxLev: -98
+$GPGSV,3,2,12,19,29,267,,11,26,149,,06,25,329,,28,25,188,*76
+arfcn: 92 rxLev: -98
+arfcn: 95 rxLev: -98
+$GPGSV,3,3,12,09,23,356,,03,21,069,,22,16,089,,23,07,026,*79
+arfcn: 1001 rxLev: -98
+$GPRMC,080040.436,V,,,,,,,110218,,,N*4B
+arfcn: 1002 rxLev: -98
+arfcn: 1003 rxLev: -98
+arfcn: 70 rxLev: -98
+arfcn: 69 rxLev: -99
+arfcn: 61 rxLev: -99
+$GPGGA,080041.436,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 66 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 54 rxLev: -99
+$GPRMC,080041.436,V,,,,,,,110218,,,N*4A
+arfcn: 1000 rxLev: -99
+arfcn: 997 rxLev: -99
+arfcn: 998 rxLev: -99
+arfcn: 999 rxLev: -99
+arfcn: 120 rxLev: -99
+arfcn: 93 rxLev: -99
+arfcn: 94 rxLev: -99
+arfcn: 99 rxLev: -99
+arfcn: 1006 rxLev: -99
+arfcn: 1008 rxLev: -99
+$GPGGA,080042.436,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 101 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 102 rxLev: -99
+$GPRMC,080042.436,V,,,,,,,110218,,,N*49
+arfcn: 96 rxLev: -99
+arfcn: 97 rxLev: -99
+arfcn: 98 rxLev: -99
+arfcn: 996 rxLev: -99
+arfcn: 995 rxLev: -99
+arfcn: 55 rxLev: -99
+arfcn: 57 rxLev: -99
+arfcn: 58 rxLev: -99
+$GPGGA,080043.438,,,,,0,00,,,M,0.0,M,,0000*56
+arfcn: 60 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 62 rxLev: -100
+$GPRMC,080043.438,V,,,,,,,110218,,,N*46
+arfcn: 63 rxLev: -100
+arfcn: 67 rxLev: -100
+arfcn: 64 rxLev: -100
+arfcn: 65 rxLev: -100
+arfcn: 68 rxLev: -100
+arfcn: 71 rxLev: -100
+arfcn: 59 rxLev: -100
+arfcn: 56 rxLev: -100
+arfcn: 53 rxLev: -100
+arfcn: 9 rxLev: -100
+arfcn: 104 rxLev: -100
+$GPGGA,080044.438,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 103 rxLev: -100
+arfcn: 109 rxLev: -100
+$GPRMC,080044.438,V,,,,,,,110218,,,N*41
+$GPGGA,080045.435,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,17,68,262,11,30,68,082,20,19,54,295,,07,43,055,*77
+$GPGSV,3,2,11,28,40,168,,13,31,246,,01,27,119,,11,21,134,*71
+$GPGSV,3,3,11,06,20,353,,09,06,013,,15,03,229,*4B
+$GPRMC,080045.435,V,,,,,,,110218,,,N*4D
+$GPGGA,080046.435,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080046.435,V,,,,,,,110218,,,N*4E
+$GPGGA,080047.435,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080047.435,V,,,,,,,110218,,,N*4F
+arfcn: 82 bsic: 27 rxLev: -100 ber: 1.01 mcc: 208 mnc: 10 lac: 30510 cellId: 228
+50 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+$GPGGA,080048.435,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080048.435,V,,,,,,,110218,,,N*40
+$GPGGA,080049.435,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080049.435,V,,,,,,,110218,,,N*41
+arfcn: 980 bsic: 40 rxLev: -100 ber: 7.01 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+arfcn: 47 rxLev: -100
+arfcn: 75 rxLev: -100
+arfcn: 994 rxLev: -101
+arfcn: 985 rxLev: -101
+$GPGGA,080050.435,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 86 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 107 rxLev: -101
+arfcn: 105 rxLev: -101
+$GPGSV,3,1,11,17,68,262,11,30,68,082,20,19,54,295,,07,43,055,*77
+arfcn: 106 rxLev: -101
+arfcn: 108 rxLev: -101
+$GPGSV,3,2,11,28,40,168,,13,31,246,,01,27,119,,11,21,134,*71
+arfcn: 88 rxLev: -101
+$GPGSV,3,3,11,06,20,353,,09,06,013,,15,03,229,*4B
+arfcn: 993 rxLev: -101
+$GPRMC,080050.435,V,,,,,,,110218,,,N*49
+arfcn: 978 rxLev: -101
+arfcn: 72 rxLev: -101
+arfcn: 46 rxLev: -101
+$GPGGA,080051.435,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 4 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 6 rxLev: -102
+$GPRMC,080051.435,V,,,,,,,110218,,,N*48
+arfcn: 14 rxLev: -102
+arfcn: 15 rxLev: -102
+arfcn: 52 rxLev: -102
+arfcn: 123 rxLev: -102
+$GPGGA,080052.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080052.435,V,,,,,,,110218,,,N*4B
+$GPGGA,080053.435,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080053.435,V,,,,,,,110218,,,N*4A
+$GPGGA,080054.435,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 981 bsic: 58 rxLev: -102 ber: 4.08 mcc: 208 mnc: 20 lac: 423 cellId: 2085
+5 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 981 985
+arfcn: 992 rxLev: -102
+$GPRMC,080054.435,V,,,,,,,110218,,,N*4D
+arfcn: 8 rxLev: -102
+arfcn: 27 rxLev: -102
+arfcn: 29 rxLev: -102
+arfcn: 991 rxLev: -103
+arfcn: 116 rxLev: -103
+$GPGGA,080055.435,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,17,68,262,11,30,68,082,20,19,54,295,,07,43,055,*77
+$GPGSV,3,2,11,28,40,168,,13,31,246,,01,27,119,,11,21,134,*71
+$GPGSV,3,3,11,06,20,353,,09,06,013,,15,03,229,*4B
+$GPRMC,080055.435,V,,,,,,,110218,,,N*4C
+$GPGGA,080056.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080056.436,V,,,,,,,110218,,,N*4C
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 1.10 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 669 rxLev: -103
+arfcn: 990 rxLev: -103
+arfcn: 979 rxLev: -103
+arfcn: 976 rxLev: -103
+arfcn: 121 rxLev: -104
+arfcn: 111 rxLev: -104
+$GPGGA,080057.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080057.436,V,,,,,,,110218,,,N*4D
+arfcn: 22 rxLev: -104
+arfcn: 2 rxLev: -104
+arfcn: 1018 rxLev: -104
+arfcn: 1020 rxLev: -104
+arfcn: 90 rxLev: -104
+arfcn: 122 rxLev: -105
+arfcn: 1 rxLev: -105
+arfcn: 5 rxLev: -105
+arfcn: 73 rxLev: -105
+arfcn: 549 rxLev: -105
+$GPGGA,080058.436,,,,,0,00,,,M,0.0,M,,0000*52
+arfcn: 74 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 0 rxLev: -105
+$GPRMC,080058.436,V,,,,,,,110218,,,N*42
+arfcn: 975 rxLev: -105
+arfcn: 983 rxLev: -106
+arfcn: 76 rxLev: -106
+arfcn: 3 rxLev: -106
+arfcn: 789 rxLev: -106
+arfcn: 1017 rxLev: -106
+arfcn: 1009 rxLev: -106
+arfcn: 546 rxLev: -106
+arfcn: 16 rxLev: -106
+$GPGGA,080059.436,,,,,0,00,,,M,0.0,M,,0000*53
+arfcn: 45 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 119 rxLev: -106
+$GPRMC,080059.436,V,,,,,,,110218,,,N*43
+arfcn: 1023 rxLev: -107
+arfcn: 1015 rxLev: -107
+arfcn: 1022 rxLev: -107
+arfcn: 1021 rxLev: -107
+arfcn: 1019 rxLev: -107
+arfcn: 545 rxLev: -107
+arfcn: 666 rxLev: -107
+arfcn: 77 rxLev: -107
+arfcn: 50 rxLev: -107
+$GPGGA,080100.436,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 51 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 42 rxLev: -107
+arfcn: 41 rxLev: -107
+$GPGSV,3,1,12,05,28,300,12,30,29,118,19,19,73,175,,17,53,162,*75
+arfcn: 39 rxLev: -108
+$GPGSV,3,2,12,06,44,027,,13,35,211,,02,28,342,,07,21,090,*7E
+arfcn: 36 rxLev: -108
+arfcn: 38 rxLev: -108
+$GPGSV,3,3,12,09,20,034,,04,09,323,,12,06,276,,28,05,158,*7C
+arfcn: 19 rxLev: -108
+$GPRMC,080100.436,V,,,,,,,110218,,,N*4E
+arfcn: 20 rxLev: -108
+arfcn: 21 rxLev: -108
+arfcn: 23 rxLev: -108
+arfcn: 44 rxLev: -108
+arfcn: 79 rxLev: -108
+$GPGGA,080101.436,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 118 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 113 rxLev: -108
+$GPRMC,080101.436,V,,,,,,,110218,,,N*4F
+arfcn: 114 rxLev: -108
+arfcn: 982 rxLev: -108
+arfcn: 987 rxLev: -108
+arfcn: 663 rxLev: -108
+arfcn: 547 rxLev: -108
+arfcn: 1011 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,09:01:02+04"
+Survey duration: 37 seconds, 11 bases detected over 162 freqs scanned.
+$GPGGA,080102.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080102.436,V,,,,,,,110218,,,N*4C
+$GPGGA,080103.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080103.436,V,,,,,,,110218,,,N*4D
+$GPGGA,080104.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/11,09:01:05+04"
+at#csurv
+$GPRMC,080104.436,V,,,,,,,110218,,,N*4A
+Network survey started ...
+$GPGGA,080105.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,05,28,300,12,30,29,118,19,19,73,175,,17,53,162,*75
+$GPGSV,3,2,12,06,44,027,,13,35,211,,02,28,342,,07,21,090,*7E
+$GPGSV,3,3,12,09,20,034,,04,09,323,,12,06,276,,28,05,158,*7C
+$GPRMC,080105.436,V,,,,,,,110218,,,N*4B
+$GPGGA,080106.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080106.435,V,,,,,,,110218,,,N*4B
+$GPGGA,080107.435,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080107.435,V,,,,,,,110218,,,N*4A
+$GPGGA,080108.435,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080108.435,V,,,,,,,110218,,,N*45
+$GPGGA,080109.435,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080109.435,V,,,,,,,110218,,,N*44
+$GPGGA,080110.435,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,29,118,16,19,73,175,,17,53,162,,06,44,027,*76
+$GPGSV,3,2,12,13,35,211,,05,28,300,,02,28,342,,07,21,090,*71
+$GPGSV,3,3,12,09,20,034,,04,09,323,,12,06,276,,28,05,158,*7C
+$GPRMC,080110.435,V,,,,,,,110218,,,N*4C
+arfcn: 12 bsic: 38 rxLev: -71 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080111.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080111.436,V,,,,,,,110218,,,N*4E
+$GPGGA,080112.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080112.436,V,,,,,,,110218,,,N*4D
+arfcn: 87 bsic: 26 rxLev: -83 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+arfcn: 13 rxLev: -89
+$GPGGA,080113.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080113.436,V,,,,,,,110218,,,N*4C
+$GPGGA,080114.435,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080114.435,V,,,,,,,110218,,,N*48
+$GPGGA,080115.435,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,65,300,16,01,64,121,,11,52,142,,07,51,350,*78
+$GPGSV,3,2,12,28,46,201,,17,30,266,,22,23,071,,03,20,051,*75
+$GPGSV,3,3,12,08,17,126,,19,16,279,,13,03,244,,06,01,327,*70
+$GPRMC,080115.435,V,,,,,,,110218,,,N*49
+arfcn: 10 bsic: 30 rxLev: -89 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080116.435,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080116.435,V,,,,,,,110218,,,N*4A
+$GPGGA,080117.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080117.435,V,,,,,,,110218,,,N*4B
+arfcn: 7 bsic: 33 rxLev: -90 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 11 rxLev: -91
+arfcn: 977 bsic: 54 rxLev: -92 ber: 0.03 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+$GPGGA,080118.435,,,,,0,00,,,M,0.0,M,,0000*54
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080118.435,V,,,,,,,110218,,,N*44
+$GPGGA,080119.435,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080119.435,V,,,,,,,110218,,,N*45
+arfcn: 984 bsic: 51 rxLev: -92 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 124 rxLev: -94
+$GPGGA,080120.435,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 9 rxLev: -98
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 70 rxLev: -98
+$GPGSV,3,1,12,30,65,300,17,01,64,121,,11,52,142,,07,51,350,*79
+$GPGSV,3,2,12,28,46,201,,17,30,266,,22,23,071,,03,20,051,*75
+$GPGSV,3,3,12,08,17,126,,19,16,279,,13,03,244,,06,01,327,*70
+$GPRMC,080120.435,V,,,,,,,110218,,,N*4F
+arfcn: 1016 bsic: 18 rxLev: -98 ber: 0.03 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 54 rxLev: -98
+$GPGGA,080121.435,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 120 rxLev: -98
+$GPRMC,080121.435,V,,,,,,,110218,,,N*4E
+arfcn: 92 rxLev: -98
+arfcn: 93 rxLev: -98
+arfcn: 94 rxLev: -99
+arfcn: 95 rxLev: -99
+arfcn: 96 rxLev: -99
+arfcn: 91 rxLev: -99
+arfcn: 100 rxLev: -99
+arfcn: 53 rxLev: -99
+arfcn: 56 rxLev: -99
+arfcn: 69 rxLev: -99
+$GPGGA,080122.435,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 60 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 61 rxLev: -99
+$GPRMC,080122.435,V,,,,,,,110218,,,N*4D
+arfcn: 64 rxLev: -99
+arfcn: 66 rxLev: -99
+arfcn: 65 rxLev: -99
+arfcn: 63 rxLev: -99
+arfcn: 62 rxLev: -99
+arfcn: 59 rxLev: -99
+arfcn: 67 rxLev: -99
+arfcn: 68 rxLev: -99
+arfcn: 55 rxLev: -99
+$GPGGA,080123.435,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 57 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 58 rxLev: -99
+$GPRMC,080123.435,V,,,,,,,110218,,,N*4C
+arfcn: 98 rxLev: -99
+arfcn: 97 rxLev: -100
+arfcn: 99 rxLev: -100
+arfcn: 101 rxLev: -100
+arfcn: 71 rxLev: -100
+arfcn: 4 rxLev: -100
+arfcn: 88 rxLev: -100
+$GPGGA,080124.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080124.435,V,,,,,,,110218,,,N*4B
+$GPGGA,080125.435,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,65,300,17,01,64,121,,11,52,142,,07,51,350,*79
+$GPGSV,3,2,12,28,46,201,,17,30,266,,22,23,071,,03,20,051,*75
+$GPGSV,3,3,12,08,17,126,,19,16,279,,13,03,244,,06,01,327,*70
+$GPRMC,080125.435,V,,,,,,,110218,,,N*4A
+$GPGGA,080126.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080126.436,V,,,,,,,110218,,,N*4A
+$GPGGA,080127.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080127.436,V,,,,,,,110218,,,N*4B
+arfcn: 82 bsic: 27 rxLev: -100 ber: 0.04 mcc: 208 mnc: 10 lac: 30510 cellId: 228
+50 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+$GPGGA,080128.436,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080128.436,V,,,,,,,110218,,,N*44
+$GPGGA,080129.436,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080129.436,V,,,,,,,110218,,,N*45
+arfcn: 985 rxLev: -100
+arfcn: 1002 rxLev: -101
+arfcn: 981 rxLev: -101
+arfcn: 978 rxLev: -101
+$GPGGA,080130.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,28,64,182,13,30,62,006,17,01,49,099,,17,48,290,*73
+$GPGSV,3,2,12,11,45,122,,07,37,021,,19,30,300,,13,22,257,*71
+$GPGSV,3,3,12,08,09,126,,15,04,229,,22,04,079,,03,00,061,*79
+$GPRMC,080130.436,V,,,,,,,110218,,,N*4D
+$GPGGA,080131.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080131.436,V,,,,,,,110218,,,N*4C
+$GPGGA,080132.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080132.436,V,,,,,,,110218,,,N*4F
+arfcn: 980 bsic: 40 rxLev: -101 ber: 1.05 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+arfcn: 75 rxLev: -101
+$GPGGA,080133.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080133.436,V,,,,,,,110218,,,N*4E
+arfcn: 102 rxLev: -101
+arfcn: 109 rxLev: -101
+arfcn: 43 rxLev: -101
+arfcn: 1008 rxLev: -101
+arfcn: 1005 rxLev: -101
+arfcn: 52 rxLev: -101
+arfcn: 72 rxLev: -101
+arfcn: 6 rxLev: -101
+arfcn: 104 rxLev: -101
+arfcn: 976 rxLev: -101
+$GPGGA,080134.436,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 1004 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 997 rxLev: -101
+$GPRMC,080134.436,V,,,,,,,110218,,,N*49
+arfcn: 999 rxLev: -101
+arfcn: 1000 rxLev: -101
+arfcn: 998 rxLev: -102
+arfcn: 1003 rxLev: -102
+arfcn: 1001 rxLev: -102
+arfcn: 995 rxLev: -102
+arfcn: 996 rxLev: -102
+arfcn: 103 rxLev: -102
+arfcn: 105 rxLev: -102
+arfcn: 107 rxLev: -102
+$GPGGA,080135.436,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 1006 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1007 rxLev: -102
+$GPGSV,3,1,12,28,64,182,12,30,62,006,18,01,49,099,,17,48,290,*7D
+arfcn: 108 rxLev: -102
+$GPGSV,3,2,12,11,45,122,,07,37,021,,19,30,300,,13,22,257,*71
+arfcn: 106 rxLev: -102
+arfcn: 86 rxLev: -102
+$GPGSV,3,3,12,08,09,126,,15,04,229,,22,04,079,,03,00,061,*79
+arfcn: 123 rxLev: -102
+$GPRMC,080135.436,V,,,,,,,110218,,,N*48
+arfcn: 8 rxLev: -102
+arfcn: 979 rxLev: -103
+arfcn: 994 rxLev: -103
+arfcn: 993 rxLev: -103
+arfcn: 116 rxLev: -103
+$GPGGA,080136.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 14 rxLev: -103
+$GPRMC,080136.436,V,,,,,,,110218,,,N*4B
+arfcn: 15 rxLev: -103
+arfcn: 21 rxLev: -103
+$GPGGA,080137.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080137.436,V,,,,,,,110218,,,N*4A
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 1.09 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 669 rxLev: -104
+$GPGGA,080138.436,,,,,0,00,,,M,0.0,M,,0000*55
+arfcn: 73 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 111 rxLev: -104
+$GPRMC,080138.436,V,,,,,,,110218,,,N*45
+arfcn: 992 rxLev: -104
+arfcn: 975 rxLev: -104
+arfcn: 991 rxLev: -104
+arfcn: 76 rxLev: -104
+arfcn: 74 rxLev: -104
+arfcn: 20 rxLev: -104
+arfcn: 549 rxLev: -104
+arfcn: 1020 rxLev: -104
+arfcn: 5 rxLev: -105
+arfcn: 0 rxLev: -105
+$GPGGA,080139.436,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 2 rxLev: -105
+$GPRMC,080139.436,V,,,,,,,110218,,,N*44
+arfcn: 3 rxLev: -105
+arfcn: 119 rxLev: -105
+arfcn: 122 rxLev: -105
+arfcn: 121 rxLev: -105
+arfcn: 990 rxLev: -105
+arfcn: 1 rxLev: -105
+arfcn: 16 rxLev: -105
+arfcn: 42 rxLev: -105
+$GPGGA,080140.436,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,28,64,182,12,30,62,006,18,01,49,099,,17,48,290,*7D
+$GPGSV,3,2,12,11,45,122,,07,37,021,,19,30,300,,13,22,257,*71
+$GPGSV,3,3,12,08,09,126,,15,04,229,,22,04,079,,03,00,061,*79
+$GPRMC,080140.436,V,,,,,,,110218,,,N*4A
+$GPGGA,080141.436,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 1018 bsic: 40 rxLev: -105 ber: 6.05 mcc: 208 mnc: 20 lac: 40 cellId: 3836
+3 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1005 1018
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1011 rxLev: -105
+$GPRMC,080141.436,V,,,,,,,110218,,,N*4B
+arfcn: 789 rxLev: -105
+arfcn: 547 rxLev: -106
+arfcn: 983 rxLev: -106
+arfcn: 90 rxLev: -106
+arfcn: 19 rxLev: -106
+arfcn: 666 rxLev: -106
+arfcn: 606 rxLev: -107
+arfcn: 1017 rxLev: -107
+arfcn: 545 rxLev: -107
+arfcn: 17 rxLev: -107
+$GPGGA,080142.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 22 rxLev: -107
+arfcn: 36 rxLev: -107
+$GPRMC,080142.435,V,,,,,,,110218,,,N*4B
+arfcn: 41 rxLev: -107
+arfcn: 45 rxLev: -107
+arfcn: 51 rxLev: -107
+arfcn: 44 rxLev: -107
+arfcn: 40 rxLev: -107
+arfcn: 38 rxLev: -107
+arfcn: 39 rxLev: -107
+arfcn: 982 rxLev: -107
+arfcn: 1023 rxLev: -107
+arfcn: 1015 rxLev: -107
+$GPGGA,080143.435,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1009 rxLev: -107
+arfcn: 861 rxLev: -107
+$GPRMC,080143.435,V,,,,,,,110218,,,N*4A
+arfcn: 609 rxLev: -108
+arfcn: 1010 rxLev: -108
+arfcn: 1019 rxLev: -108
+arfcn: 77 rxLev: -108
+arfcn: 79 rxLev: -108
+arfcn: 80 rxLev: -108
+arfcn: 114 rxLev: -108
+arfcn: 37 rxLev: -108
+$GPGGA,080144.435,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 31 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 32 rxLev: -108
+$GPRMC,080144.435,V,,,,,,,110218,,,N*4D
+arfcn: 25 rxLev: -108
+arfcn: 29 rxLev: -108
+arfcn: 46 rxLev: -108
+arfcn: 47 rxLev: -108
+arfcn: 48 rxLev: -108
+arfcn: 50 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,09:01:45+04"
+Survey duration: 40 seconds, 11 bases detected over 161 freqs scanned.
+$GPGGA,080145.435,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,62,006,17,28,64,182,,01,49,099,,17,48,290,*71
+$GPGSV,3,2,12,11,45,122,,07,37,021,,19,30,300,,13,22,257,*71
+$GPGSV,3,3,12,08,09,126,,15,04,229,,22,04,079,,03,00,061,*79
+$GPRMC,080145.435,V,,,,,,,110218,,,N*4C
+$GPGGA,080146.435,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080146.435,V,,,,,,,110218,,,N*4F
+$GPGGA,080147.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/11,09:01:48+04"
+at#csurv
+Network survey started ...
+$GPRMC,080147.436,V,,,,,,,110218,,,N*4D
+$GPGGA,080148.436,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080148.436,V,,,,,,,110218,,,N*42
+$GPGGA,080149.435,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080149.435,V,,,,,,,110218,,,N*40
+$GPGGA,080150.435,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,64,302,17,01,65,120,,11,53,142,,07,50,350,*7A
+$GPGSV,3,2,12,28,47,201,,17,30,266,,22,23,071,,03,19,051,*7E
+$GPGSV,3,3,12,08,17,125,,19,16,279,,13,03,245,,06,01,327,*72
+$GPRMC,080150.435,V,,,,,,,110218,,,N*48
+$GPGGA,080151.435,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080151.435,V,,,,,,,110218,,,N*49
+$GPGGA,080152.435,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080152.435,V,,,,,,,110218,,,N*4A
+$GPGGA,080153.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080153.435,V,,,,,,,110218,,,N*4B
+arfcn: 12 bsic: 38 rxLev: -70 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080154.435,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080154.435,V,,,,,,,110218,,,N*4C
+$GPGGA,080155.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,07,74,030,12,28,27,187,14,30,76,213,17,01,38,139,*7D
+$GPGSV,3,2,12,17,37,246,,19,29,268,,11,26,148,,06,25,330,*7E
+$GPGSV,3,3,12,09,21,357,,03,20,069,,22,15,088,,23,05,026,*7B
+$GPRMC,080155.436,V,,,,,,,110218,,,N*4E
+arfcn: 87 bsic: 26 rxLev: -84 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+arfcn: 13 rxLev: -88
+$GPGGA,080156.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080156.436,V,,,,,,,110218,,,N*4D
+$GPGGA,080157.436,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080157.436,V,,,,,,,110218,,,N*4C
+arfcn: 10 bsic: 30 rxLev: -88 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080158.435,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080158.435,V,,,,,,,110218,,,N*40
+$GPGGA,080159.435,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080159.435,V,,,,,,,110218,,,N*41
+arfcn: 7 bsic: 33 rxLev: -88 ber: 0.01 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 11 rxLev: -89
+arfcn: 977 bsic: 54 rxLev: -92 ber: 0.01 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+$GPGGA,080200.435,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,07,54,018,13,30,79,335,17,01,49,120,,28,46,187,*72
+$GPGSV,3,2,12,17,44,266,,11,39,137,,19,30,283,,13,13,247,*73
+$GPGSV,3,3,12,22,11,081,,03,11,062,,06,11,336,,08,04,129,*72
+$GPRMC,080200.435,V,,,,,,,110218,,,N*4E
+$GPGGA,080201.435,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080201.435,V,,,,,,,110218,,,N*4F
+arfcn: 984 bsic: 51 rxLev: -92 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 124 rxLev: -94
+arfcn: 120 rxLev: -98
+arfcn: 70 rxLev: -98
+$GPGGA,080202.435,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080202.435,V,,,,,,,110218,,,N*4C
+arfcn: 1016 bsic: 18 rxLev: -98 ber: 0.03 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 69 rxLev: -99
+arfcn: 54 rxLev: -99
+arfcn: 55 rxLev: -99
+arfcn: 56 rxLev: -99
+arfcn: 57 rxLev: -99
+arfcn: 58 rxLev: -99
+$GPGGA,080203.435,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 59 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 61 rxLev: -99
+$GPRMC,080203.435,V,,,,,,,110218,,,N*4D
+arfcn: 53 rxLev: -99
+arfcn: 68 rxLev: -99
+arfcn: 67 rxLev: -99
+arfcn: 65 rxLev: -99
+arfcn: 9 rxLev: -99
+arfcn: 64 rxLev: -100
+arfcn: 62 rxLev: -100
+arfcn: 66 rxLev: -100
+arfcn: 71 rxLev: -100
+arfcn: 60 rxLev: -100
+$GPGGA,080204.435,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 980 rxLev: -100
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080204.435,V,,,,,,,110218,,,N*4A
+arfcn: 985 rxLev: -100
+$GPGGA,080205.430,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 82 bsic: 27 rxLev: -100 ber: 0.01 mcc: 208 mnc: 10 lac: 30510 cellId: 228
+50 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+arfcn: 75 rxLev: -100
+$GPGSV,3,1,12,30,79,335,16,07,54,018,,01,49,120,,28,46,187,*71
+arfcn: 63 rxLev: -100
+arfcn: 4 rxLev: -100
+$GPGSV,3,2,12,17,44,266,,11,39,137,,19,30,283,,13,13,247,*73
+arfcn: 8 rxLev: -101
+arfcn: 978 rxLev: -101
+$GPGSV,3,3,12,22,11,081,,03,11,062,,06,11,336,,08,04,129,*72
+arfcn: 1006 rxLev: -101
+$GPRMC,080205.430,V,,,,,,,110218,,,N*4E
+arfcn: 1008 rxLev: -101
+arfcn: 1007 rxLev: -101
+arfcn: 1005 rxLev: -101
+arfcn: 1002 rxLev: -101
+arfcn: 86 rxLev: -101
+$GPGGA,080206.435,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 88 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 91 rxLev: -101
+$GPRMC,080206.435,V,,,,,,,110218,,,N*48
+arfcn: 92 rxLev: -101
+arfcn: 100 rxLev: -101
+arfcn: 6 rxLev: -101
+arfcn: 72 rxLev: -101
+arfcn: 52 rxLev: -101
+arfcn: 45 rxLev: -102
+arfcn: 95 rxLev: -102
+arfcn: 96 rxLev: -102
+arfcn: 98 rxLev: -102
+$GPGGA,080207.435,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1001 rxLev: -102
+$GPRMC,080207.435,V,,,,,,,110218,,,N*49
+arfcn: 1003 rxLev: -102
+arfcn: 1004 rxLev: -102
+arfcn: 999 rxLev: -102
+arfcn: 1000 rxLev: -102
+arfcn: 996 rxLev: -102
+arfcn: 981 rxLev: -102
+arfcn: 123 rxLev: -102
+arfcn: 997 rxLev: -102
+arfcn: 998 rxLev: -102
+arfcn: 97 rxLev: -102
+$GPGGA,080208.435,,,,,0,00,,,M,0.0,M,,0000*56
+arfcn: 94 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 14 rxLev: -102
+$GPRMC,080208.435,V,,,,,,,110218,,,N*46
+arfcn: 15 rxLev: -103
+arfcn: 93 rxLev: -103
+arfcn: 99 rxLev: -103
+arfcn: 101 rxLev: -103
+arfcn: 107 rxLev: -103
+arfcn: 116 rxLev: -103
+arfcn: 995 rxLev: -103
+arfcn: 994 rxLev: -103
+arfcn: 976 rxLev: -103
+$GPGGA,080209.432,,,,,0,00,,,M,0.0,M,,0000*50
+arfcn: 109 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080209.432,V,,,,,,,110218,,,N*40
+arfcn: 111 rxLev: -103
+arfcn: 102 rxLev: -103
+arfcn: 44 rxLev: -103
+$GPGGA,080210.435,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,01,64,120,13,30,64,302,16,11,53,142,,07,50,350,*78
+$GPGSV,3,2,12,28,47,201,,17,30,266,,22,23,071,,03,20,051,*74
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 3.01 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 669 rxLev: -103
+$GPGSV,3,3,12,08,17,125,,19,16,279,,13,03,245,,06,01,327,*72
+arfcn: 73 rxLev: -104
+$GPRMC,080210.435,V,,,,,,,110218,,,N*4F
+arfcn: 103 rxLev: -104
+arfcn: 104 rxLev: -104
+arfcn: 105 rxLev: -104
+arfcn: 121 rxLev: -104
+arfcn: 993 rxLev: -104
+$GPGGA,080211.435,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 991 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 992 rxLev: -104
+$GPRMC,080211.435,V,,,,,,,110218,,,N*4E
+arfcn: 122 rxLev: -104
+arfcn: 108 rxLev: -104
+arfcn: 1018 rxLev: -104
+arfcn: 106 rxLev: -105
+arfcn: 89 rxLev: -105
+arfcn: 975 rxLev: -105
+arfcn: 990 rxLev: -105
+arfcn: 28 rxLev: -105
+$GPGGA,080212.435,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 2 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 3 rxLev: -105
+$GPRMC,080212.435,V,,,,,,,110218,,,N*4D
+arfcn: 1 rxLev: -105
+arfcn: 5 rxLev: -105
+arfcn: 26 rxLev: -105
+arfcn: 979 rxLev: -105
+arfcn: 983 rxLev: -105
+arfcn: 1020 rxLev: -105
+arfcn: 789 rxLev: -105
+arfcn: 549 rxLev: -105
+arfcn: 1011 rxLev: -106
+arfcn: 988 rxLev: -106
+$GPGGA,080213.432,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 119 rxLev: -106
+$GPRMC,080213.432,V,,,,,,,110218,,,N*4B
+arfcn: 16 rxLev: -106
+arfcn: 76 rxLev: -106
+arfcn: 74 rxLev: -106
+arfcn: 0 rxLev: -106
+arfcn: 90 rxLev: -106
+arfcn: 606 rxLev: -106
+arfcn: 666 rxLev: -106
+arfcn: 1023 rxLev: -107
+arfcn: 1009 rxLev: -107
+$GPGGA,080214.432,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 1017 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1015 rxLev: -107
+$GPRMC,080214.432,V,,,,,,,110218,,,N*4C
+arfcn: 17 rxLev: -107
+arfcn: 51 rxLev: -107
+arfcn: 46 rxLev: -107
+arfcn: 47 rxLev: -107
+arfcn: 49 rxLev: -107
+arfcn: 50 rxLev: -107
+arfcn: 77 rxLev: -107
+arfcn: 21 rxLev: -107
+arfcn: 30 rxLev: -107
+arfcn: 42 rxLev: -107
+$GPGGA,080215.435,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 43 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 40 rxLev: -107
+arfcn: 79 rxLev: -107
+$GPGSV,3,1,12,17,49,273,13,30,75,004,16,28,51,183,,07,48,024,*7C
+arfcn: 987 rxLev: -107
+$GPGSV,3,2,12,01,46,114,,11,39,133,,19,34,289,,13,18,250,*77
+arfcn: 982 rxLev: -107
+$GPGSV,3,3,12,06,09,340,,22,07,082,,03,05,064,,08,03,129,*7A
+arfcn: 609 rxLev: -107
+$GPRMC,080215.435,V,,,,,,,110218,,,N*4A
+arfcn: 861 rxLev: -108
+arfcn: 1019 rxLev: -108
+arfcn: 1021 rxLev: -108
+arfcn: 1022 rxLev: -108
+arfcn: 1010 rxLev: -108
+$GPGGA,080216.435,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 989 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 114 rxLev: -108
+$GPRMC,080216.435,V,,,,,,,110218,,,N*49
+arfcn: 41 rxLev: -108
+arfcn: 38 rxLev: -108
+arfcn: 39 rxLev: -108
+arfcn: 29 rxLev: -108
+arfcn: 25 rxLev: -108
+arfcn: 48 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,09:02:17+04"
+Survey duration: 29 seconds, 9 bases detected over 159 freqs scanned.
+$GPGGA,080217.432,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080217.432,V,,,,,,,110218,,,N*4F
+$GPGGA,080218.432,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080218.432,V,,,,,,,110218,,,N*40
+$PSRF156,23,1,0*09
+$GPGGA,080219.435,,,,,0,00,,,M,0.0,M,,0000*56
+Survey start at #CCLK: "18/02/11,09:02:20+04"
+at#csurv
+Network survey started ...
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080219.435,V,,,,,,,110218,,,N*46
+$GPGGA,080220.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,17,49,273,12,22,07,082,13,30,75,004,16,28,51,182,*7E
+$GPGSV,3,2,12,07,48,024,,01,46,114,,11,39,133,,19,34,289,*76
+$GPGSV,3,3,12,13,18,250,,06,09,340,,03,06,064,,08,03,129,*78
+$GPRMC,080220.436,V,,,,,,,110218,,,N*4F
+$GPGGA,080221.436,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080221.436,V,,,,,,,110218,,,N*4E
+$GPGGA,080222.436,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080222.436,V,,,,,,,110218,,,N*4D
+$GPGGA,080223.435,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080223.435,V,,,,,,,110218,,,N*4F
+$GPGGA,080224.436,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080224.436,V,,,,,,,110218,,,N*4B
+$GPGGA,080225.435,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,22,19,082,12,30,76,276,15,07,63,004,,01,50,132,*7E
+$GPGSV,3,2,12,11,38,146,,28,38,191,,17,36,257,,19,24,275,*76
+$GPGSV,3,3,12,03,20,061,,06,13,330,,09,10,354,,08,05,129,*75
+$GPRMC,080225.435,V,,,,,,,110218,,,N*49
+arfcn: 12 bsic: 38 rxLev: -70 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080226.435,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080226.435,V,,,,,,,110218,,,N*4A
+$GPGGA,080227.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080227.435,V,,,,,,,110218,,,N*4B
+arfcn: 87 bsic: 26 rxLev: -84 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+arfcn: 13 rxLev: -87
+$GPGGA,080228.435,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080228.435,V,,,,,,,110218,,,N*44
+$GPGGA,080229.436,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080229.436,V,,,,,,,110218,,,N*46
+arfcn: 10 bsic: 30 rxLev: -87 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080230.435,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,76,276,15,07,63,004,,01,50,132,,11,38,146,*77
+$GPGSV,3,2,12,28,38,191,,17,36,257,,19,24,275,,03,20,061,*78
+$GPGSV,3,3,12,22,19,082,,06,13,330,,09,10,354,,08,05,129,*71
+$GPRMC,080230.435,V,,,,,,,110218,,,N*4D
+$GPGGA,080231.435,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080231.435,V,,,,,,,110218,,,N*4C
+arfcn: 7 bsic: 33 rxLev: -88 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 11 rxLev: -90
+$GPGGA,080232.435,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080232.435,V,,,,,,,110218,,,N*4F
+$GPGGA,080233.435,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080233.435,V,,,,,,,110218,,,N*4E
+arfcn: 984 bsic: 51 rxLev: -90 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 977 bsic: 54 rxLev: -92 ber: 0.02 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+arfcn: 124 rxLev: -94
+arfcn: 70 rxLev: -98
+$GPGGA,080234.435,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080234.435,V,,,,,,,110218,,,N*49
+arfcn: 1016 bsic: 18 rxLev: -98 ber: 0.04 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 69 rxLev: -98
+arfcn: 68 rxLev: -99
+arfcn: 54 rxLev: -99
+arfcn: 55 rxLev: -99
+arfcn: 61 rxLev: -99
+arfcn: 120 rxLev: -99
+$GPGGA,080235.435,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 58 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 53 rxLev: -99
+$GPGSV,3,1,12,30,76,276,08,07,63,004,,01,50,132,,11,38,146,*7B
+arfcn: 67 rxLev: -99
+arfcn: 66 rxLev: -99
+$GPGSV,3,2,12,28,38,191,,17,36,257,,19,24,275,,03,20,061,*78
+arfcn: 71 rxLev: -99
+arfcn: 65 rxLev: -100
+$GPGSV,3,3,12,22,19,082,,06,13,330,,09,10,354,,08,05,129,*71
+arfcn: 64 rxLev: -100
+$GPRMC,080235.435,V,,,,,,,110218,,,N*48
+arfcn: 57 rxLev: -100
+arfcn: 56 rxLev: -100
+arfcn: 62 rxLev: -100
+arfcn: 60 rxLev: -100
+arfcn: 9 rxLev: -100
+$GPGGA,080236.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080236.435,V,,,,,,,110218,,,N*4B
+arfcn: 980 bsic: 40 rxLev: -100 ber: 0.10 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+$GPGGA,080237.435,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 978 rxLev: -100
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1006 rxLev: -100
+$GPRMC,080237.435,V,,,,,,,110218,,,N*4A
+arfcn: 91 rxLev: -100
+arfcn: 92 rxLev: -100
+arfcn: 100 rxLev: -100
+$GPGGA,080238.435,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080238.435,V,,,,,,,110218,,,N*45
+$GPGGA,080239.435,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080239.435,V,,,,,,,110218,,,N*44
+arfcn: 4 rxLev: -100
+arfcn: 59 rxLev: -100
+arfcn: 63 rxLev: -100
+arfcn: 75 rxLev: -100
+arfcn: 1008 rxLev: -100
+arfcn: 72 rxLev: -101
+$GPGGA,080240.435,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 6 rxLev: -101
+arfcn: 93 rxLev: -101
+$GPGSV,3,1,12,30,76,276,12,07,63,004,,01,50,132,,11,38,146,*70
+arfcn: 95 rxLev: -101
+arfcn: 88 rxLev: -101
+$GPGSV,3,2,12,28,38,191,,17,36,257,,19,24,275,,03,20,061,*78
+$GPGSV,3,3,12,22,19,082,,06,13,330,,09,10,354,,08,05,129,*71
+$GPRMC,080240.435,V,,,,,,,110218,,,N*4A
+$GPGGA,080241.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080241.435,V,,,,,,,110218,,,N*4B
+$GPGGA,080242.435,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080242.435,V,,,,,,,110218,,,N*48
+arfcn: 82 bsic: 27 rxLev: -101 ber: 0.04 mcc: 208 mnc: 10 lac: 30510 cellId: 228
+50 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+arfcn: 1005 rxLev: -101
+arfcn: 1002 rxLev: -101
+$GPGGA,080243.435,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 985 rxLev: -101
+$GPRMC,080243.435,V,,,,,,,110218,,,N*49
+arfcn: 981 rxLev: -101
+arfcn: 976 rxLev: -101
+arfcn: 999 rxLev: -101
+arfcn: 1004 rxLev: -101
+arfcn: 86 rxLev: -101
+arfcn: 96 rxLev: -101
+arfcn: 94 rxLev: -101
+arfcn: 98 rxLev: -101
+arfcn: 1007 rxLev: -101
+arfcn: 97 rxLev: -102
+$GPGGA,080244.435,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 99 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 101 rxLev: -102
+$GPRMC,080244.435,V,,,,,,,110218,,,N*4E
+arfcn: 1000 rxLev: -102
+arfcn: 1001 rxLev: -102
+arfcn: 996 rxLev: -102
+arfcn: 997 rxLev: -102
+arfcn: 8 rxLev: -102
+arfcn: 14 rxLev: -102
+arfcn: 52 rxLev: -102
+arfcn: 998 rxLev: -102
+arfcn: 995 rxLev: -102
+arfcn: 994 rxLev: -102
+$GPGGA,080245.430,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 1003 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,76,276,12,07,63,004,,01,50,132,,11,38,146,*70
+arfcn: 993 rxLev: -103
+arfcn: 123 rxLev: -103
+$GPGSV,3,2,12,28,38,191,,17,36,257,,19,24,275,,03,20,061,*78
+arfcn: 102 rxLev: -103
+arfcn: 109 rxLev: -103
+$GPGSV,3,3,12,22,19,082,,06,13,330,,09,10,354,,08,05,129,*71
+arfcn: 3 rxLev: -103
+$GPRMC,080245.430,V,,,,,,,110218,,,N*4A
+arfcn: 116 rxLev: -103
+arfcn: 104 rxLev: -103
+arfcn: 991 rxLev: -103
+$GPGGA,080246.435,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080246.435,V,,,,,,,110218,,,N*4C
+$GPGGA,080247.435,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080247.435,V,,,,,,,110218,,,N*4D
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 8.11 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 1018 rxLev: -103
+arfcn: 669 rxLev: -103
+arfcn: 992 rxLev: -104
+arfcn: 975 rxLev: -104
+$GPGGA,080248.430,,,,,0,00,,,M,0.0,M,,0000*57
+arfcn: 990 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 103 rxLev: -104
+$GPRMC,080248.430,V,,,,,,,110218,,,N*47
+arfcn: 107 rxLev: -104
+arfcn: 111 rxLev: -104
+arfcn: 121 rxLev: -104
+arfcn: 105 rxLev: -104
+arfcn: 122 rxLev: -104
+arfcn: 2 rxLev: -104
+arfcn: 5 rxLev: -104
+arfcn: 73 rxLev: -104
+arfcn: 1017 rxLev: -104
+arfcn: 1011 rxLev: -105
+$GPGGA,080249.435,,,,,0,00,,,M,0.0,M,,0000*53
+arfcn: 1020 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 549 rxLev: -105
+$GPRMC,080249.435,V,,,,,,,110218,,,N*43
+arfcn: 789 rxLev: -105
+arfcn: 15 rxLev: -105
+arfcn: 979 rxLev: -105
+arfcn: 106 rxLev: -105
+$GPGGA,080250.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,76,276,10,07,63,004,,01,50,132,,11,38,146,*72
+$GPGSV,3,2,12,28,38,191,,17,36,257,,19,24,275,,03,20,061,*78
+$GPGSV,3,3,12,22,19,082,,06,13,330,,09,10,354,,08,05,129,*71
+$GPRMC,080250.435,V,,,,,,,110218,,,N*4B
+$GPGGA,080251.435,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080251.435,V,,,,,,,110218,,,N*4A
+$GPGGA,080252.435,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080252.435,V,,,,,,,110218,,,N*49
+$GPGGA,080253.430,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080253.430,V,,,,,,,110218,,,N*4D
+$GPGGA,080254.435,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080254.435,V,,,,,,,110218,,,N*4F
+$GPGGA,080255.435,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 119 rxLev: -105
+arfcn: 1 rxLev: -105
+$GPGSV,3,1,12,30,76,276,11,07,63,004,,01,50,132,,11,38,146,*73
+arfcn: 16 rxLev: -106
+arfcn: 74 rxLev: -106
+$GPGSV,3,2,12,28,38,191,,17,36,257,,19,24,275,,03,20,061,*78
+arfcn: 48 rxLev: -106
+$GPGSV,3,3,12,22,19,082,,06,13,330,,09,10,354,,08,05,129,*71
+arfcn: 108 rxLev: -106
+arfcn: 983 rxLev: -106
+$GPRMC,080255.435,V,,,,,,,110218,,,N*4E
+arfcn: 666 rxLev: -106
+arfcn: 1009 rxLev: -106
+$GPGGA,080256.435,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 114 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 89 rxLev: -107
+$GPRMC,080256.435,V,,,,,,,110218,,,N*4D
+arfcn: 90 rxLev: -107
+arfcn: 988 rxLev: -107
+arfcn: 47 rxLev: -107
+arfcn: 41 rxLev: -107
+arfcn: 45 rxLev: -107
+arfcn: 46 rxLev: -107
+arfcn: 44 rxLev: -107
+arfcn: 42 rxLev: -107
+arfcn: 39 rxLev: -107
+arfcn: 40 rxLev: -107
+$GPGGA,080257.430,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 0 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 51 rxLev: -107
+$GPRMC,080257.430,V,,,,,,,110218,,,N*49
+arfcn: 76 rxLev: -107
+arfcn: 77 rxLev: -107
+arfcn: 79 rxLev: -107
+arfcn: 1015 rxLev: -107
+arfcn: 609 rxLev: -107
+arfcn: 1022 rxLev: -107
+arfcn: 1019 rxLev: -107
+arfcn: 620 rxLev: -107
+$GPGGA,080258.435,,,,,0,00,,,M,0.0,M,,0000*53
+arfcn: 617 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 861 rxLev: -108
+$GPRMC,080258.435,V,,,,,,,110218,,,N*43
+arfcn: 1021 rxLev: -108
+arfcn: 1023 rxLev: -108
+arfcn: 49 rxLev: -108
+arfcn: 50 rxLev: -108
+arfcn: 43 rxLev: -108
+arfcn: 17 rxLev: -108
+arfcn: 18 rxLev: -108
+arfcn: 19 rxLev: -108
+arfcn: 20 rxLev: -108
+arfcn: 27 rxLev: -108
+$GPGGA,080259.435,,,,,0,00,,,M,0.0,M,,0000*52
+arfcn: 37 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 38 rxLev: -108
+$GPRMC,080259.435,V,,,,,,,110218,,,N*42
+arfcn: 989 rxLev: -108
+arfcn: 118 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,09:03:00+04"
+Survey duration: 40 seconds, 10 bases detected over 158 freqs scanned.
+$GPGGA,080300.434,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,04,00,000,14,30,76,276,09,07,63,004,,01,50,132,*73
+$GPGSV,3,2,12,11,38,146,,28,38,191,,17,36,257,,19,24,275,*76
+$GPGSV,3,3,12,03,20,061,,22,19,082,,06,13,330,,09,10,354,*70
+$GPRMC,080300.434,V,,,,,,,110218,,,N*4E
+$GPGGA,080301.435,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080301.435,V,,,,,,,110218,,,N*4E
+Survey start at #CCLK: "18/02/11,09:03:02+04"
+at#csurv
+Network survey started ...
+$GPGGA,080302.434,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080302.434,V,,,,,,,110218,,,N*4C
+$GPGGA,080303.436,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080303.436,V,,,,,,,110218,,,N*4F
+$GPGGA,080304.436,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080304.436,V,,,,,,,110218,,,N*48
+$GPGGA,080305.436,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,17,36,257,14,30,76,276,07,07,63,004,,01,50,132,*7A
+$GPGSV,3,2,12,11,38,146,,28,38,191,,19,24,275,,03,20,061,*73
+$GPGSV,3,3,12,22,19,082,,06,13,330,,09,10,354,,08,05,129,*71
+$GPRMC,080305.436,V,,,,,,,110218,,,N*49
+$GPGGA,080306.430,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080306.430,V,,,,,,,110218,,,N*4C
+$GPGGA,080307.430,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080307.430,V,,,,,,,110218,,,N*4D
+arfcn: 12 bsic: 38 rxLev: -67 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080308.446,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080308.446,V,,,,,,,110218,,,N*43
+$GPGGA,080309.443,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 87 bsic: 26 rxLev: -83 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+$GPRMC,080309.443,V,,,,,,,110218,,,N*47
+arfcn: 13 rxLev: -85
+$GPGGA,080310.444,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,76,276,04,07,63,004,,01,50,132,,11,38,146,*77
+$GPGSV,3,2,12,28,38,191,,17,36,257,,19,24,275,,03,20,061,*78
+$GPGSV,3,3,12,22,19,082,,06,13,330,,09,10,354,,08,05,129,*71
+$GPRMC,080310.444,V,,,,,,,110218,,,N*48
+arfcn: 7 bsic: 33 rxLev: -85 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+$GPGGA,080311.430,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080311.430,V,,,,,,,110218,,,N*4A
+$GPGGA,080312.430,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080312.430,V,,,,,,,110218,,,N*49
+$GPGGA,080313.431,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080313.431,V,,,,,,,110218,,,N*49
+$GPGGA,080314.431,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080314.431,V,,,,,,,110218,,,N*4E
+arfcn: 10 bsic: 30 rxLev: -86 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+arfcn: 11 rxLev: -87
+$GPGGA,080315.430,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,23,327,12,28,67,291,,11,63,033,,01,50,017,*79
+$GPGSV,3,2,12,08,37,086,,10,23,148,,57,17,115,,17,17,288,*77
+$GPGSV,3,3,12,15,12,221,,13,10,253,,22,07,043,,07,05,344,*7A
+$GPRMC,080315.430,V,,,,,,,110218,,,N*4E
+$GPGGA,080316.430,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080316.430,V,,,,,,,110218,,,N*4D
+arfcn: 984 bsic: 51 rxLev: -92 ber: 0.01 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 977 bsic: 54 rxLev: -93 ber: 0.04 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+arfcn: 124 rxLev: -94
+arfcn: 61 rxLev: -97
+arfcn: 69 rxLev: -98
+$GPGGA,080317.430,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 9 rxLev: -98
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 62 rxLev: -98
+$GPRMC,080317.430,V,,,,,,,110218,,,N*4C
+arfcn: 70 rxLev: -98
+arfcn: 60 rxLev: -98
+arfcn: 59 rxLev: -99
+arfcn: 54 rxLev: -99
+arfcn: 56 rxLev: -99
+arfcn: 64 rxLev: -99
+arfcn: 65 rxLev: -99
+arfcn: 68 rxLev: -99
+arfcn: 66 rxLev: -99
+arfcn: 67 rxLev: -99
+$GPGGA,080318.430,,,,,0,00,,,M,0.0,M,,0000*53
+arfcn: 63 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 71 rxLev: -99
+$GPRMC,080318.430,V,,,,,,,110218,,,N*43
+arfcn: 57 rxLev: -99
+arfcn: 55 rxLev: -99
+arfcn: 58 rxLev: -99
+arfcn: 53 rxLev: -99
+$GPGGA,080319.430,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080319.430,V,,,,,,,110218,,,N*42
+arfcn: 1016 bsic: 18 rxLev: -99 ber: 0.02 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 75 rxLev: -100
+arfcn: 8 rxLev: -100
+$GPGGA,080320.430,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,14,00,000,12,30,23,327,14,28,67,291,,11,63,033,*7B
+$GPGSV,3,2,12,01,50,017,,08,37,086,,10,23,148,,57,17,115,*77
+$GPGSV,3,3,12,17,17,288,,15,12,221,,13,10,253,,22,07,043,*79
+$GPRMC,080320.430,V,,,,,,,110218,,,N*48
+$GPGGA,080321.430,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080321.430,V,,,,,,,110218,,,N*49
+$GPGGA,080322.430,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080322.430,V,,,,,,,110218,,,N*4A
+arfcn: 82 bsic: 27 rxLev: -100 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 228
+50 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+arfcn: 100 rxLev: -100
+arfcn: 120 rxLev: -100
+arfcn: 91 rxLev: -100
+arfcn: 92 rxLev: -100
+arfcn: 985 rxLev: -100
+$GPGGA,080323.430,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080323.430,V,,,,,,,110218,,,N*4B
+arfcn: 980 bsic: 40 rxLev: -100 ber: 1.07 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+$GPGGA,080324.430,,,,,0,00,,,M,0.0,M,,0000*5C
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1002 rxLev: -100
+arfcn: 4 rxLev: -100
+$GPRMC,080324.430,V,,,,,,,110218,,,N*4C
+arfcn: 22 rxLev: -100
+arfcn: 45 rxLev: -100
+arfcn: 6 rxLev: -101
+arfcn: 1000 rxLev: -101
+arfcn: 1001 rxLev: -101
+arfcn: 1007 rxLev: -101
+arfcn: 999 rxLev: -101
+arfcn: 981 rxLev: -101
+arfcn: 88 rxLev: -101
+$GPGGA,080325.430,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 98 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 93 rxLev: -101
+arfcn: 94 rxLev: -101
+$GPGSV,3,1,12,30,11,262,16,22,67,353,,08,54,146,,01,49,234,*7D
+arfcn: 95 rxLev: -101
+$GPGSV,3,2,12,03,46,342,,11,46,211,,27,34,094,,57,27,118,*7F
+arfcn: 96 rxLev: -101
+$GPGSV,3,3,12,16,23,026,,07,15,287,,28,13,216,,14,10,082,*75
+arfcn: 1008 rxLev: -101
+$GPRMC,080325.430,V,,,,,,,110218,,,N*4D
+arfcn: 97 rxLev: -101
+arfcn: 99 rxLev: -101
+arfcn: 998 rxLev: -101
+arfcn: 997 rxLev: -101
+arfcn: 1006 rxLev: -101
+$GPGGA,080326.430,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 1004 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1005 rxLev: -101
+$GPRMC,080326.430,V,,,,,,,110218,,,N*4E
+arfcn: 1003 rxLev: -101
+arfcn: 52 rxLev: -101
+arfcn: 72 rxLev: -102
+arfcn: 19 rxLev: -102
+arfcn: 996 rxLev: -102
+arfcn: 101 rxLev: -102
+arfcn: 102 rxLev: -102
+arfcn: 109 rxLev: -102
+arfcn: 995 rxLev: -102
+arfcn: 123 rxLev: -102
+$GPGGA,080327.430,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 976 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 978 rxLev: -102
+$GPRMC,080327.430,V,,,,,,,110218,,,N*4F
+arfcn: 994 rxLev: -103
+arfcn: 993 rxLev: -103
+arfcn: 116 rxLev: -103
+arfcn: 103 rxLev: -103
+arfcn: 104 rxLev: -103
+arfcn: 105 rxLev: -103
+arfcn: 107 rxLev: -103
+arfcn: 86 rxLev: -103
+arfcn: 14 rxLev: -103
+$GPGGA,080328.431,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 5 rxLev: -103
+$GPRMC,080328.431,V,,,,,,,110218,,,N*41
+arfcn: 23 rxLev: -103
+arfcn: 992 rxLev: -103
+arfcn: 991 rxLev: -103
+$GPGGA,080329.431,,,,,0,00,,,M,0.0,M,,0000*50
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080329.431,V,,,,,,,110218,,,N*40
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 2.07 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 669 rxLev: -103
+arfcn: 990 rxLev: -104
+arfcn: 975 rxLev: -104
+arfcn: 111 rxLev: -104
+arfcn: 3 rxLev: -104
+$GPGGA,080330.430,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 15 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 46 rxLev: -104
+$GPGSV,3,1,12,30,00,000,16,15,57,007,,24,49,310,,18,41,282,*70
+arfcn: 73 rxLev: -104
+arfcn: 76 rxLev: -104
+$GPGSV,3,2,12,10,35,236,,28,34,127,,13,34,048,,20,15,336,*7B
+arfcn: 1 rxLev: -104
+arfcn: 16 rxLev: -104
+$GPGSV,3,3,12,11,14,155,,17,13,079,,57,10,224,,08,06,190,*75
+$GPRMC,080330.430,V,,,,,,,110218,,,N*49
+arfcn: 121 rxLev: -104
+$GPGGA,080331.430,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080331.430,V,,,,,,,110218,,,N*48
+$GPGGA,080332.430,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080332.430,V,,,,,,,110218,,,N*4B
+arfcn: 1018 bsic: 40 rxLev: -104 ber: 4.09 mcc: 208 mnc: 20 lac: 40 cellId: 3836
+3 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1005 1018
+arfcn: 549 rxLev: -105
+arfcn: 789 rxLev: -105
+arfcn: 106 rxLev: -105
+arfcn: 108 rxLev: -105
+$GPGGA,080333.430,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 122 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 21 rxLev: -105
+$GPRMC,080333.430,V,,,,,,,110218,,,N*4A
+arfcn: 1009 rxLev: -105
+$GPGGA,080334.430,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080334.430,V,,,,,,,110218,,,N*4D
+$GPGGA,080335.430,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,00,000,17,15,57,007,,24,49,310,,18,41,282,*71
+$GPGSV,3,2,12,10,35,236,,28,34,127,,13,34,048,,20,15,336,*7B
+$GPGSV,3,3,12,11,14,155,,17,13,079,,57,10,224,,08,06,190,*75
+arfcn: 1011 rxLev: -106
+$GPRMC,080335.430,V,,,,,,,110218,,,N*4C
+arfcn: 1020 rxLev: -106
+arfcn: 2 rxLev: -106
+arfcn: 983 rxLev: -106
+$GPGGA,080336.430,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 979 rxLev: -106
+arfcn: 18 rxLev: -106
+$GPRMC,080336.430,V,,,,,,,110218,,,N*4F
+arfcn: 44 rxLev: -106
+arfcn: 47 rxLev: -106
+arfcn: 605 rxLev: -106
+arfcn: 1017 rxLev: -106
+arfcn: 666 rxLev: -106
+arfcn: 607 rxLev: -107
+arfcn: 48 rxLev: -107
+arfcn: 74 rxLev: -107
+arfcn: 42 rxLev: -107
+arfcn: 43 rxLev: -107
+$GPGGA,080337.430,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 41 rxLev: -107
+$GPRMC,080337.430,V,,,,,,,110218,,,N*4E
+arfcn: 0 rxLev: -107
+arfcn: 119 rxLev: -107
+arfcn: 114 rxLev: -107
+arfcn: 90 rxLev: -107
+arfcn: 20 rxLev: -107
+arfcn: 51 rxLev: -107
+arfcn: 609 rxLev: -107
+arfcn: 619 rxLev: -108
+arfcn: 546 rxLev: -108
+arfcn: 1022 rxLev: -108
+$GPGGA,080338.430,,,,,0,00,,,M,0.0,M,,0000*51
+arfcn: 1019 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080338.430,V,,,,,,,110218,,,N*41
+arfcn: 1015 rxLev: -108
+arfcn: 1010 rxLev: -108
+arfcn: 50 rxLev: -108
+arfcn: 49 rxLev: -108
+arfcn: 77 rxLev: -108
+arfcn: 28 rxLev: -108
+arfcn: 40 rxLev: -108
+arfcn: 36 rxLev: -108
+arfcn: 38 rxLev: -108
+$GPGGA,080339.430,,,,,0,00,,,M,0.0,M,,0000*50
+arfcn: 79 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 118 rxLev: -108
+$GPRMC,080339.430,V,,,,,,,110218,,,N*40
+arfcn: 982 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,09:03:40+04"
+Survey duration: 37 seconds, 11 bases detected over 158 freqs scanned.
+$GPGGA,080340.430,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,00,000,17,15,57,007,,24,49,310,,18,41,282,*71
+$GPGSV,3,2,12,10,35,236,,28,34,127,,13,34,048,,20,15,336,*7B
+$GPGSV,3,3,12,11,14,155,,17,13,079,,57,10,224,,08,06,190,*75
+$GPRMC,080340.430,V,,,,,,,110218,,,N*4E
+$GPGGA,080341.430,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080341.430,V,,,,,,,110218,,,N*4F
+Survey start at #CCLK: "18/02/11,09:03:42+04"
+at#csurv
+Network survey started ...
+$GPGGA,080342.430,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080342.430,V,,,,,,,110218,,,N*4C
+$GPGGA,080343.435,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080343.435,V,,,,,,,110218,,,N*48
+$GPGGA,080344.435,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080344.435,V,,,,,,,110218,,,N*4F
+$GPGGA,080345.435,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,24,49,310,12,30,00,000,17,15,57,007,,18,41,282,*72
+$GPGSV,3,2,12,10,35,236,,28,34,127,,13,34,048,,20,15,336,*7B
+$GPGSV,3,3,12,11,14,155,,17,13,079,,57,10,224,,08,06,190,*75
+$GPRMC,080345.435,V,,,,,,,110218,,,N*4E
+$GPGGA,080346.435,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080346.435,V,,,,,,,110218,,,N*4D
+$GPGGA,080347.435,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080347.435,V,,,,,,,110218,,,N*4C
+$GPGGA,080348.435,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080348.435,V,,,,,,,110218,,,N*43
+arfcn: 12 bsic: 38 rxLev: -71 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080349.435,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080349.435,V,,,,,,,110218,,,N*42
+$GPGGA,080350.430,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,24,12,234,12,28,69,096,12,30,29,041,17,17,43,353,*7D
+$GPGSV,3,2,12,13,41,301,,11,35,110,,15,33,258,,01,28,094,*75
+$GPGSV,3,3,12,19,26,344,,10,08,186,,08,07,135,,07,05,045,*78
+arfcn: 87 bsic: 26 rxLev: -84 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+$GPRMC,080350.430,V,,,,,,,110218,,,N*4F
+$GPGGA,080351.435,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080351.435,V,,,,,,,110218,,,N*4B
+$GPGGA,080352.435,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080352.435,V,,,,,,,110218,,,N*48
+arfcn: 10 bsic: 30 rxLev: -88 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080353.435,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080353.435,V,,,,,,,110218,,,N*49
+$GPGGA,080354.435,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 7 bsic: 33 rxLev: -88 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+$GPRMC,080354.435,V,,,,,,,110218,,,N*4E
+ 28 29 43 44 45 46 47 48 49
+arfcn: 13 rxLev: -88
+arfcn: 11 rxLev: -90
+$GPGGA,080355.435,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,24,12,234,12,28,69,096,12,30,29,041,17,17,43,353,*7D
+$GPGSV,3,2,12,13,41,301,,11,35,110,,15,33,258,,01,28,094,*75
+$GPGSV,3,3,12,19,26,344,,10,08,186,,08,07,135,,07,05,045,*78
+$GPRMC,080355.435,V,,,,,,,110218,,,N*4F
+$GPGGA,080356.435,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 984 bsic: 51 rxLev: -93 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+$GPRMC,080356.435,V,,,,,,,110218,,,N*4C
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 977 bsic: 54 rxLev: -94 ber: 0.08 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+arfcn: 124 rxLev: -95
+arfcn: 54 rxLev: -98
+arfcn: 55 rxLev: -98
+arfcn: 61 rxLev: -98
+arfcn: 70 rxLev: -98
+arfcn: 56 rxLev: -99
+arfcn: 53 rxLev: -99
+arfcn: 9 rxLev: -99
+$GPGGA,080357.435,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080357.435,V,,,,,,,110218,,,N*4D
+arfcn: 1016 bsic: 18 rxLev: -99 ber: 0.07 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 58 rxLev: -99
+arfcn: 60 rxLev: -99
+arfcn: 62 rxLev: -99
+$GPGGA,080358.435,,,,,0,00,,,M,0.0,M,,0000*52
+arfcn: 69 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 64 rxLev: -99
+$GPRMC,080358.435,V,,,,,,,110218,,,N*42
+arfcn: 120 rxLev: -99
+arfcn: 978 rxLev: -100
+$GPGGA,080359.435,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080359.435,V,,,,,,,110218,,,N*43
+$GPGGA,080400.435,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,28,69,096,12,30,29,041,17,17,43,353,,13,41,301,*7B
+arfcn: 980 bsic: 40 rxLev: -100 ber: 7.02 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+arfcn: 65 rxLev: -100
+$GPGSV,3,2,12,11,35,110,,15,33,258,,01,28,094,,19,26,344,*7F
+arfcn: 66 rxLev: -100
+arfcn: 67 rxLev: -100
+$GPGSV,3,3,12,24,12,234,,10,08,186,,08,07,135,,07,05,045,*77
+arfcn: 68 rxLev: -100
+$GPRMC,080400.435,V,,,,,,,110218,,,N*48
+arfcn: 71 rxLev: -100
+arfcn: 59 rxLev: -100
+arfcn: 57 rxLev: -100
+arfcn: 63 rxLev: -100
+arfcn: 75 rxLev: -100
+$GPGGA,080401.430,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 6 rxLev: -100
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080401.430,V,,,,,,,110218,,,N*4C
+arfcn: 981 rxLev: -100
+arfcn: 1002 rxLev: -100
+arfcn: 1005 rxLev: -100
+arfcn: 1006 rxLev: -100
+arfcn: 91 rxLev: -100
+arfcn: 92 rxLev: -100
+arfcn: 100 rxLev: -100
+arfcn: 95 rxLev: -101
+arfcn: 96 rxLev: -101
+$GPGGA,080402.430,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 93 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 94 rxLev: -101
+$GPRMC,080402.430,V,,,,,,,110218,,,N*4F
+arfcn: 1007 rxLev: -101
+arfcn: 1008 rxLev: -101
+arfcn: 1001 rxLev: -101
+arfcn: 1004 rxLev: -101
+arfcn: 1000 rxLev: -101
+arfcn: 979 rxLev: -101
+arfcn: 72 rxLev: -101
+arfcn: 52 rxLev: -101
+$GPGGA,080403.430,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080403.430,V,,,,,,,110218,,,N*4E
+$GPGGA,080404.430,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080404.430,V,,,,,,,110218,,,N*49
+$GPGGA,080405.430,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,29,041,17,28,69,096,,17,43,353,,13,41,301,*78
+$GPGSV,3,2,12,11,35,110,,15,33,258,,01,28,094,,19,26,344,*7F
+$GPGSV,3,3,12,24,12,234,,10,08,186,,08,07,135,,07,05,045,*77
+arfcn: 82 bsic: 27 rxLev: -101 ber: 0.01 mcc: 208 mnc: 10 lac: 30510 cellId: 228
+50 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+$GPRMC,080405.430,V,,,,,,,110218,,,N*48
+arfcn: 999 rxLev: -101
+arfcn: 996 rxLev: -101
+arfcn: 1003 rxLev: -101
+arfcn: 86 rxLev: -101
+$GPGGA,080406.430,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 88 rxLev: -101
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 97 rxLev: -101
+$GPRMC,080406.430,V,,,,,,,110218,,,N*4B
+arfcn: 98 rxLev: -101
+arfcn: 102 rxLev: -102
+arfcn: 997 rxLev: -102
+arfcn: 998 rxLev: -102
+arfcn: 985 rxLev: -102
+arfcn: 4 rxLev: -102
+arfcn: 8 rxLev: -102
+arfcn: 995 rxLev: -102
+arfcn: 994 rxLev: -102
+arfcn: 101 rxLev: -102
+$GPGGA,080407.430,,,,,0,00,,,M,0.0,M,,0000*5A
+arfcn: 99 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 109 rxLev: -102
+$GPRMC,080407.430,V,,,,,,,110218,,,N*4A
+arfcn: 111 rxLev: -103
+arfcn: 105 rxLev: -103
+arfcn: 116 rxLev: -103
+arfcn: 123 rxLev: -103
+arfcn: 976 rxLev: -103
+arfcn: 606 rxLev: -103
+$GPGGA,080408.430,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080408.430,V,,,,,,,110218,,,N*45
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 4.11 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 975 rxLev: -103
+arfcn: 990 rxLev: -103
+arfcn: 993 rxLev: -103
+arfcn: 103 rxLev: -103
+arfcn: 107 rxLev: -103
+$GPGGA,080409.430,,,,,0,00,,,M,0.0,M,,0000*54
+arfcn: 16 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 23 rxLev: -104
+$GPRMC,080409.430,V,,,,,,,110218,,,N*44
+arfcn: 14 rxLev: -104
+arfcn: 15 rxLev: -104
+arfcn: 5 rxLev: -104
+arfcn: 104 rxLev: -104
+arfcn: 991 rxLev: -104
+arfcn: 992 rxLev: -104
+$GPGGA,080410.430,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,29,041,17,28,69,096,,17,43,353,,13,41,301,*78
+$GPGSV,3,2,12,11,35,110,,15,33,258,,01,28,094,,19,26,344,*7F
+$GPGSV,3,3,12,24,12,234,,10,08,186,,08,07,135,,07,05,045,*77
+$GPRMC,080410.430,V,,,,,,,110218,,,N*4C
+$GPGGA,080411.430,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080411.430,V,,,,,,,110218,,,N*4D
+$GPGGA,080412.430,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080412.430,V,,,,,,,110218,,,N*4E
+$GPGGA,080413.431,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080413.431,V,,,,,,,110218,,,N*4E
+$GPGGA,080414.430,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080414.430,V,,,,,,,110218,,,N*48
+$GPGGA,080415.430,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,29,041,17,28,69,096,,17,43,353,,13,41,301,*78
+$GPGSV,3,2,12,11,35,110,,15,33,258,,01,28,094,,19,26,344,*7F
+arfcn: 1018 rxLev: -104
+arfcn: 669 rxLev: -104
+$GPGSV,3,3,12,24,12,234,,10,08,186,,08,07,135,,07,05,045,*77
+arfcn: 549 rxLev: -105
+$GPRMC,080415.430,V,,,,,,,110218,,,N*49
+arfcn: 73 rxLev: -105
+arfcn: 3 rxLev: -105
+arfcn: 17 rxLev: -105
+arfcn: 108 rxLev: -105
+arfcn: 106 rxLev: -106
+$GPGGA,080416.430,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 121 rxLev: -106
+$GPRMC,080416.430,V,,,,,,,110218,,,N*4A
+arfcn: 122 rxLev: -106
+arfcn: 1 rxLev: -106
+arfcn: 1020 rxLev: -106
+arfcn: 1023 rxLev: -106
+arfcn: 1017 rxLev: -106
+arfcn: 789 rxLev: -106
+arfcn: 0 rxLev: -106
+arfcn: 2 rxLev: -106
+$GPGGA,080417.430,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 19 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 42 rxLev: -106
+$GPRMC,080417.430,V,,,,,,,110218,,,N*4B
+arfcn: 46 rxLev: -106
+arfcn: 18 rxLev: -107
+arfcn: 76 rxLev: -107
+arfcn: 51 rxLev: -107
+arfcn: 90 rxLev: -107
+arfcn: 983 rxLev: -107
+arfcn: 786 rxLev: -107
+arfcn: 1009 rxLev: -107
+arfcn: 1011 rxLev: -107
+arfcn: 1015 rxLev: -107
+$GPGGA,080418.430,,,,,0,00,,,M,0.0,M,,0000*54
+arfcn: 1019 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 545 rxLev: -107
+$GPRMC,080418.430,V,,,,,,,110218,,,N*44
+arfcn: 861 rxLev: -107
+arfcn: 982 rxLev: -107
+arfcn: 74 rxLev: -107
+arfcn: 45 rxLev: -107
+arfcn: 43 rxLev: -107
+arfcn: 44 rxLev: -108
+arfcn: 41 rxLev: -108
+arfcn: 38 rxLev: -108
+arfcn: 40 rxLev: -108
+$GPGGA,080419.430,,,,,0,00,,,M,0.0,M,,0000*55
+arfcn: 29 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 36 rxLev: -108
+$GPRMC,080419.430,V,,,,,,,110218,,,N*45
+arfcn: 37 rxLev: -108
+arfcn: 77 rxLev: -108
+arfcn: 79 rxLev: -108
+arfcn: 50 rxLev: -108
+arfcn: 48 rxLev: -108
+arfcn: 49 rxLev: -108
+arfcn: 119 rxLev: -108
+arfcn: 118 rxLev: -108
+arfcn: 114 rxLev: -108
+arfcn: 115 rxLev: -108
+$GPGGA,080420.430,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 621 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 622 rxLev: -108
+arfcn: 609 rxLev: -108
+$GPGSV,3,1,12,30,29,041,17,28,69,096,,17,43,353,,13,41,301,*78
+arfcn: 1022 rxLev: -108
+$GPGSV,3,2,12,11,35,110,,15,33,258,,01,28,094,,19,26,344,*7F
+arfcn: 1021 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,09:04:21+04"
+Survey duration: 38 seconds, 10 bases detected over 158 freqs scanned.
+$GPGSV,3,3,12,24,12,234,,10,08,186,,08,07,135,,07,05,045,*77
+$GPRMC,080420.430,V,,,,,,,110218,,,N*4F
+$GPGGA,080421.430,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080421.430,V,,,,,,,110218,,,N*4E
+$GPGGA,080422.430,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080422.430,V,,,,,,,110218,,,N*4D
+$GPGGA,080423.430,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080423.430,V,,,,,,,110218,,,N*4C
+Survey start at #CCLK: "18/02/11,09:04:24+04"
+at#csurv
+Network survey started ...
+$GPGGA,080424.430,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080424.430,V,,,,,,,110218,,,N*4B
+$GPGGA,080425.430,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,29,041,17,28,69,096,,17,43,353,,13,41,301,*78
+$GPGSV,3,2,12,11,35,110,,15,33,258,,01,28,094,,19,26,344,*7F
+$GPGSV,3,3,12,24,12,234,,10,08,186,,08,07,135,,07,05,045,*77
+$GPRMC,080425.430,V,,,,,,,110218,,,N*4A
+$GPGGA,080426.430,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080426.430,V,,,,,,,110218,,,N*49
+$GPGGA,080427.430,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080427.430,V,,,,,,,110218,,,N*48
+$GPGGA,080428.430,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080428.430,V,,,,,,,110218,,,N*47
+$GPGGA,080429.430,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080429.430,V,,,,,,,110218,,,N*46
+arfcn: 12 bsic: 38 rxLev: -72 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080430.430,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,29,041,17,28,69,096,,17,43,353,,13,41,301,*78
+$GPGSV,3,2,12,11,35,110,,15,33,258,,01,28,094,,19,26,344,*7F
+$GPGSV,3,3,12,24,12,234,,10,08,186,,08,07,135,,07,05,045,*77
+$GPRMC,080430.430,V,,,,,,,110218,,,N*4E
+$GPGGA,080431.430,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080431.430,V,,,,,,,110218,,,N*4F
+arfcn: 87 bsic: 26 rxLev: -84 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+$GPGGA,080432.430,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080432.430,V,,,,,,,110218,,,N*4C
+$GPGGA,080433.430,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080433.430,V,,,,,,,110218,,,N*4D
+arfcn: 7 bsic: 33 rxLev: -87 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+$GPGGA,080434.430,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080434.430,V,,,,,,,110218,,,N*4A
+$GPGGA,080435.430,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,12,30,29,041,17,28,69,096,,17,43,353,,13,41,301,*78
+$GPGSV,3,2,12,11,35,110,,15,33,258,,01,28,094,,19,26,344,*7F
+$GPGSV,3,3,12,24,12,234,,10,08,186,,08,07,135,,07,05,045,*77
+arfcn: 10 bsic: 30 rxLev: -88 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+$GPRMC,080435.430,V,,,,,,,110218,,,N*4B
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+arfcn: 13 rxLev: -89
+arfcn: 11 rxLev: -92
+arfcn: 977 bsic: 54 rxLev: -94 ber: 0.02 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+arfcn: 124 rxLev: -95
+arfcn: 54 rxLev: -97
+$GPGGA,080436.430,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 53 rxLev: -98
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 61 rxLev: -98
+$GPRMC,080436.430,V,,,,,,,110218,,,N*48
+arfcn: 70 rxLev: -98
+$GPGGA,080437.430,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080437.430,V,,,,,,,110218,,,N*49
+arfcn: 1016 bsic: 18 rxLev: -98 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 1004 rxLev: -98
+arfcn: 1005 rxLev: -98
+arfcn: 1007 rxLev: -98
+arfcn: 69 rxLev: -98
+arfcn: 64 rxLev: -98
+arfcn: 65 rxLev: -98
+arfcn: 55 rxLev: -98
+$GPGGA,080438.430,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080438.430,V,,,,,,,110218,,,N*46
+$GPGGA,080439.430,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080439.430,V,,,,,,,110218,,,N*47
+arfcn: 984 bsic: 51 rxLev: -98 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 1002 rxLev: -98
+arfcn: 1001 rxLev: -99
+arfcn: 999 rxLev: -99
+arfcn: 1000 rxLev: -99
+arfcn: 998 rxLev: -99
+$GPGGA,080440.430,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 56 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 57 rxLev: -99
+arfcn: 48 rxLev: -99
+$GPGSV,3,1,12,30,29,041,17,28,69,096,,17,43,353,,13,41,301,*78
+arfcn: 60 rxLev: -99
+$GPGSV,3,2,12,11,35,110,,15,33,258,,01,28,094,,19,26,344,*7F
+arfcn: 58 rxLev: -99
+arfcn: 59 rxLev: -99
+$GPGSV,3,3,12,24,12,234,,10,08,186,,08,07,135,,07,05,045,*77
+arfcn: 68 rxLev: -99
+$GPRMC,080440.430,V,,,,,,,110218,,,N*49
+arfcn: 67 rxLev: -99
+arfcn: 71 rxLev: -99
+arfcn: 1008 rxLev: -99
+arfcn: 1006 rxLev: -99
+arfcn: 1003 rxLev: -99
+$GPGGA,080441.430,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 66 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 62 rxLev: -99
+$GPRMC,080441.430,V,,,,,,,110218,,,N*48
+arfcn: 63 rxLev: -99
+arfcn: 997 rxLev: -99
+arfcn: 996 rxLev: -99
+arfcn: 120 rxLev: -99
+arfcn: 9 rxLev: -100
+arfcn: 4 rxLev: -100
+arfcn: 52 rxLev: -100
+$GPGGA,080442.430,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080442.430,V,,,,,,,110218,,,N*4B
+$GPGGA,080443.430,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 980 bsic: 40 rxLev: -100 ber: 3.08 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+$GPRMC,080443.430,V,,,,,,,110218,,,N*4A
+arfcn: 75 rxLev: -100
+$GPGGA,080444.430,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080444.430,V,,,,,,,110218,,,N*4D
+$GPGGA,080445.430,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,11,17,68,256,14,30,68,077,17,19,54,291,,07,43,053,*79
+$GPGSV,3,2,11,28,40,166,,13,31,248,,01,26,121,,06,21,353,*7E
+$GPGSV,3,3,11,11,20,135,,09,05,013,,15,03,230,*44
+$GPRMC,080445.430,V,,,,,,,110218,,,N*4C
+$GPGGA,080446.430,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080446.430,V,,,,,,,110218,,,N*4F
+$GPGGA,080447.430,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 82 bsic: 27 rxLev: -101 ber: 0.03 mcc: 208 mnc: 10 lac: 30510 cellId: 228
+50 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 88 rxLev: -101
+$GPRMC,080447.430,V,,,,,,,110218,,,N*4E
+arfcn: 995 rxLev: -101
+arfcn: 985 rxLev: -101
+arfcn: 45 rxLev: -101
+arfcn: 72 rxLev: -101
+arfcn: 6 rxLev: -101
+arfcn: 8 rxLev: -101
+arfcn: 994 rxLev: -101
+arfcn: 100 rxLev: -101
+arfcn: 92 rxLev: -102
+$GPGGA,080448.430,,,,,0,00,,,M,0.0,M,,0000*51
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 993 rxLev: -102
+$GPRMC,080448.430,V,,,,,,,110218,,,N*41
+arfcn: 978 rxLev: -102
+arfcn: 123 rxLev: -102
+arfcn: 15 rxLev: -102
+$GPGGA,080449.435,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080449.435,V,,,,,,,110218,,,N*45
+$GPGGA,080450.432,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,10,13,49,257,13,30,48,075,17,17,83,330,,19,62,330,*7D
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+$GPRMC,080450.432,V,,,,,,,110218,,,N*4A
+$GPGGA,080451.432,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080451.432,V,,,,,,,110218,,,N*4B
+arfcn: 981 rxLev: -102
+arfcn: 93 rxLev: -102
+arfcn: 95 rxLev: -102
+arfcn: 91 rxLev: -102
+arfcn: 86 rxLev: -102
+arfcn: 94 rxLev: -103
+arfcn: 96 rxLev: -103
+arfcn: 109 rxLev: -103
+arfcn: 116 rxLev: -103
+$GPGGA,080452.432,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 992 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 14 rxLev: -103
+$GPRMC,080452.432,V,,,,,,,110218,,,N*48
+arfcn: 21 rxLev: -103
+$GPGGA,080453.432,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080453.432,V,,,,,,,110218,,,N*49
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 1.06 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+arfcn: 669 rxLev: -103
+arfcn: 20 rxLev: -103
+arfcn: 73 rxLev: -103
+$GPGGA,080454.432,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 47 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 976 rxLev: -103
+$GPRMC,080454.432,V,,,,,,,110218,,,N*4E
+arfcn: 111 rxLev: -103
+arfcn: 97 rxLev: -103
+arfcn: 98 rxLev: -104
+arfcn: 99 rxLev: -104
+arfcn: 102 rxLev: -104
+arfcn: 975 rxLev: -104
+arfcn: 990 rxLev: -104
+arfcn: 101 rxLev: -104
+$GPGGA,080455.432,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 104 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 107 rxLev: -104
+arfcn: 5 rxLev: -104
+$GPGSV,3,1,10,13,49,257,12,30,48,075,17,17,83,330,,19,62,330,*7C
+arfcn: 549 rxLev: -104
+arfcn: 1018 rxLev: -104
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+arfcn: 22 rxLev: -105
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+arfcn: 105 rxLev: -105
+$GPRMC,080455.432,V,,,,,,,110218,,,N*4F
+arfcn: 103 rxLev: -105
+arfcn: 991 rxLev: -105
+arfcn: 122 rxLev: -105
+arfcn: 121 rxLev: -105
+arfcn: 25 rxLev: -105
+$GPGGA,080456.432,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 19 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 2 rxLev: -105
+$GPRMC,080456.432,V,,,,,,,110218,,,N*4C
+arfcn: 1009 rxLev: -105
+arfcn: 666 rxLev: -105
+arfcn: 789 rxLev: -105
+$GPGGA,080457.432,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080457.432,V,,,,,,,110218,,,N*4D
+$GPGGA,080458.432,,,,,0,00,,,M,0.0,M,,0000*52
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080458.432,V,,,,,,,110218,,,N*42
+$GPGGA,080459.432,,,,,0,00,,,M,0.0,M,,0000*53
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080459.432,V,,,,,,,110218,,,N*43
+arfcn: 1020 rxLev: -106
+arfcn: 16 rxLev: -106
+arfcn: 979 rxLev: -106
+arfcn: 74 rxLev: -106
+arfcn: 76 rxLev: -106
+arfcn: 18 rxLev: -106
+arfcn: 28 rxLev: -106
+arfcn: 3 rxLev: -106
+$GPGGA,080500.432,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 0 rxLev: -106
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1 rxLev: -106
+arfcn: 51 rxLev: -106
+$GPGSV,3,1,10,13,49,257,12,30,48,075,17,17,83,330,,19,62,330,*7C
+arfcn: 1023 rxLev: -106
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+arfcn: 1022 rxLev: -107
+arfcn: 609 rxLev: -107
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+arfcn: 1011 rxLev: -107
+$GPRMC,080500.432,V,,,,,,,110218,,,N*4E
+arfcn: 46 rxLev: -107
+arfcn: 26 rxLev: -107
+arfcn: 27 rxLev: -107
+arfcn: 17 rxLev: -107
+$GPGGA,080501.432,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 106 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 108 rxLev: -107
+$GPRMC,080501.432,V,,,,,,,110218,,,N*4F
+arfcn: 983 rxLev: -107
+arfcn: 119 rxLev: -107
+arfcn: 987 rxLev: -107
+arfcn: 77 rxLev: -107
+arfcn: 90 rxLev: -107
+arfcn: 89 rxLev: -107
+arfcn: 36 rxLev: -107
+arfcn: 41 rxLev: -107
+arfcn: 42 rxLev: -107
+arfcn: 43 rxLev: -107
+$GPGGA,080502.432,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 50 rxLev: -107
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1015 rxLev: -107
+$GPRMC,080502.432,V,,,,,,,110218,,,N*4C
+arfcn: 1019 rxLev: -107
+arfcn: 1017 rxLev: -107
+arfcn: 1010 rxLev: -107
+arfcn: 1021 rxLev: -108
+arfcn: 545 rxLev: -108
+arfcn: 861 rxLev: -108
+arfcn: 44 rxLev: -108
+arfcn: 37 rxLev: -108
+arfcn: 38 rxLev: -108
+$GPGGA,080503.432,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 39 rxLev: -108
+arfcn: 40 rxLev: -108
+$GPRMC,080503.432,V,,,,,,,110218,,,N*4D
+arfcn: 79 rxLev: -108
+arfcn: 989 rxLev: -108
+arfcn: 118 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,09:05:04+04"
+Survey duration: 39 seconds, 10 bases detected over 162 freqs scanned.
+$GPGGA,080504.432,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080504.432,V,,,,,,,110218,,,N*4A
+$GPGGA,080505.432,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/11,09:05:06+04"
+at#csurv
+Network survey started ...
+$GPGSV,3,1,10,13,49,257,12,30,48,075,18,17,83,330,,19,62,330,*73
+Survey end at #CCLK: "18/02/11,09:05:06+04"
+Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+$GPRMC,080505.432,V,,,,,,,110218,,,N*4B
+$GPGGA,080506.432,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080506.432,V,,,,,,,110218,,,N*48
+$GPGGA,080507.432,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+Survey start at #CCLK: "18/02/11,09:05:08+04"
+$GPRMC,080507.432,V,,,,,,,110218,,,N*49
+at#csurv
+Network survey started ...
+$GPGGA,080508.432,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080508.432,V,,,,,,,110218,,,N*46
+$GPGGA,080509.432,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080509.432,V,,,,,,,110218,,,N*47
+$GPGGA,080510.432,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,10,13,49,257,11,30,48,075,18,17,83,330,,19,62,330,*70
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+$GPRMC,080510.432,V,,,,,,,110218,,,N*4F
+$GPGGA,080511.432,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080511.432,V,,,,,,,110218,,,N*4E
+$GPGGA,080512.432,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080512.432,V,,,,,,,110218,,,N*4D
+$GPGGA,080513.432,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080513.432,V,,,,,,,110218,,,N*4C
+$GPGGA,080514.432,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080514.432,V,,,,,,,110218,,,N*4B
+$GPGGA,080515.432,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 12 bsic: 38 rxLev: -72 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9555 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 12 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGSV,3,1,10,13,49,257,12,30,48,075,17,17,83,330,,19,62,330,*7C
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+$GPRMC,080515.432,V,,,,,,,110218,,,N*4A
+$GPGGA,080516.432,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080516.432,V,,,,,,,110218,,,N*49
+$GPGGA,080517.432,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 87 bsic: 26 rxLev: -84 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 2285
+$GPRMC,080517.432,V,,,,,,,110218,,,N*48
+3 cellStatus: CELL_FORBIDDEN numArfcn: 2 arfcn: 87 89
+$GPGGA,080518.432,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080518.432,V,,,,,,,110218,,,N*47
+arfcn: 10 bsic: 30 rxLev: -88 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9553 
+cellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 10 17 18 19 20 21 22 23 24 25 26 
+27 28 29 43 44 45 46 47 48 49
+$GPGGA,080519.432,,,,,0,00,,,M,0.0,M,,0000*56
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080519.432,V,,,,,,,110218,,,N*46
+$GPGGA,080520.432,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,10,13,49,257,11,30,48,075,17,17,83,330,,19,62,330,*7F
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+$GPRMC,080520.432,V,,,,,,,110218,,,N*4C
+arfcn: 7 bsic: 33 rxLev: -88 ber: 0.00 mcc: 208 mnc: 01 lac: 9732 cellId: 9558 c
+ellStatus: CELL_FORBIDDEN numArfcn: 21 arfcn: 7 17 18 19 20 21 22 23 24 25 26 27
+ 28 29 43 44 45 46 47 48 49
+arfcn: 13 rxLev: -90
+arfcn: 11 rxLev: -92
+arfcn: 977 bsic: 54 rxLev: -94 ber: 0.07 mcc: 208 mnc: 20 lac: 423 cellId: 22835
+ cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 977 991 numChannels: 21 array: 975
+ 976 978 979 980 981 982 983 984 985 986 1011 1012 1014 1016 1017 1018 1019 1020
+ 1021 794
+$GPGGA,080521.432,,,,,0,00,,,M,0.0,M,,0000*5D
+arfcn: 124 rxLev: -95
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080521.432,V,,,,,,,110218,,,N*4D
+$GPGGA,080522.432,,,,,0,00,,,M,0.0,M,,0000*5E
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080522.432,V,,,,,,,110218,,,N*4E
+arfcn: 984 bsic: 51 rxLev: -96 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 22841
+ cellStatus: CELL_SUITABLE numArfcn: 3 arfcn: 984 988 1017
+arfcn: 55 rxLev: -97
+arfcn: 54 rxLev: -98
+$GPGGA,080523.432,,,,,0,00,,,M,0.0,M,,0000*5F
+arfcn: 53 rxLev: -98
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 70 rxLev: -98
+$GPRMC,080523.432,V,,,,,,,110218,,,N*4F
+arfcn: 25 rxLev: -98
+arfcn: 68 rxLev: -98
+arfcn: 61 rxLev: -98
+arfcn: 66 rxLev: -98
+arfcn: 58 rxLev: -98
+$GPGGA,080524.432,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080524.432,V,,,,,,,110218,,,N*48
+arfcn: 1016 bsic: 18 rxLev: -98 ber: 0.00 mcc: 208 mnc: 20 lac: 423 cellId: 2026
+1 cellStatus: CELL_SUITABLE numArfcn: 2 arfcn: 1010 1016
+arfcn: 57 rxLev: -99
+arfcn: 67 rxLev: -99
+arfcn: 64 rxLev: -99
+arfcn: 65 rxLev: -99
+arfcn: 60 rxLev: -99
+arfcn: 62 rxLev: -99
+arfcn: 69 rxLev: -99
+arfcn: 71 rxLev: -99
+$GPGGA,080525.432,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 63 rxLev: -99
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 56 rxLev: -99
+$GPGSV,3,1,10,13,49,257,11,30,48,075,17,17,83,330,,19,62,330,*7F
+arfcn: 59 rxLev: -99
+arfcn: 20 rxLev: -99
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+arfcn: 9 rxLev: -99
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+arfcn: 120 rxLev: -99
+$GPRMC,080525.432,V,,,,,,,110218,,,N*49
+arfcn: 75 rxLev: -100
+arfcn: 52 rxLev: -100
+arfcn: 47 rxLev: -101
+arfcn: 72 rxLev: -101
+arfcn: 6 rxLev: -101
+$GPGGA,080526.432,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080526.432,V,,,,,,,110218,,,N*4A
+arfcn: 985 bsic: 39 rxLev: -101 ber: 2.04 mcc: 208 mnc: 20 lac: 423 cellId: 2028
+2 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 985
+$GPGGA,080527.432,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080527.432,V,,,,,,,110218,,,N*4B
+$GPGGA,080528.432,,,,,0,00,,,M,0.0,M,,0000*54
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080528.432,V,,,,,,,110218,,,N*44
+$GPGGA,080529.432,,,,,0,00,,,M,0.0,M,,0000*55
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080529.432,V,,,,,,,110218,,,N*45
+$GPGGA,080530.432,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 980 bsic: 40 rxLev: -101 ber: 0.05 mcc: 208 mnc: 20 lac: 423 cellId: 2065
+7 cellStatus: CELL_OTHER numArfcn: 2 arfcn: 980 1015
+$GPGSV,3,1,10,13,49,257,11,30,48,075,17,17,83,330,,19,62,330,*7F
+arfcn: 1006 rxLev: -101
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+arfcn: 1005 rxLev: -101
+arfcn: 1003 rxLev: -101
+$GPRMC,080530.432,V,,,,,,,110218,,,N*4D
+arfcn: 1000 rxLev: -101
+arfcn: 1001 rxLev: -101
+arfcn: 1002 rxLev: -101
+arfcn: 998 rxLev: -101
+arfcn: 88 rxLev: -101
+$GPGGA,080531.432,,,,,0,00,,,M,0.0,M,,0000*5C
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080531.432,V,,,,,,,110218,,,N*4C
+$GPGGA,080532.432,,,,,0,00,,,M,0.0,M,,0000*5F
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080532.432,V,,,,,,,110218,,,N*4F
+arfcn: 82 bsic: 27 rxLev: -101 ber: 0.00 mcc: 208 mnc: 10 lac: 30510 cellId: 228
+50 cellStatus: CELL_FORBIDDEN numArfcn: 1 arfcn: 82
+arfcn: 91 rxLev: -101
+arfcn: 92 rxLev: -101
+arfcn: 4 rxLev: -101
+arfcn: 19 rxLev: -101
+arfcn: 1007 rxLev: -101
+arfcn: 1008 rxLev: -101
+arfcn: 100 rxLev: -102
+$GPGGA,080533.432,,,,,0,00,,,M,0.0,M,,0000*5E
+arfcn: 997 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 999 rxLev: -102
+$GPRMC,080533.432,V,,,,,,,110218,,,N*4E
+arfcn: 1004 rxLev: -102
+arfcn: 981 rxLev: -102
+arfcn: 978 rxLev: -102
+arfcn: 123 rxLev: -102
+arfcn: 996 rxLev: -102
+arfcn: 93 rxLev: -102
+arfcn: 94 rxLev: -102
+arfcn: 95 rxLev: -102
+arfcn: 98 rxLev: -102
+arfcn: 24 rxLev: -102
+$GPGGA,080534.432,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 8 rxLev: -102
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 50 rxLev: -102
+$GPRMC,080534.432,V,,,,,,,110218,,,N*49
+arfcn: 96 rxLev: -103
+arfcn: 109 rxLev: -103
+arfcn: 995 rxLev: -103
+arfcn: 994 rxLev: -103
+arfcn: 975 rxLev: -103
+arfcn: 976 rxLev: -103
+arfcn: 979 rxLev: -103
+arfcn: 116 rxLev: -103
+$GPGGA,080535.431,,,,,0,00,,,M,0.0,M,,0000*5B
+arfcn: 99 rxLev: -103
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 101 rxLev: -103
+arfcn: 104 rxLev: -103
+$GPGSV,3,1,10,13,49,257,11,30,48,075,17,17,83,330,,19,62,330,*7F
+arfcn: 97 rxLev: -103
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+arfcn: 86 rxLev: -103
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+arfcn: 2 rxLev: -103
+$GPRMC,080535.431,V,,,,,,,110218,,,N*4B
+arfcn: 3 rxLev: -103
+$GPGGA,080536.431,,,,,0,00,,,M,0.0,M,,0000*58
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080536.431,V,,,,,,,110218,,,N*48
+$GPGGA,080537.431,,,,,0,00,,,M,0.0,M,,0000*59
+arfcn: 1012 bsic: 15 rxLev: -103 ber: 2.04 mcc: 208 mnc: 20 lac: 423 cellId: 202
+60 cellStatus: CELL_OTHER numArfcn: 1 arfcn: 1012
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 669 rxLev: -103
+$GPRMC,080537.431,V,,,,,,,110218,,,N*49
+arfcn: 1017 rxLev: -104
+arfcn: 1 rxLev: -104
+arfcn: 73 rxLev: -104
+arfcn: 102 rxLev: -104
+arfcn: 111 rxLev: -104
+arfcn: 107 rxLev: -104
+arfcn: 15 rxLev: -104
+arfcn: 27 rxLev: -104
+arfcn: 549 rxLev: -104
+$GPGGA,080538.431,,,,,0,00,,,M,0.0,M,,0000*56
+arfcn: 789 rxLev: -104
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080538.431,V,,,,,,,110218,,,N*46
+$GPGGA,080539.431,,,,,0,00,,,M,0.0,M,,0000*57
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPRMC,080539.431,V,,,,,,,110218,,,N*47
+$GPGGA,080540.431,,,,,0,00,,,M,0.0,M,,0000*59
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,10,13,49,257,11,30,48,075,17,17,83,330,,19,62,330,*7F
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+$GPRMC,080540.431,V,,,,,,,110218,,,N*49
+arfcn: 1018 rxLev: -105
+arfcn: 14 rxLev: -105
+arfcn: 105 rxLev: -105
+arfcn: 122 rxLev: -105
+$GPGGA,080541.431,,,,,0,00,,,M,0.0,M,,0000*58
+arfcn: 121 rxLev: -105
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 993 rxLev: -105
+$GPRMC,080541.431,V,,,,,,,110218,,,N*48
+arfcn: 991 rxLev: -105
+arfcn: 992 rxLev: -105
+arfcn: 103 rxLev: -105
+arfcn: 0 rxLev: -105
+arfcn: 16 rxLev: -105
+arfcn: 44 rxLev: -105
+arfcn: 1020 rxLev: -105
+arfcn: 49 rxLev: -106
+arfcn: 17 rxLev: -106
+arfcn: 43 rxLev: -106
+$GPGGA,080542.431,,,,,0,00,,,M,0.0,M,,0000*5B
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 5 rxLev: -106
+$GPRMC,080542.431,V,,,,,,,110218,,,N*4B
+arfcn: 76 rxLev: -106
+arfcn: 990 rxLev: -106
+arfcn: 106 rxLev: -106
+arfcn: 51 rxLev: -106
+arfcn: 74 rxLev: -106
+arfcn: 1011 rxLev: -106
+arfcn: 546 rxLev: -107
+arfcn: 1022 rxLev: -107
+arfcn: 1023 rxLev: -107
+arfcn: 48 rxLev: -107
+$GPGGA,080543.431,,,,,0,00,,,M,0.0,M,,0000*5A
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 41 rxLev: -107
+$GPRMC,080543.431,V,,,,,,,110218,,,N*4A
+arfcn: 26 rxLev: -107
+arfcn: 18 rxLev: -107
+arfcn: 114 rxLev: -107
+arfcn: 119 rxLev: -107
+arfcn: 89 rxLev: -107
+arfcn: 983 rxLev: -107
+arfcn: 42 rxLev: -107
+arfcn: 45 rxLev: -107
+arfcn: 46 rxLev: -107
+arfcn: 1019 rxLev: -107
+$GPGGA,080544.431,,,,,0,00,,,M,0.0,M,,0000*5D
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+arfcn: 1009 rxLev: -107
+arfcn: 1015 rxLev: -107
+$GPRMC,080544.431,V,,,,,,,110218,,,N*4D
+arfcn: 666 rxLev: -107
+arfcn: 606 rxLev: -107
+arfcn: 605 rxLev: -108
+arfcn: 607 rxLev: -108
+arfcn: 609 rxLev: -108
+arfcn: 618 rxLev: -108
+arfcn: 786 rxLev: -108
+arfcn: 861 rxLev: -108
+arfcn: 1021 rxLev: -108
+arfcn: 40 rxLev: -108
+$GPGGA,080545.431,,,,,0,00,,,M,0.0,M,,0000*5C
+arfcn: 33 rxLev: -108
+$GPGSA,M,1,,,,,,,,,,,,,,,*12
+$GPGSV,3,1,10,13,49,257,11,30,48,075,17,17,83,330,,19,62,330,*7F
+arfcn: 39 rxLev: -108
+arfcn: 22 rxLev: -108
+$GPGSV,3,2,10,28,42,152,,07,25,060,,15,20,235,,01,17,118,*78
+arfcn: 77 rxLev: -108
+$GPGSV,3,3,10,11,14,132,,06,13,007,*7E
+arfcn: 79 rxLev: -108
+$GPRMC,080545.431,V,,,,,,,110218,,,N*4C
+arfcn: 118 rxLev: -108
+arfcn: 108 rxLev: -108
+Network survey ended
+Survey end at #CCLK: "18/02/11,09:05:46+04"
+Survey duration: 38 seconds, 11 bases detected over 162 freqs scanned.
