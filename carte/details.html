@@ -29,8 +29,8 @@
 
     
     <!-- Datas summary (GeoJSON) -->
-    
-    <script type="text/javascript" src="summary_db_json.js"></script>
+	
+	<script type="text/javascript" src="../DB/summary_db_json.js"></script>
 
 </head>    
     
@@ -50,7 +50,7 @@
 	</div>
 </nav>	
 	
-<div class="container">
+<div class="container-fluid">
 	
 	<div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><p></p></div>
@@ -67,10 +67,13 @@
 			<table id="table" class="table table-striped" data-search="true" data-show-columns="true">
 				<thead>
 					<tr>
+						<th data-field="mcc" data-sortable="true">MCC</th>
+						<th data-field="mnc" data-sortable="true">MNC</th>
+						<th data-field="lac" data-sortable="true">LAC</th>
 						<th data-field="cellid" data-sortable="true">CID</th>
-						<th data-field="first_time" data-sortable="true">Première apparition</th>
-						<th data-field="last_time" data-sortable="true">Dernière apparition</th>
-						<th data-field="arfcn_present" data-sortable="true">ARFCN Diffusé</th>
+						<th data-field="first_time" data-sortable="true">Premier relevé</th>
+						<th data-field="last_time" data-sortable="true">Dernier relevé</th>
+						<th data-field="arfcn_present" data-sortable="true">Fréquence Diffusée</th>
 						<th data-field="lac_present" data-sortable="true">LAC Réel</th>
 						<th data-field="constant_location" data-sortable="true">Localisation constante</th>
 						<th data-field="constant_parameters" data-sortable="true">Paramètres constants</th>

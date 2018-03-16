@@ -1,7 +1,7 @@
 #!/usr/bin/python3.6
 #-*- coding: utf-8 -*-
-    
-# Prendre chaque JSON de l'input et pour chacun, créer un nouveau objet JSON à ajouter à data_tmp.js au format GeoJSON.
+
+# For each JSON obbject from the input file, create a new GeoJSON object and append it to datas.js
 
 import os
 import json
@@ -27,13 +27,11 @@ db_final = db_final.drop_duplicates(subset='cellid')
 
 datas = db_final.to_dict(orient='records')
 
-# Initialization datas (output file)
+# Initialization datas var (output file)
 
 fo.write("var datas = [\n")
 
 # Loop to add GeoJSON (output file)
-
-Boucle pour remplir le fichier output avec les GeoJSON
 
 for i, elem in enumerate(datas, start=1):
 
@@ -65,7 +63,7 @@ for i, elem in enumerate(datas, start=1):
 		fo.write(tmp)
 		fo.write(",\n")
 
-# Close datas (output file)
+# Close datas var (output file)
 
 fo.write("];")
 
