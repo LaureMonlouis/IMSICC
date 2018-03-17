@@ -72,7 +72,7 @@ At the launch of the application, the map is automatically centred on Rennes.
 
 All data we gathered from now are around Rennes and Nantes.
 
-Data used for the map are stored in a file called `datas.js`, with the specific GeoJSON format. This file is generated from another file, `db_json` (`IMSICC/DB/db_json`), containing all information about collected BTS, thanks to the script `prepare-data.py` inside the repository `prepare_data/`.
+Data used for the map are stored in a file called `datas.js`, with the specific GeoJSON format. This file is generated from another file, `db_json` (`IMSICC/DB/db_json`), containing all information about collected BTS, thanks to the script `prepare-data.py` inside the repository `carte/prepare_data/`.
 
 Each GeoJSON object of this file corresponds to a different BTS with a unique CID. Here is an example of the GeoJSON representation of one BTS :
 
@@ -155,8 +155,11 @@ Here is an example of BTS characteristics after applying the detection rules :
     "constant_location": true,
     "constant_parameters": true,
     "first_time": "2017/12/29,16:10:53",
+    "lac": 6404,
     "lac_present": true,
     "last_time": "2017/12/29,16:13:40",
+    "mcc": 208,
+    "mnc": 1,
     "nb_arfcn": 1,
     "nb_bsic": 1,
     "nb_cellstatus": 0,
