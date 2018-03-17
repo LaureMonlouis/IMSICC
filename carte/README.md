@@ -59,7 +59,7 @@ The application proposes severald tabs for users  :
 * `Live` - this tab allows the user to do a dynamic analysis around his own position.
 * `Détails BTS` - this tab is `Analyse` tab related and displays informations on the complete set of BTS.
 
-All files related to this application can be found in the repository `IMSICC/carte/`.
+All files related to this application can be found in the directory `IMSICC/carte/`.
 
 ## ANALYSIS TAB
 
@@ -72,7 +72,7 @@ At the launch of the application, the map is automatically centred on Rennes.
 
 All data we gathered from now are around Rennes and Nantes.
 
-Data used for the map are stored in a file called `datas.js`, with the specific GeoJSON format. This file is generated from another file, `db_json` (`IMSICC/DB/db_json`), containing all information about collected BTS, thanks to the script `prepare-data.py` inside the repository `carte/prepare_data/`.
+Data used for the map are stored in a file called `datas.js`, with the specific GeoJSON format. This file is generated from another file, `db_json` (`IMSICC/DB/db_json`), containing all information about collected BTS, thanks to the script `prepare-data.py` inside the directory `carte/prepare_data/`.
 
 Each GeoJSON object of this file corresponds to a different BTS with a unique CID. Here is an example of the GeoJSON representation of one BTS :
 

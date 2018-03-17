@@ -1,7 +1,0 @@
-$GPGSA,M,1,,,,,,,,,,,,,,,*12
-$GPRMC,234131.498,V,,,,,,,080218,,,N*4D
-Survey start at #CCLK: "18/02/09,00:41:32+04"
-at#csurv
-Network survey started ...
-Survey end at #CCLK: "18/02/09,00:41:32+04"
-Survey duration: 0 seconds, 0 bases detected over 0 freqs scanned.

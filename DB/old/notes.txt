@@ -1,1 +1,0 @@
-- Build SQL: used tuto from Stanford CS145 Database course. Everything in int.:wq
