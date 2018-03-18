@@ -98,9 +98,9 @@ Each GeoJSON object of this file corresponds to a different BTS with a unique CI
 
 <!-- Attention à bien parler du score de chaque BTS avant justement ! -->
 
-The value of the attribute `properties.score` depends on the score assigned to each BTS. Indeed, if this score is higher than a specific threshold, then `properties.score` takes the value "invalide", and "valide" otherwise.
+The value of the attribute `properties.score` depends on the score assigned to each BTS. This anomaly score is calculated using detection rules. If this score is higher than a specific threshold, then `properties.score` takes the value "invalide", and "valide" otherwise.
 
-Moreover, the value of `properties.score` defines weither the color of the BTS will be black (`properties.score == "valide"`) or red (`properties.score == "invalide"`).
+Moreover, the value of `properties.score` defines whether the color of the BTS will be black (`properties.score == "valide"`) or red (`properties.score == "invalide"`).
 
 ### INTERACTING WITH THE MAP
 
