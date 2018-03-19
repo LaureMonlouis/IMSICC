@@ -9,7 +9,7 @@ var datas = [
         "mcc": 208,
         "mnc": 1,
         "rxlvl": -101,
-        "score": "invalide"
+        "score": "valide"
     },
     "geometry": {
         "type": "Point",
@@ -29,7 +29,7 @@ var datas = [
         "mcc": 208,
         "mnc": 20,
         "rxlvl": -103,
-        "score": "invalide"
+        "score": "valide"
     },
     "geometry": {
         "type": "Point",
@@ -49,7 +49,7 @@ var datas = [
         "mcc": 208,
         "mnc": 10,
         "rxlvl": -107,
-        "score": "invalide"
+        "score": "valide"
     },
     "geometry": {
         "type": "Point",

@@ -1,4 +1,4 @@
-# DELIVERABLE : DEV & USER GUIDE INTERFACE
+# DELIVERABLE : DEV & USER INTERFACE GUIDE 
 
 ## OBJECTIF
 
@@ -151,29 +151,23 @@ Here is an example of BTS characteristics after applying the detection rules :
 ```json
 {
     "arfcn_present": true,
-    "cellid": 869,
+    "cellid": 2041,
     "constant_location": true,
     "constant_parameters": true,
-    "first_time": "2017/12/29,16:10:53",
-    "lac": 6404,
+    "first_time": "2017/12/30,09:09:32",
+    "lac": 418,
     "lac_present": true,
-    "last_time": "2017/12/29,16:13:40",
+    "last_time": "2018/01/20,10:27:04",
     "mcc": 208,
-    "mnc": 1,
+    "mnc": 20,
     "nb_arfcn": 1,
-    "nb_bsic": 1,
-    "nb_cellstatus": 0,
-    "nb_lac": 1,
-    "nb_mcc": 1,
-    "nb_mnc": 1,
-    "nb_neighb": 4.0,
+    "nb_cellstatus": 1,
+    "nb_neighb": 15.0,
     "neighb_issue": "None"
 }
 ```
 
-<!-- "nb_cellstatus": 0 On le garde ? Sinon changer le chiffre dans le § suivant -->
-
-The seven first keys `arfcn_present`, `cellid`, `constant_location`, `constant_parameters`, `first_time`, `lac_present` and `last_time` are displayed in the map inset in the `Analyse` tab. Therefore, their meaning are explained in the paragraph *INTERACTING WITH THE MAP*. In addition, the eight remaining keys are helping values in case some previous keys has `false` as value.
+These for keys `mcc`, `mnc`, `lac`, `cellid` identify a unique BTS. The following keys `arfcn_present`, `constant_location`, `constant_parameters`, `first_time`, `lac_present` and `last_time` are displayed in the map inset in the `Analyse` tab. Therefore, their meaning are explained in the paragraph *INTERACTING WITH THE MAP*. In addition, the remaining keys are helping values in case some previous keys has `false` as value.
 
 ### TABLE
 
