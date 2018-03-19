@@ -7069,7 +7069,7 @@ var datas = [
         "mcc": 208,
         "mnc": 20,
         "rxlvl": -104,
-        "score": "valide"
+        "score": "invalide"
     },
     "geometry": {
         "type": "Point",

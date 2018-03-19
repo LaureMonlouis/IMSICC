@@ -72,7 +72,7 @@ At the launch of the application, the map is automatically centred on Rennes.
 
 All data we gathered from now are around Rennes and Nantes.
 
-Data used for the map are stored in a file called `datas.js`, with the specific GeoJSON format. This file is generated from another file, `db_json` (`IMSICC/db/db_json`), containing all information about collected BTS, thanks to the script `prepare-data.py` inside the directory `carte/prepare_data/`.
+Data used for the map are stored in a file called `datas.js`, with the specific GeoJSON format. This file is generated from another file, `db_json` (`IMSICC/DB/db_json`), containing all information about collected BTS, thanks to the script `prepare-data.py` inside the directory `carte/prepare_data/`.
 
 Each GeoJSON object of this file corresponds to a different BTS with a unique CID. Here is an example of the GeoJSON representation of one BTS :
 
@@ -142,7 +142,7 @@ The `Détails BTS` tab aims to present to users a whole set of BTS, e.g. all the
 
 ### DATA
 
-The displayed data come from the file `summary_db_json.js` (`IMSICC/db/summary_db_json`). Values of this file are the result of detection rules applied to raw data to evaluate whether the BTS is valid or invalid.
+The displayed data come from the file `summary_db_json.js` (`IMSICC/DB/summary_db_json`). Values of this file are the result of detection rules applied to raw data to evaluate whether the BTS is valid or invalid.
 
 <!-- Attention il faut avoir parlé des règles avant + rajouter un (cf. §...) -->
 

@@ -1,7 +1,0 @@
-#############INSTRUCTIONS##################
-
-- INSTRUCTIONS FOR creating the db_json (concatenate all raw data from pi)
-	- Run 1_build_database.py 
-	- Warning: only read out.txt files located in ../Data/raw_data 
-	- db will be saved in this directory under the path db_json
-

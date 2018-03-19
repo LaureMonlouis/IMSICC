@@ -227,7 +227,7 @@
 					filterBTS("", "", "", "");
 				});
 				
-				mymap.setView([48.112, -1.674], 13);
+				mymap.setView([48.106, -1.67639], 17);
 				
 				var fond = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw',
 				{
@@ -271,11 +271,11 @@
 
 				function zoomPop(e)
 				{
-					mymap.flyTo(e.target.getLatLng(), 15);
+					mymap.flyTo(e.target.getLatLng(), 17);
 					
 					var name = 'Plus d\'informations sur <b><a href="details.html">' + e.target.feature.properties.name + '</a></b>';
 					
-					var tmp = e.target.feature.geometry.coordinates[0] + 0.0008;
+					var tmp = e.target.feature.geometry.coordinates[0] + 0.00025;
 					
 					L.popup()
 						.setLatLng([tmp, e.target.feature.geometry.coordinates[1]])
@@ -419,12 +419,12 @@
 						 + summary_cell.last_time
 						 + '<br /><b>ARFCN Diffusé</b> : ' 
 						 + summary_cell.arfcn_present
-						 + '<br /><b>LAC Réel</b> : ' 
+						 + '<br /><b>LAC Normal</b> : ' 
 						 + summary_cell.lac_present
 						 + '<br /><b>Localisation constante</b> : ' 
 						 + summary_cell.constant_location
-						 + '<br /><b>Paramètres constants</b> : ' 
-						 + summary_cell.constant_parameters			 						 						 
+						 + '<br /><b>Liste voisins non vide</b> : ' 
+						 + summary_cell.check_neighb_adver			 						 						 
 						 + '<br/>'
 						 : '</h4>Survolez une Base Station');
 				};
