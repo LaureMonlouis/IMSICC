@@ -1,14 +1,5 @@
 # IMSI CATCHERS' CATCHER
 
-**TODO** :
-
-- [x] Hardware
-- [x] Software
-- [x] Deliverable
-- [ ] Report
-- [ ] Presentation slides
-
-
 ## OVERVIEW
 
 IMSI catchers, or stingrays, are electronic devices used to track and monitor mobile phone telecommunications. This project aims at building and testing our own IMSI catcher detector.
